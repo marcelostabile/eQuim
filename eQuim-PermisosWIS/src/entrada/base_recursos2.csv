@@ -1,0 +1,1528 @@
+1;ADMINISTRADOR;540;Acceso a croos docking;WREC170;grid1;btn;CroosDocking;Interno;S
+1;ADMINISTRADOR;557;Aceptar Diferencia Recepcion Nivel1;REC141;Aceptar;Diferencia;Nivel1;Interno;S
+1;ADMINISTRADOR;558;Aceptar Diferencia Recepcion Nivel2;REC141;Aceptar;Diferencia;Nivel2;Interno;S
+1;ADMINISTRADOR;335;Alta de pedidos en WPRE100;WPRE100;grid1;btn;AltaPedidos;Interno;S
+1;ADMINISTRADOR;544;Avance de pedidos;PRE660;Page;Access;AvancePedidos;Interno;S
+1;ADMINISTRADOR;564;Boton Prepara y Expedir WPRE090;WPRE090;grid1;btn;PrepararExpedir;Interno;S
+1;ADMINISTRADOR;457;Bot? de confirmar pedidos para desfacturar;WPRE510;Page;Access;BtnConfirmar;Interno;S
+1;ADMINISTRADOR;307;Btn Aceptar Todo;WFAC002;grid1;btn;AceptarTodo;Interno;S
+1;ADMINISTRADOR;314;Btn Aceptar o rechazar calculos;WFAC001;grid1;btn;AceptarRechazarCalculos;Interno;S
+1;ADMINISTRADOR;235;Btn Agregar Comentario Debug;GENERAL;DebugMenu;btn;Comment;Interno;S
+1;ADMINISTRADOR;8;Btn Agregar Usuario;WSEG030;grid1;btn;AgregarUsuario;Interno;S
+1;ADMINISTRADOR;5;Btn Agregar perfil;WSEG020;grid1;btn;AgregarPerfil;Interno;S
+1;ADMINISTRADOR;47;Btn Ajuste etiqueta;WREC170;grid1;btn;AjusteEtiqueta;Interno;S
+1;ADMINISTRADOR;233;Btn Alta Formulario WREC170;WREC170;grid1;btn;AltaFormlario;Interno;S
+1;ADMINISTRADOR;219;Btn Anular Documento;WCDO095;grid1;btn;AnularDocumento;Interno;S
+1;ADMINISTRADOR;312;Btn Armar Camion Entregas;WEXP040;grid1;btn;ArmarCamionEntrega;Interno;S
+1;ADMINISTRADOR;256;Btn Armar Cami? por Contenedores;WEXP040;grid1;btn;ArmarCamionCont;Interno;S
+1;ADMINISTRADOR;177;Btn Armar Egreso;WEXP040;grid1;btn;ArmarCamion;Interno;S
+1;ADMINISTRADOR;288;Btn Asignar Procesos;WFAC001;grid1;btn;AsignarProcesos;Interno;S
+1;ADMINISTRADOR;289;Btn Asignar Selecci?;WFAC010;grid1;btn;Asignar;Interno;S
+1;ADMINISTRADOR;290;Btn Asignar Todo;WFAC010;grid1;btn;AsignarTodo;Interno;S
+1;ADMINISTRADOR;464;Btn AsignarProcesos Prueba;WFACPRUEBA;grid1;btn;AsignarProcesos;Interno;S
+1;ADMINISTRADOR;303;Btn Calculos No Realizados Por Error;WFAC001;grid1;btn;CalculosNoRealizadosPorError;Interno;S
+1;ADMINISTRADOR;374;Btn Cancelar;WPRE410;grid1;btn;Cancelar;Interno;S
+1;ADMINISTRADOR;41;Btn Cancelar Agenda;WREC170;grid1;btn;CancelarAgenda;Interno;S
+1;ADMINISTRADOR;196;Btn Cancelar Inventario WINV410;WINV410;grid1;btn;CancelarInventario;Interno;S
+1;ADMINISTRADOR;88;Btn Capacidad de pallets;WREG605;grid1;btn;Pallets;Interno;S
+1;ADMINISTRADOR;443;Btn Cargar;WEXP013;grid1;btn;Cargar;Interno;S
+1;ADMINISTRADOR;263;Btn Cargar Cami?;WEXP010;grid1;btn;Cargar;Interno;S
+1;ADMINISTRADOR;259;Btn Cargar Cami?;WEXP011;grid1;btn;Cargar;Interno;S
+1;ADMINISTRADOR;264;Btn Cargar todo en Cami?;WEXP010;grid1;btn;CargarTodo;Interno;S
+1;ADMINISTRADOR;261;Btn Cargar todo en Cami?;WEXP011;grid1;btn;CargarTodo;Interno;S
+1;ADMINISTRADOR;444;Btn CargarTodo;WEXP013;grid1;btn;CargarTodo;Interno;S
+1;ADMINISTRADOR;44;Btn Cerrar Agenda;WREC170;grid1;btn;CerrarAgenda;Interno;S
+1;ADMINISTRADOR;152;Btn Cerrar Camion WEXP040;WEXP040;grid1;btn;CerrarCamion;Interno;S
+1;ADMINISTRADOR;195;Btn Cerrar Inventario WINV410;WINV410;grid1;btn;CerrarInventario;Interno;S
+1;ADMINISTRADOR;305;Btn Cerrar Orden;WORT030;grid1;btn;CerrarOrden;Interno;S
+1;ADMINISTRADOR;135;Btn Cerrar camion WEXP040;WEXP040;grid1;btn;DetallesCamion;Interno;S
+1;ADMINISTRADOR;309;Btn Con errores Todo;WFAC002;grid1;btn;ConErrTodo;Interno;S
+1;ADMINISTRADOR;339;Btn Consulta Preparaciones;WPRE220;grid1;btn;ConsultaPreparaciones;Interno;S
+1;ADMINISTRADOR;178;Btn Contenedores;WREC240;grid1;btn;ContenedoresCrossDocking;Interno;S
+1;ADMINISTRADOR;86;Btn Controles de calidad;WREG009;grid1;btn;ControlCalidad;Interno;S
+1;ADMINISTRADOR;78;Btn C?igos de barra;WREG009;grid1;btn;CodigoBarras;Interno;S
+1;ADMINISTRADOR;291;Btn Desasociar Todo;WFAC010;grid1;btn;DesasociarTodo;Interno;S
+1;ADMINISTRADOR;327;Btn Descargar;WCOF070;grid1;btn;Descargar;Interno;S
+1;ADMINISTRADOR;232;Btn Descargar Debug;GENERAL;DebugMenu;btn;Download;Interno;S
+1;ADMINISTRADOR;265;Btn Descargar todo el Cami?;WEXP010;grid1;btn;DescargarTodo;Interno;S
+1;ADMINISTRADOR;262;Btn Descargar todo el Cami?;WEXP011;grid1;btn;DescargarTodo;Interno;S
+1;ADMINISTRADOR;445;Btn DescargarTodo;WEXP013;grid1;btn;DescargarTodo;Interno;S
+1;ADMINISTRADOR;350;Btn Deseleccionar todo;WREC176;grid1;btn;DeseleccionarTodo;Interno;S
+1;ADMINISTRADOR;351;Btn Detalle Factura;WREC174;grid1;btn;DetalleFactura;Interno;S
+1;ADMINISTRADOR;352;Btn Detalle Funcionarios WORT040;WORT040;grid1;btn;Funcionarios;Interno;S
+1;ADMINISTRADOR;353;Btn Detalle Manipuleo Insumo WORT040;WORT040;grid1;btn;ManipuleosInsumos;Interno;S
+1;ADMINISTRADOR;35;Btn Detalles Agenda;WREC170;grid1;btn;DetallesAgenda;Interno;S
+1;ADMINISTRADOR;323;Btn Detalles Ejecucion;WFAC001;grid1;btn;DetallesEjecucion;Interno;S
+1;ADMINISTRADOR;201;Btn Distribuci? Pedidos;WREC170;grid1;btn;DistribucionPedidos;Interno;S
+1;ADMINISTRADOR;211;Btn Editar Preparacion;WPRE052;grid1;btn;EditarPreparacion;Interno;S
+1;ADMINISTRADOR;4;Btn Editar perfil;WSEG020;grid1;btn;EditarPerfil;Interno;S
+1;ADMINISTRADOR;37;Btn Etiquetas Producto;WREC171;grid1;btn;EtiquetasProducto;Interno;S
+1;ADMINISTRADOR;257;Btn Excluir cargas no preparadas;WEXP040;grid1;btn;ExcluirCargasNoPreparadas;Interno;S
+1;ADMINISTRADOR;344;Btn Factura desde referencia;WREC174;grid1;btn;FacturaDesdeReferencia;Interno;S
+1;ADMINISTRADOR;441;Btn Facturar;WEXP110;grid1;btn;Facturar;Interno;S
+1;ADMINISTRADOR;253;Btn Facturar Cami?;WEXP040;grid1;btn;FacturarCamion;Interno;S
+1;ADMINISTRADOR;318;Btn Funcionarios Orden;WORT030;grid1;btn;FuncionariosOrden;Interno;S
+1;ADMINISTRADOR;251;Btn Generar Reporte;WREC170;grid1;btn;GenerarReporte;Interno;S
+1;ADMINISTRADOR;329;Btn Generar Reportes;WEXP040;grid1;btn;GenerarReportes;Interno;S
+1;ADMINISTRADOR;52;Btn Generar etiquetas;WREC170;grid1;btn;GenerarEtiquetas;Interno;S
+1;ADMINISTRADOR;224;Btn Guardar Liberacion;WPRE051;grid1;btn;GuardarLibOnda;Interno;S
+1;ADMINISTRADOR;295;Btn Habilitar Ejecuci?;WFAC001;grid1;btn;HabilitarEjecucion;Interno;S
+1;ADMINISTRADOR;191;Btn HabilitarInventario WINV410;WINV410;grid1;btn;HabilitarInventario;Interno;S
+1;ADMINISTRADOR;42;Btn Ingresar Lineas Agenda;WREC170;grid1;btn;IngresarLineasAgenda;Interno;S
+1;ADMINISTRADOR;347;Btn Ingreso l?eas;WREC174;grid1;btn;IngresoLineas;Interno;S
+1;ADMINISTRADOR;230;Btn Iniciar Debug;GENERAL;DebugMenu;btn;Start;Interno;S
+1;ADMINISTRADOR;45;Btn Liberar diferencias;WREC170;grid1;btn;LiberarDiferencias;Interno;S
+1;ADMINISTRADOR;43;Btn Liberar recepcion;WREC170;grid1;btn;LiberarRecepcion;Interno;S
+1;ADMINISTRADOR;340;Btn Log Controles;WPRE220;grid1;btn;LogControlesPreparacion;Interno;S
+1;ADMINISTRADOR;39;Btn Log Etiqueta;WREC150;grid1;btn;LogEtiqueta;Interno;S
+1;ADMINISTRADOR;393;Btn Martillo Agenda;WPOR010;grid1;btn;agenda;Interno;S
+1;ADMINISTRADOR;392;Btn Martillo Balanza;WPOR010;grid1;btn;balanza;Interno;S
+1;ADMINISTRADOR;394;Btn Martillo Expedicion;WPOR010;grid1;btn;expedicion;Interno;S
+1;ADMINISTRADOR;365;Btn Martillo WORT030 DeshabilitarOrden Tarea;WORT030;grid1;btn;DeshabilitarOrdenTarea;Interno;S
+1;ADMINISTRADOR;300;Btn Menu WFAC007;WFAC001;grid1;btn;EdicionResultado;Interno;S
+1;ADMINISTRADOR;299;Btn Menu WFAC007;WFAC001;grid1;btn;IngresoResultadoManual;Interno;S
+1;ADMINISTRADOR;423;Btn Motivo de Almacenamiento;WREC170;grid1;btn;btnMotivoAlmacenamiento_z;Interno;S
+1;ADMINISTRADOR;46;Btn Observacioines agenda;WREC170;grid1;btn;ObservacionesAgenda;Interno;S
+1;ADMINISTRADOR;110;Btn Pallets;WREG009;grid1;btn;Pallets;Interno;S
+1;ADMINISTRADOR;231;Btn Parar Debug;GENERAL;DebugMenu;btn;Stop;Interno;S
+1;ADMINISTRADOR;156;Btn Pedidos Expedidos WEXP040;WEXP040;grid1;btn;PedidosExpedidos;Interno;S
+1;ADMINISTRADOR;140;Btn Pedidos Involucrados WEXP040;WEXP040;grid1;btn;PedidosInvolucrados;Interno;S
+1;ADMINISTRADOR;145;Btn Productos Pedido WEXP050;WEXP050;grid1;btn;ProductosEnPedido;Interno;S
+1;ADMINISTRADOR;370;Btn Puntos Entrega;WEXP040;grid1;btn;PuntosEntregaCamion;Interno;S
+1;ADMINISTRADOR;308;Btn Rechazar Todo;WFAC002;grid1;btn;RechazarTodo;Interno;S
+1;ADMINISTRADOR;342;Btn Regenerar Inventario WINV410;WINV410;grid1;btn;RegenerarInventario;Interno;S
+1;ADMINISTRADOR;359;Btn Reimprimir;WCOF070;grid1;btn;Reimprimir;Interno;S
+1;ADMINISTRADOR;330;Btn Reportes;WEXP040;grid1;btn;Reportes;Interno;S
+1;ADMINISTRADOR;326;Btn Reportes;WREC170;grid1;btn;Reportes;Interno;S
+1;ADMINISTRADOR;373;Btn Reprocesar;WPRE410;grid1;btn;BtnReprocesar;Interno;S
+1;ADMINISTRADOR;356;Btn Reprocesar;WCOF070;grid1;btn;Reprocesar;Interno;S
+1;ADMINISTRADOR;302;Btn Resultados De Ejecucion;WFAC001;grid1;btn;ResultadosDeEjecucion;Interno;S
+1;ADMINISTRADOR;172;Btn Saldo DM WREG009;WREG009;grid1;btn;SaldoDM;Interno;S
+1;ADMINISTRADOR;348;Btn Seleccionar;WREC176;grid1;btn;Seleccionar;Interno;S
+1;ADMINISTRADOR;349;Btn Seleccionar todo;WREC176;grid1;btn;SeleccionarTodo;Interno;S
+1;ADMINISTRADOR;333;Btn Sincronizar Tracking;WEXP040;grid1;btn;SincronizarTracking;Interno;S
+1;ADMINISTRADOR;319;Btn Tareas Orden;WORT030;grid1;btn;TareasOrden;Interno;S
+1;ADMINISTRADOR;222;Btn Ver Descargos;WCDO095;grid1;btn;VerDescargos;Interno;S
+1;ADMINISTRADOR;173;Btn Ver Documentos Pendientes WCDO21;WCDO021;grid1;btn;VerDocPend;Interno;S
+1;ADMINISTRADOR;146;Btn etiquetas pre-separadas;WREC240;grid1;btn;EtiquetasCrossDocking;Interno;S
+1;ADMINISTRADOR;321;Btn habilitar facturacion;WFAC001;grid1;btn;HabilitarFacturacion;Interno;S
+1;ADMINISTRADOR;509;BtnPedidosPendientesCamion;WEXP040;grid1;btn;PedidosPendientesCamion;Interno;S
+1;ADMINISTRADOR;535;CEXP600_Opt_FL_AUTO_CARGA;CEXP600;Opt;FL;AUTO_CARGAZ;Interno;S
+1;ADMINISTRADOR;536;CEXP600_Opt_FL_CTRL_CONTENEDORES;CEXP600;Opt;FL;CTRL_CONTENEDORESZ;Interno;S
+1;ADMINISTRADOR;434;CNS000_Section_Access_Consulta;CNS000;Section;Access;Consulta;Interno;S
+1;ADMINISTRADOR;435;CNS510_Page_Access_UbicacionProducto;CNS510;Page;Access;UbicacionProducto;Interno;S
+1;ADMINISTRADOR;436;CNS520_Page_Access_ProductoUbicacion;CNS520;Page;Access;ProductoUbicacion;Interno;S
+1;ADMINISTRADOR;539;COLECTOR RETORNO DE BULTO;EXP610;Page;Access;RetornoBulto;Interno;S
+1;ADMINISTRADOR;2;Cambiar Contrase?;WSEG010;Page;Access;CambioPassword;Interno;S
+1;ADMINISTRADOR;502;Cambio de Estado;DOC260;Page;Access;CambioEstado;Interno;S
+1;ADMINISTRADOR;30;Cola de Impresi?;LIMP010;Page;Access;ImpresionCola;Interno;S
+1;ADMINISTRADOR;556;Colector Ingreso a Producci?;PRD200;Page;Access;ColectorContenedorProduccion;Interno;S
+1;ADMINISTRADOR;473;Colector PRD010;PRD0010;Page;Access;ColectorRecoleccionCont_0;Interno;S
+1;ADMINISTRADOR;472;Colector PRD580;PRD580;Page;Access;ColectorAsociacionDAC_0;Interno;S
+1;ADMINISTRADOR;486;Colector PRD600;PRD600;Page;Access;ColectorContenedoresHijos;Interno;S
+1;ADMINISTRADOR;555;Colector Preparacion de Producci?;REC560;Page;Access;ColectorRecepcionProduccion;Interno;S
+1;ADMINISTRADOR;395;Colector REC500;REC500;Page;Access;ColectorRecepcion;Interno;S
+1;ADMINISTRADOR;404;Colector REC510;REC510;Page;Access;Almacenamiento_Agrupado;Interno;S
+1;ADMINISTRADOR;402;Colector REC520;REC500;Page;Access;ColectorAlmacenamiento;Interno;S
+1;ADMINISTRADOR;401;Colector STO510;STO510;Page;Access;TransferenciaAgrupada;Interno;S
+1;ADMINISTRADOR;552;Colector STO520;STO520;Page;Access;TranferenciasEmpresas;Interno;S
+1;ADMINISTRADOR;489;Colector ajuste de inventario;INV540;Page;Access;ColectorAjusteInventario;Interno;S
+1;ADMINISTRADOR;532;Colector asignacion de carga;EXP610;Page;Access;AsignacionCargas;Interno;S
+1;ADMINISTRADOR;560;Colector cambio de Lote;SES520;Page;Access;ColectorCambioLote;Interno;S
+1;ADMINISTRADOR;487;Colector control de contenedores;PRD590;Page;Access;ColectorControlContenedor;Interno;S
+1;ADMINISTRADOR;523;Colector control de contenedores;PRD0500;Page;Access;ColectorDevolucionDePicking;Interno;S
+1;ADMINISTRADOR;531;Colector creacion de camion;EXP600;Page;Access;ColectorCreacionCamion;Interno;S
+1;ADMINISTRADOR;524;Colector cross docking;REC530;Page;Access;CrossDocking;Interno;S
+1;ADMINISTRADOR;562;Colector de consulta contenedor/producto;CNS530;Page;Access;ContenedorProducto;Interno;S
+1;ADMINISTRADOR;461;Colector de ensamblado de f?mula;KIT530;Page;Access;EnsambladoFormula_z;Interno;S
+1;ADMINISTRADOR;512;Colector preparacion manual;PRD540;Page;Access;ColectorPreparacionManual;Interno;S
+1;ADMINISTRADOR;522;Colector registro de manipuleos;REG580;Page;Access;ColectorRegistroManipuleo_z;Interno;S
+1;ADMINISTRADOR;475;Colector registro productos / codigo barras;REG500;Page;Access;ColectorRegistroPoductos;Interno;S
+1;ADMINISTRADOR;479;Colector web Descarga de Contenedores;EXP550;Page;Access;ColectorDescargaContenedor;Interno;S
+1;ADMINISTRADOR;478;Colectores web seccion contenedores;EXP000;Section;Access;ContenedoresMobile;Interno;S
+1;ADMINISTRADOR;561;Consulta de error en el padron;WSTO630;Page;Access;StockProblemaPadron;Interno;S
+1;ADMINISTRADOR;85;Control de calidad;WREG000;Section;Access;ControlCalidad;Interno;S
+1;ADMINISTRADOR;501;Control documental;DOC000;Section;Access;ControlDocumental_z;Interno;S
+1;ADMINISTRADOR;407;DEV520_Page_Access_ColectorAveriasDeposito;DEV520;Page;Access;ColectorAveriasDeposito;Interno;S
+1;ADMINISTRADOR;565;Despacho directo;PRE090;Page;Access;PedidosDespacho;Interno;S
+1;ADMINISTRADOR;458;Detalle Anulaci?;WPRE520;Page;Access;LogAnulacion;Interno;S
+1;ADMINISTRADOR;24;Detalle Dominio;WREG911;Page;Access;DominioDetalle;Interno;S
+1;ADMINISTRADOR;499;Detalle Egreso;DOC036;Page;Access;DetalleEgreso;Interno;S
+1;ADMINISTRADOR;498;Detalle Ingreso;DOC035;Page;Access;DetalleIngreso;Interno;S
+1;ADMINISTRADOR;459;Detalle de Contenedor;WPRE530;Page;Access;Cont;Interno;S
+1;ADMINISTRADOR;31;Detalle de Impresion;LIMP010DET;Page;Access;ImpresionDetalles;Interno;S
+1;ADMINISTRADOR;497;Documentos;DOC095;Page;Access;Documentos;Interno;S
+1;ADMINISTRADOR;500;Documentos Producci?;DOC290;Page;Access;DocumentoProduccion;Interno;S
+1;ADMINISTRADOR;23;Dominio;WREG910;Page;Access;Dominios;Interno;S
+1;ADMINISTRADOR;517;EXP320_Page_Access_Contenedor_Con_Problema;EXP320;Page;Access;Contenedor_Con_ProblemaZ;Interno;N
+1;ADMINISTRADOR;519;EXP330_Page_Access_Pedido_Mostrador;EXP330;Page;Access;Pedido_MostradorZ;Interno;N
+1;ADMINISTRADOR;437;EXP500_Page_Access_Particion;EXP500;Page;Access;Particion;Interno;S
+1;ADMINISTRADOR;438;EXP510_Page_Access_Consolidacion;EXP510;Page;Access;Consolidacion;Interno;S
+1;ADMINISTRADOR;446;EXP550_Page_Access_DescargaContenedores;EXP550;Page;Access;DescargaContenedores;Interno;S
+1;ADMINISTRADOR;136;Editar valores en WINV010;WINV010;Sec0;General;Edicion;Interno;S
+1;ADMINISTRADOR;336;Edtar detalle de pedido WPRE10;WPRE100;grid1;btn;EditarPedido;Interno;S
+1;ADMINISTRADOR;388;El usario tiene permiso para todaslas empresas;GENERAL;;;GENERAL_UsuarioTodasLasEmpresas;Interno;S
+1;ADMINISTRADOR;229;General Menu Debugger;GENERAL;Section;Access;DebugMenu;Interno;S
+1;ADMINISTRADOR;528;Habilitar consulta de etiquetas;WREC170;grid1;btn;ConsultarEtiquetas;Interno;S
+1;ADMINISTRADOR;525;Habilitar modalidad de producto;STO510;Opt;Access;PRODUCTO;Interno;S
+1;ADMINISTRADOR;526;Habilitar modalidad de ubicacion;STO510;Opt;Access;ENDERECO;Interno;S
+1;ADMINISTRADOR;527;Habilitar recepcion automatica;WREC170;grid1;btn;RecepcionAutomatica_z;Interno;S
+1;ADMINISTRADOR;15;Impresoras;WCOF040;Page;Access;ImpresorasConfig;Interno;S
+1;ADMINISTRADOR;428;Inventario;INV550;Page;Access;ColectorInvetario;Interno;S
+1;ADMINISTRADOR;406;KIT520_Page_Access_ColectorAbastecimientoLineaProducci?;KIT520;Page;Access;ColectorAbastecimientoLineaProducci?_;Interno;S
+1;ADMINISTRADOR;13;Label Estilo;WCOF020;Page;Access;EtiquetasEstilo;Interno;S
+1;ADMINISTRADOR;3;Mantenedor de Perfiles;WSEG020;Page;Access;Perfiles;Interno;S
+1;ADMINISTRADOR;6;Mantenedor de Usuarios;WSEG030;Page;Access;Usuarios;Interno;S
+1;ADMINISTRADOR;361;Menu An?isis de Rechazos;WPRE170;Page;Access;AnalisisRechazos;Interno;S
+1;ADMINISTRADOR;431;Menu Colector Preparacion;REC000;Section;Access;Preparacion;Interno;S
+1;ADMINISTRADOR;396;Menu Colector Recepcion;REC000;Section;Access;Recepcion;Interno;S
+1;ADMINISTRADOR;400;Menu Colector Stock;STO000;Section;Access;Stock;Interno;S
+1;ADMINISTRADOR;27;Menu Expedici?;LEXP000;Section;Access;Expedicion;Interno;S
+1;ADMINISTRADOR;29;Menu Impresion;LIMP000;Section;Access;Impresion;Interno;S
+1;ADMINISTRADOR;19;Menu Interfaz;WINT000;Section;Access;Interfaz;Interno;S
+1;ADMINISTRADOR;247;Menu Parametrizaci? Recepci?;WPAR000;Section;Access;Recepcion;Interno;S
+1;ADMINISTRADOR;33;Menu Recepcion;WREC000;Section;Access;Recepcion;Interno;S
+1;ADMINISTRADOR;22;Menu Region;WREG000;Section;Access;Registro;Interno;S
+1;ADMINISTRADOR;484;Menu Reportes;WCOF000;Section;Access;ConfiguracionReportes;Interno;S
+1;ADMINISTRADOR;269;Menu WFAC000;WFAC000;Section;Access;Facturacion_z;Interno;S
+1;ADMINISTRADOR;270;Menu WFAC250;WFAC250;Page;Access;CodigoComponente;Interno;S
+1;ADMINISTRADOR;293;Menu WPOR000;WPOR000;Section;Access;Poteria_z;Interno;S
+1;ADMINISTRADOR;398;Menu WPRO00;WPRO000;Section;Access;Productividad;Interno;S
+1;ADMINISTRADOR;360;Menu WPRO000;WCOF000;Section;Access;Productividad;Interno;S
+1;ADMINISTRADOR;363;Menu WPRO010;WPRO010;Page;Access;Productividad;Interno;S
+1;ADMINISTRADOR;364;Menu WPRO020;WPRO020;Page;Access;Productividad;Interno;S
+1;ADMINISTRADOR;311;Menu configuraci? facturaci?;WFAC000;Section;Access;FacturacionConfiguracion;Interno;S
+1;ADMINISTRADOR;26;Menu de Pedidos;LPRE000;Section;Access;Preparacion;Interno;S
+1;ADMINISTRADOR;28;Menu de recepcion;LREC000;Section;Access;Recepcion;Interno;S
+1;ADMINISTRADOR;12;MenuConfiguracion;WCOF000;Section;Access;Configuracion;Interno;S
+1;ADMINISTRADOR;25;MenuStock;LSTO000;Section;Access;Stock;Interno;S
+1;ADMINISTRADOR;422;Motivo de Almacenamiento;WREC300;Page;Access;Motivo_Almacenaje_z;Interno;S
+1;ADMINISTRADOR;549;No anular preparaciones job nocturno;WPRE450;Page;Access;NoAnularPreparaciones;Interno;S
+1;ADMINISTRADOR;429;Opci? salir del sistema colectores;COL000;Page;Access;PanelSalir;Interno;S
+1;ADMINISTRADOR;151;PANTALLA WPAR050;WPAR050;Page;Access;TiposUbicaciones;Interno;S
+1;ADMINISTRADOR;117;PANTALLA WPAR090;WPAR090;Page;Access;Situaciones;Interno;S
+1;ADMINISTRADOR;118;PANTALLA WPAR155;WPAR155;Page;Access;Departamentos;Interno;S
+1;ADMINISTRADOR;119;PANTALLA WPAR156;WPAR156;Page;Access;Ciudades;Interno;S
+1;ADMINISTRADOR;116;PANTALLA WPAR160;WPAR160;Page;Access;TipoDocumento;Interno;S
+1;ADMINISTRADOR;127;PANTALLA WPRE100;WPRE100;Page;Access;Pedido;Interno;S
+1;ADMINISTRADOR;139;PANTALLA WPRE101;WPRE101;Page;Access;LineasPedido;Interno;S
+1;ADMINISTRADOR;158;PANTALLA WPRE110;WPRE110;Page;Access;EliminarPedidosPendientes;Interno;S
+1;ADMINISTRADOR;154;PANTALLA WPRE150;WPRE150;Page;Access;DetallesPedidos;Interno;S
+1;ADMINISTRADOR;537;POR060_Section_Access_VehiculosSinAgenda;POR060;Section;Access;VehiculosSinAgenda;Interno;S
+1;ADMINISTRADOR;538;POR070_Section_Access_VehiculosSinCamion;POR070;Section;Access;VehiculosSinCamion;Interno;S
+1;ADMINISTRADOR;324;PPantalla WPOR020;WPOR020;Section;Access;RegitroSalida;Interno;S
+1;ADMINISTRADOR;567;PRD091_Opt_Access_CAJAS;PRD091;Opt;Access;CAJAS;Interno;S
+1;ADMINISTRADOR;568;PRD091_Opt_Access_CAJAS/UNIDADES;PRD091;Opt;Access;CAJAS/UNIDADES;Interno;S
+1;ADMINISTRADOR;566;PRD091_Opt_Access_PALLETS;PRD091;Opt;Access;PALLETS;Interno;S
+1;ADMINISTRADOR;569;PRD091_Opt_Access_UNIDADES;PRD091;Opt;Access;UNIDADES;Interno;S
+1;ADMINISTRADOR;513;PRE640_Page_Access_SeguimientoPedido;PRE640;Page;Access;SeguimientoPedido;Interno;S
+1;ADMINISTRADOR;554;PRE680_Page_Access_Reabastecimiento;PRE680;Page;Access;Reabastecimiento;Interno;S
+1;ADMINISTRADOR;571;PRE700_Page_Access_SeguimientoPedido;PRE700;Page;Access;SeguimientoPedido;Interno;S
+1;ADMINISTRADOR;572;PRE750_Page_Access_AnulacionPedido;PRE750;Page;Access;AnulacionPedido;Interno;S
+1;ADMINISTRADOR;570;PRO050_Page_Access_ProductividadDiaria;PRO050;Page;Access;ProductividadDiaria;Interno;S
+1;ADMINISTRADOR;425;Pantall PRD090 Prep. Picking;PRD090;Page;Access;ColectorPreparacionPicking;Interno;S
+1;ADMINISTRADOR;553;Pantalla Anulaciones Pendientes PRE460;PRE460;Page;Access;AnulacionesPendientes;Interno;S
+1;ADMINISTRADOR;313;Pantalla Armar Camion Entregas;WEXP012;Page;Access;ArmarEgresoEntrega;Interno;S
+1;ADMINISTRADOR;424;Pantalla EXP110;EXP110;Page;Access;Empaquetado;Interno;S
+1;ADMINISTRADOR;546;Pantalla Indicadores;WPRO030;Page;Access;Productividad;Interno;S
+1;ADMINISTRADOR;409;Pantalla KIT100;KIT100;Page;Access;DefinicionFormula;Interno;S
+1;ADMINISTRADOR;410;Pantalla KIT101;KIT101;Page;Access;ArmadoFormula;Interno;S
+1;ADMINISTRADOR;411;Pantalla KIT102;KIT102;Page;Access;ConfiguracionFormula;Interno;S
+1;ADMINISTRADOR;412;Pantalla KIT110;KIT110;Page;Access;IngresoProduccion;Interno;S
+1;ADMINISTRADOR;413;Pantalla KIT120;KIT120;Page;Access;ConfiguracionInstancia;Interno;S
+1;ADMINISTRADOR;414;Pantalla KIT130;KIT130;Page;Access;AsociarPedidos-z;Interno;S
+1;ADMINISTRADOR;415;Pantalla KIT150;KIT150;Page;Access;Seguimiento;Interno;S
+1;ADMINISTRADOR;416;Pantalla KIT151;KIT151;Page;Access;DetSeguimiento;Interno;S
+1;ADMINISTRADOR;417;Pantalla KIT170;KIT170;Page;Access;PanelProduccion;Interno;S
+1;ADMINISTRADOR;418;Pantalla KIT171;KIT171;Page;Access;Produccion;Interno;S
+1;ADMINISTRADOR;419;Pantalla KIT175;KIT175;Page;Access;AjusteCierre;Interno;S
+1;ADMINISTRADOR;420;Pantalla KIT180;KIT180;Page;Access;ConsultaPasadas;Interno;S
+1;ADMINISTRADOR;421;Pantalla KIT190;KIT190;Page;Access;Lineas;Interno;S
+1;ADMINISTRADOR;485;Pantalla KIT191;KIT191;Page;Access;LotesPredefinidos;Interno;S
+1;ADMINISTRADOR;494;Pantalla KIT191;KIT191;Page;Access;PredefinirLotes;Interno;S
+1;ADMINISTRADOR;17;Pantalla LCON010;LCON010;Page;Access;GestionParametros;Interno;S
+1;ADMINISTRADOR;18;Pantalla LCON020;LCON020;Page;Access;CargarParametro;Interno;S
+1;ADMINISTRADOR;430;Pantalla PRD510 Reabastecimiento por etapas;PRD510;Page;Access;ReabastecimientoPorEtapas;Interno;S
+1;ADMINISTRADOR;463;Pantalla Prueba;PRUEBAFAC;Page;;PRUEBAFAC_Page_Access;Interno;S
+1;ADMINISTRADOR;465;Pantalla Prueba recibir;WFACPRUEBARECIBE;Page;;WFACPRUEBARECIBE_Page_Access;Interno;S
+1;ADMINISTRADOR;426;Pantalla REG530 Registro Picking;REG530;Page;Access;ColectorRegistroPicking;Interno;S
+1;ADMINISTRADOR;520;Pantalla SEG210;SEG210;Page;Access;GestionRecursosZ;Interno;N
+1;ADMINISTRADOR;159;Pantalla Tipos de Areas WPAR310;WPAR310;Page;Access;TiposDeAreas;Interno;S
+1;ADMINISTRADOR;328;Pantalla Veh?ulos en Deposito WPOR30;WPOR030;Section;Access;vheiculosDeposito;Interno;S
+1;ADMINISTRADOR;226;Pantalla WCDO011;WCDO011;Page;Access;CambiosCodigos;Interno;S
+1;ADMINISTRADOR;227;Pantalla WCDO012;WCDO012;Page;Access;DetCambiosCodigos;Interno;S
+1;ADMINISTRADOR;165;Pantalla WCDO020;WCDO020;Section;Access;SaldoDM;Interno;S
+1;ADMINISTRADOR;174;Pantalla WCDO021;WCDO021;Section;Access;DocPend;Interno;S
+1;ADMINISTRADOR;188;Pantalla WCDO025;WCDO025;Page;Access;ActasIngreso;Interno;S
+1;ADMINISTRADOR;200;Pantalla WCDO035;WCDO035;Page;Access;DetalleDocumentos;Interno;S
+1;ADMINISTRADOR;220;Pantalla WCDO036;WCDO036;Page;Access;DetDocumentoSAC;Interno;S
+1;ADMINISTRADOR;225;Pantalla WCDO066;WCDO066;Page;Access;ModDocEstadoRKF;Interno;S
+1;ADMINISTRADOR;216;Pantalla WCDO080;WCDO080;Page;Access;OrdenesIngreso;Interno;S
+1;ADMINISTRADOR;217;Pantalla WCDO081;WCDO081;Page;Access;DetDocumentos;Interno;S
+1;ADMINISTRADOR;166;Pantalla WCDO095;WCDO095;Section;Access;Documentos;Interno;S
+1;ADMINISTRADOR;185;Pantalla WCDO096;WCDO096;Section;Access;DocumentosIngreso;Interno;S
+1;ADMINISTRADOR;186;Pantalla WCDO097;WCDO097;Section;Access;DocumentosEgreso;Interno;S
+1;ADMINISTRADOR;223;Pantalla WCDO100;WCDO100;Page;Access;AsignacionIngresoEgreso;Interno;S
+1;ADMINISTRADOR;167;Pantalla WCDO120;WCDO120;Section;Access;HistorialCambioEstado;Interno;S
+1;ADMINISTRADOR;221;Pantalla WCDO171;WCDO171;Page;Access;Descargos;Interno;S
+1;ADMINISTRADOR;214;Pantalla WCDO260;WCDO260;Page;Access;CambioDeEstado;Interno;S
+1;ADMINISTRADOR;204;Pantalla WCDO280;WCDO280;Page;Access;VencimientoDocIng;Interno;S
+1;ADMINISTRADOR;203;Pantalla WCDO281;WCDO281;Page;Access;VenciminetoDocEgr;Interno;S
+1;ADMINISTRADOR;128;Pantalla WCOF000;WIMP000;Section;Access;ConfiguracionEstilos;Interno;S
+1;ADMINISTRADOR;80;Pantalla WCOF010;WCOF010;Page;Access;LenguajeImpresion;Interno;S
+1;ADMINISTRADOR;126;Pantalla WCOF025;WCOF025;Page;Access;LabelEstiloContenedores;Interno;S
+1;ADMINISTRADOR;16;Pantalla WCOF050;WCOF050;Page;Access;Traducciones;Interno;S
+1;ADMINISTRADOR;254;Pantalla WCOF060;WCOF060;Page;Access;Servidor;Interno;S
+1;ADMINISTRADOR;325;Pantalla WCOF070;WCOF070;Page;Access;Reportes;Interno;S
+1;ADMINISTRADOR;483;Pantalla WCOF080;WCOF080;Page;Access;ReportesEmpresa;Interno;S
+1;ADMINISTRADOR;271;Pantalla WEVT010;WEVT010;Page;Access;PanelEventos;Interno;S
+1;ADMINISTRADOR;273;Pantalla WEVT020;WEVT020;Page;Access;Contactos;Interno;S
+1;ADMINISTRADOR;274;Pantalla WEVT030;WEVT030;Page;Access;GruposContactos;Interno;S
+1;ADMINISTRADOR;277;Pantalla WEVT040;WEVT040;Page;Access;InstanciaEvento;Interno;S
+1;ADMINISTRADOR;278;Pantalla WEVT050;WEVT050;Page;Access;EventoMailSalida;Interno;S
+1;ADMINISTRADOR;176;Pantalla WEXP010;WEXP010;Page;Access;ArmarEgreso;Interno;S
+1;ADMINISTRADOR;255;Pantalla WEXP011;WEXP011;Page;Access;ArmarEgresoCont;Interno;S
+1;ADMINISTRADOR;442;Pantalla WEXP013;WEXP013;Page;Access;ArmarEgresoPedido;Interno;S
+1;ADMINISTRADOR;129;Pantalla WEXP040;WEXP040;Page;Access;Egresos;Interno;S
+1;ADMINISTRADOR;157;Pantalla WEXP041;WEXP041;Page;Access;PedidosExpedidos;Interno;S
+1;ADMINISTRADOR;369;Pantalla WEXP042;WEXP042;Page;Access;PuntosEntregaCamion;Interno;S
+1;ADMINISTRADOR;508;Pantalla WEXP043;WEXP043;Page;Access;PedidosPendientesCamion;Interno;S
+1;ADMINISTRADOR;131;Pantalla WEXP045;WEXP045;Page;Access;DetalleCamion;Interno;S
+1;ADMINISTRADOR;141;Pantalla WEXP050;WEXP050;Page;Access;PedidosInvolucrados;Interno;S
+1;ADMINISTRADOR;148;Pantalla WEXP051;WEXP051;Page;Access;ProdutosPedidosEgreso;Interno;S
+1;ADMINISTRADOR;149;Pantalla WEXP052;WEXP052;Page;Access;DocumentacionEgreso;Interno;S
+1;ADMINISTRADOR;228;Pantalla WEXP080;WEXP080;Page;Access;ModificarNumCarga_z;Interno;S
+1;ADMINISTRADOR;182;Pantalla WEXP090 Consulta de Cargas Asignadas;WEXP090;Page;Access;ConsultaDeCargasAsignadas;Interno;S
+1;ADMINISTRADOR;440;Pantalla WEXP110;WEXP110;Page;Access;FacturarPedidos_z;Interno;S
+1;ADMINISTRADOR;482;Pantalla WEXP120;WEXP120;Page;Access;EmpaquetadoPicking;Interno;S
+1;ADMINISTRADOR;205;Pantalla WEXP310;WEXP310;Page;Access;ConsolidacionMasiva;Interno;S
+1;ADMINISTRADOR;279;Pantalla WFAC;WFAC251;Page;Access;CodigoComponente;Interno;S
+1;ADMINISTRADOR;285;Pantalla WFAC001;WFAC001;Page;Access;EjecucionesFacturacion;Interno;S
+1;ADMINISTRADOR;306;Pantalla WFAC002;WFAC002;Page;Access;ResultadosCalculos;Interno;S
+1;ADMINISTRADOR;286;Pantalla WFAC003;WFAC003;Page;Access;CalcNoRealizadosPorError;Interno;S
+1;ADMINISTRADOR;322;Pantalla WFAC004;WFAC004;Page;Access;DetallesEjecucion;Interno;S
+1;ADMINISTRADOR;281;Pantalla WFAC005;WFAC005;Page;Access;EmpresaProceso;Interno;S
+1;ADMINISTRADOR;284;Pantalla WFAC006;WFAC006;Page;Access;ResultadoEjecucion;Interno;S
+1;ADMINISTRADOR;292;Pantalla WFAC007;WFAC007;Page;Access;IngresoResultadosManuales;Interno;S
+1;ADMINISTRADOR;287;Pantalla WFAC010;WFAC010;Page;Access;ProcesosEjecucion;Interno;S
+1;ADMINISTRADOR;357;Pantalla WFAC200;WFAC200;Page;Access;UnidadMedida;Interno;S
+1;ADMINISTRADOR;358;Pantalla WFAC230;WFAC230;Page;Access;UnidadMedidaEmp;Interno;S
+1;ADMINISTRADOR;346;Pantalla WFAC249;WFAC249;Page;Access;CodigoFacturacion;Interno;S
+1;ADMINISTRADOR;282;Pantalla WFAC255;WFAC255;Page;Access;ListaPrecios;Interno;S
+1;ADMINISTRADOR;283;Pantalla WFAC256;WFAC256;Page;Access;CotizacionListas;Interno;S
+1;ADMINISTRADOR;280;Pantalla WFAC405;WFAC405;Page;Access;CuentaContable;Interno;S
+1;ADMINISTRADOR;474;Pantalla WIMP011;WIMP011;Page;Access;Reimpresion;Interno;S
+1;ADMINISTRADOR;83;Pantalla WIMP050;WIMP050;Page;Access;ImpresionesGenerales;Interno;S
+1;ADMINISTRADOR;92;Pantalla WIMP060;WIMP060;Page;Access;ImpresionesGeneralesProductos;Interno;S
+1;ADMINISTRADOR;63;Pantalla WIMP100;WIMP100;Page;Access;ImpEtHijas;Interno;S
+1;ADMINISTRADOR;67;Pantalla WIMP101;WIMP101;Page;Access;ImpEtHijas;Interno;S
+1;ADMINISTRADOR;64;Pantalla WIMP110;WIMP110;Page;Access;Contenedores;Interno;S
+1;ADMINISTRADOR;69;Pantalla WIMP111;WIMP111;Page;Access;ClientesContenedores;Interno;S
+1;ADMINISTRADOR;65;Pantalla WIMP120;WIMP120;Page;Access;Equipos;Interno;S
+1;ADMINISTRADOR;57;Pantalla WIMP80;WIMP080;Page;Access;ImpEtRec;Interno;S
+1;ADMINISTRADOR;58;Pantalla WIMP90;WIMP090;Page;Access;ImpEtCon;Interno;S
+1;ADMINISTRADOR;208;Pantalla WINT030;WINT030;Page;Access;InterfacesExternas;Interno;S
+1;ADMINISTRADOR;207;Pantalla WINT031;WINT031;Page;Access;DetalleInterfacesExternas;Interno;S
+1;ADMINISTRADOR;20;Pantalla WINT050;WINT050;Page;Access;ConsultaInterfaz;Interno;S
+1;ADMINISTRADOR;239;Pantalla WINT052;WINT052;Page;Access;ConsultaInterfazCargada;Interno;S
+1;ADMINISTRADOR;132;Pantalla WINV010;WINV010;Page;Access;MarcadoUbicaciones;Interno;S
+1;ADMINISTRADOR;171;Pantalla WINV030;WINV030;Page;Access;AjustesDeStock;Interno;S
+1;ADMINISTRADOR;137;Pantalla WINV040;WINV040;Page;Access;LogInventario;Interno;S
+1;ADMINISTRADOR;194;Pantalla WINV050;WINV050;Page;Access;AvanceInventario;Interno;S
+1;ADMINISTRADOR;170;Pantalla WINV060;WINV060;Page;Access;AsignarMotivosAjuste;Interno;S
+1;ADMINISTRADOR;114;Pantalla WINV100;WINV100;Page;Access;AnalisisInventario;Interno;S
+1;ADMINISTRADOR;180;Pantalla WINV410;WINV410;Page;Access;PanelInventarios;Interno;S
+1;ADMINISTRADOR;190;Pantalla WINV411;WINV411;Page;Access;UbicacionesInventario;Interno;S
+1;ADMINISTRADOR;192;Pantalla WINV412;WINV412;Page;Access;DetalleDeConteos;Interno;S
+1;ADMINISTRADOR;193;Pantalla WINV413;WINV413;Page;Access;ConteosPendientes;Interno;S
+1;ADMINISTRADOR;260;Pantalla WINV413;WINV413;Page;Access;SeleccionDeRegStock;Interno;S
+1;ADMINISTRADOR;266;Pantalla WINV414;WINV414;Page;Access;ActualizarInventarios;Interno;S
+1;ADMINISTRADOR;521;Pantalla WINV415;WINV415;Page;Access;InvEnderecoDetError;Interno;S
+1;ADMINISTRADOR;276;Pantalla WORT010;WORT010;Page;Access;Tareas;Interno;S
+1;ADMINISTRADOR;301;Pantalla WORT020;WORT020;Page;Access;Insumos;Interno;S
+1;ADMINISTRADOR;304;Pantalla WORT030;WORT030;Page;Access;TrabajoManual;Interno;S
+1;ADMINISTRADOR;320;Pantalla WORT040;WORT040;Page;Access;OrdenTarea;Interno;S
+1;ADMINISTRADOR;317;Pantalla WORT050;WORT050;Page;Access;OrdenFuncionario;Interno;S
+1;ADMINISTRADOR;366;Pantalla WORT060;WORT060;Page;Access;OrdenTareaFuncionario;Interno;S
+1;ADMINISTRADOR;362;Pantalla WORT070;WORT070;Page;Access;TareaDato;Interno;S
+1;ADMINISTRADOR;367;Pantalla WORT090;WORT090;Page;Access;RegistroTareaAmigable;Interno;S
+1;ADMINISTRADOR;315;Pantalla WORT100;WORT100;Page;Access;PlantillasTareas;Interno;S
+1;ADMINISTRADOR;316;Pantalla WORT110;WORT110;Page;Access;PlantillasTareasDet;Interno;S
+1;ADMINISTRADOR;111;Pantalla WPAR110;WPAR110;Page;Access;UnidadesMedida;Interno;S
+1;ADMINISTRADOR;124;Pantalla WPAR170;WPAR170;Page;Access;OperacionesStock;Interno;S
+1;ADMINISTRADOR;125;Pantalla WPAR200;WPAR200;Page;Access;Secuencias;Interno;S
+1;ADMINISTRADOR;142;Pantalla WPAR260;WPAR260;Page;Access;TiposDeVehiculos;Interno;S
+1;ADMINISTRADOR;107;Pantalla WPAR604;WPAR604;Page;Access;TiposCodigosBarra;Interno;S
+1;ADMINISTRADOR;294;Pantalla WPOR010;WPOR010;Section;Access;RegitroEntrada;Interno;S
+1;ADMINISTRADOR;377;Pantalla WPRE005;WPRE005;Page;Access;ErroresColectorOffline_z;Interno;S
+1;ADMINISTRADOR;213;Pantalla WPRE050;WPRE050;Page;Access;LiberacionDeOnda;Interno;S
+1;ADMINISTRADOR;215;Pantalla WPRE051;WPRE051;Page;Access;PedidosPendLiberacion;Interno;S
+1;ADMINISTRADOR;209;Pantalla WPRE052;WPRE052;Page;Access;PanelLiberacion;Interno;S
+1;ADMINISTRADOR;168;Pantalla WPRE060;WPRE060;Page;Access;ConsultaContenedoresGen;Interno;S
+1;ADMINISTRADOR;169;Pantalla WPRE061;WPRE061;Page;Access;ConsultaDetPicking;Interno;S
+1;ADMINISTRADOR;197;Pantalla WPRE120;WPRE120;Page;Access;AnulacionPreparaciones;Interno;S
+1;ADMINISTRADOR;236;Pantalla WPRE121;WPRE121;Page;Access;AnulacionTotalPreparaciones;Interno;S
+1;ADMINISTRADOR;175;Pantalla WPRE130;WPRE130;Page;Access;ConsultaPreparaciones;Interno;S
+1;ADMINISTRADOR;184;Pantalla WPRE160;WPRE160;Page;Access;AvancePreparacion;Interno;S
+1;ADMINISTRADOR;187;Pantalla WPRE161;WPRE161;Page;Access;AvancePreparacionEmpresa;Interno;S
+1;ADMINISTRADOR;189;Pantalla WPRE162;WPRE162;Page;Access;AvancePreparacionPreparacion;Interno;S
+1;ADMINISTRADOR;210;Pantalla WPRE170;WPRE170;Page;Access;AnalisisRechazo;Interno;S
+1;ADMINISTRADOR;338;Pantalla WPRE220;WPRE220;Page;Access;ControlesPreparacion;Interno;S
+1;ADMINISTRADOR;341;Pantalla WPRE221;WPRE221;Page;Access;LogControlesPreparacion;Interno;S
+1;ADMINISTRADOR;183;Pantalla WPRE300 Creaci? y cierrede una preparaci? manual;WPRE300;Page;Access;PreparacionManual;Interno;S
+1;ADMINISTRADOR;163;Pantalla WPRE310;WPRE310;Page;Access;IniciarPickingEtiqueta;Interno;S
+1;ADMINISTRADOR;179;Pantalla WPRE320;WPRE320;Page;Access;FinalizarPickingEtiq;Interno;S
+1;ADMINISTRADOR;161;Pantalla WPRE330;WPRE330;Page;Access;TiemposPicking;Interno;S
+1;ADMINISTRADOR;337;Pantalla WPRE350;WPRE350;Page;Access;UbicacionesReabastecimiento;Interno;S
+1;ADMINISTRADOR;355;Pantalla WPRE360;WPRE360;Page;Access;StockPickingMal;Interno;S
+1;ADMINISTRADOR;372;Pantalla WPRE410;WPRE410;Page;Access;PanelAnulacion;Interno;S
+1;ADMINISTRADOR;371;Pantalla WPRE420;WPRE420;Page;Access;VerErrores;Interno;S
+1;ADMINISTRADOR;375;Pantalla WPRE430;WPRE430;Page;Access;LineasAnulacion;Interno;S
+1;ADMINISTRADOR;244;Pantalla WREC010;WREC010;Page;Access;RefRecepcion;Interno;S
+1;ADMINISTRADOR;245;Pantalla WREC011;WREC011;Page;Access;DETRefRecepcion;Interno;S
+1;ADMINISTRADOR;53;Pantalla WREC140;WREC140;Page;Access;LiberarDifRecepcion;Interno;S
+1;ADMINISTRADOR;258;Pantalla WREC141;WREC141;Page;Access;ProblemasRecepcion;Interno;S
+1;ADMINISTRADOR;38;Pantalla WREC150;WREC150;Page;Access;ConsultaEtiquetas;Interno;S
+1;ADMINISTRADOR;32;Pantalla WREC170;WREC170;Page;Access;PanelRecepcion;Interno;S
+1;ADMINISTRADOR;34;Pantalla WREC171;WREC171;Page;Access;DetallesAgenda;Interno;S
+1;ADMINISTRADOR;240;Pantalla WREC172;WREC172;Page;Access;RecepcionTipoExterno;Interno;S
+1;ADMINISTRADOR;241;Pantalla WREC173;WREC173;Page;Access;RecepcionRelEmpresaTipo;Interno;S
+1;ADMINISTRADOR;246;Pantalla WREC174;WREC174;Page;Access;RecepcionFactura;Interno;S
+1;ADMINISTRADOR;252;Pantalla WREC175;WREC175;Page;Access;LineasFacturas;Interno;S
+1;ADMINISTRADOR;345;Pantalla WREC176;WREC176;Page;Access;FacturaDesdeReferencia;Interno;S
+1;ADMINISTRADOR;40;Pantalla WREC180;WREC180;Page;Access;LogEtiquetas;Interno;S
+1;ADMINISTRADOR;147;Pantalla WREC220;WREC220;Page;Access;LiberarCrossDocking;Interno;S
+1;ADMINISTRADOR;143;Pantalla WREC240;WREC240;Page;Access;ConsultaCrossDocking;Interno;S
+1;ADMINISTRADOR;198;Pantalla WREC260;WREC260;Page;Access;DistribuirPedidosAbiertos;Interno;S
+1;ADMINISTRADOR;150;Pantalla WREC270;WREC270;Page;Access;ConvertirEtiquetas;Interno;S
+1;ADMINISTRADOR;268;Pantalla WREG000;WREG000;Page;Access;TestGrilla;Interno;S
+1;ADMINISTRADOR;237;Pantalla WREG009;WREG009;grid1;btn;Alta;Interno;S
+1;ADMINISTRADOR;238;Pantalla WREG009;WREG009;grid1;btn;Edit;Interno;S
+1;ADMINISTRADOR;61;Pantalla WREG009;WREG009;Page;Access;Productos;Interno;S
+1;ADMINISTRADOR;94;Pantalla WREG010;WREG010;Page;Access;Herramientas;Interno;S
+1;ADMINISTRADOR;95;Pantalla WREG020;WREG020;Page;Access;FamiliaProductos;Interno;S
+1;ADMINISTRADOR;96;Pantalla WREG030;WREG030;Page;Access;Rotatividad;Interno;S
+1;ADMINISTRADOR;72;Pantalla WREG035;WREG035;Page;Access;Clases;Interno;S
+1;ADMINISTRADOR;77;Pantalla WREG036;WREG036;Page;Access;SubClases;Interno;S
+1;ADMINISTRADOR;66;Pantalla WREG040;WREG040;Page;Access;AltaUbicacion;Interno;S
+1;ADMINISTRADOR;206;Pantalla WREG050;WREG050;Page;Access;AsignacionUbicacionesPick;Interno;S
+1;ADMINISTRADOR;73;Pantalla WREG060;WREG060;Page;Access;ProdSinUbicPrepa;Interno;S
+1;ADMINISTRADOR;98;Pantalla WREG080;WREG080;Page;Access;PuertaEmbarque;Interno;S
+1;ADMINISTRADOR;267;Pantalla WREG090;WREG090;Page;Access;RamosProducto;Interno;S
+1;ADMINISTRADOR;68;Pantalla WREG100;WREG100;Page;Access;Empresas;Interno;S
+1;ADMINISTRADOR;75;Pantalla WREG110;WREG110;Page;Access;MantenimientoPaises;Interno;S
+1;ADMINISTRADOR;59;Pantalla WREG120;WREG120;Page;Access;ConversionCodigosTraspaso;Interno;S
+1;ADMINISTRADOR;91;Pantalla WREG125;WREG125;Page;Access;CrearProductosTraspaso;Interno;S
+1;ADMINISTRADOR;81;Pantalla WREG130;WREG130;Page;Access;RutasEntregas;Interno;S
+1;ADMINISTRADOR;79;Pantalla WREG140;WREG140;Page;Access;Ondas;Interno;S
+1;ADMINISTRADOR;138;Pantalla WREG141;WREG141;Page;Access;MotivosAjusteStock;Interno;S
+1;ADMINISTRADOR;376;Pantalla WREG150;WREG150;Page;Access;Muestras;Interno;S
+1;ADMINISTRADOR;71;Pantalla WREG220;WREG220;Page;Access;Clientes;Interno;S
+1;ADMINISTRADOR;93;Pantalla WREG250;WREG250;Page;Access;Vehiculos;Interno;S
+1;ADMINISTRADOR;89;Pantalla WREG400;WREG400;Page;Access;UnidadesAlternas;Interno;S
+1;ADMINISTRADOR;97;Pantalla WREG410;WREG410;Page;Access;NAM;Interno;S
+1;ADMINISTRADOR;82;Pantalla WREG601;WREG601;Page;Access;ControlesCalidad;Interno;S
+1;ADMINISTRADOR;103;Pantalla WREG602;WREG602;Page;Access;ControlesCalidadProducto;Interno;S
+1;ADMINISTRADOR;84;Pantalla WREG602;WREG602;Page;Access;ControlesCalidadProductos;Interno;S
+1;ADMINISTRADOR;76;Pantalla WREG603;WREG603;Page;Access;CodigoBarras;Interno;S
+1;ADMINISTRADOR;87;Pantalla WREG605;WREG605;Page;Access;PalletProducto;Interno;S
+1;ADMINISTRADOR;243;Pantalla WRG001;WREG001;Section;Access;Registro;Interno;S
+1;ADMINISTRADOR;9;Pantalla WSEG031;WSEG031;Page;Access;EmpresasGrupos;Interno;S
+1;ADMINISTRADOR;10;Pantalla WSEG050;WSEG050;Page;Access;SesionesGestion;Interno;S
+1;ADMINISTRADOR;11;Pantalla WSEG060;WSEG060;Page;Access;LocksGestion;Interno;S
+1;ADMINISTRADOR;476;Pantalla WSEG080;WSEG080;Page;Access;UserPredio;Interno;S
+1;ADMINISTRADOR;391;Pantalla WSTO005;WSTO005;Page;Access;StockGeneralProducto;Interno;S
+1;ADMINISTRADOR;343;Pantalla WSTO030;WSTO030;Page;Access;TraceStock;Interno;S
+1;ADMINISTRADOR;56;Pantalla WSTO040;WSTO040;Page;Access;TraspasoStock;Interno;S
+1;ADMINISTRADOR;54;Pantalla WSTO060;WSTO060;Page;Access;AceptarControlesCalidad;Interno;S
+1;ADMINISTRADOR;51;Pantalla WSTO070;WSTO070;Page;Access;UbicacionesParaReabastecer;Interno;S
+1;ADMINISTRADOR;212;Pantalla WSTO090;WSTO090;Page;Access;MovimientosDeInventarioL;Interno;S
+1;ADMINISTRADOR;50;Pantalla WSTO110;WSTO110;Page;Access;ControlDeCalidad;Interno;S
+1;ADMINISTRADOR;48;Pantalla WSTO150;WSTO150;Page;Access;StockUbicacion;Interno;S
+1;ADMINISTRADOR;60;Pantalla WSTO150DET;WSTO150DET;Page;Access;StockUbicacion;Interno;S
+1;ADMINISTRADOR;242;Pantalla WSTO155;WSTO155;Page;Access;UbicacionesDisponivles;Interno;S
+1;ADMINISTRADOR;310;Pantalla WSTO210;WSTO210;Page;Access;StockEnvases_z;Interno;S
+1;ADMINISTRADOR;368;Pantalla WSTO310;WSTO310;Page;Access;Stock;Interno;S
+1;ADMINISTRADOR;62;Pantalla WSTO395;WSTO395;Page;Access;StockProducto;Interno;S
+1;ADMINISTRADOR;49;Pantalla WSTO498;WSTO498;Page;Access;StockPalletTranferencia;Interno;S
+1;ADMINISTRADOR;510;Pantalla WSTO500;WSTO500;Page;Access;StockPorProducto;Interno;S
+1;ADMINISTRADOR;511;Pantalla WSTO550;WSTO550;Page;Access;ProductoConMasReservaQueStock;Interno;S
+1;ADMINISTRADOR;403;Pantalla WSTO580;WSTO580;Page;Access;Existencia_z;Interno;S
+1;ADMINISTRADOR;234;Pantalla de Analisis de rechazos;WPRE052;Page;Access;AnalisisRechazos;Interno;S
+1;ADMINISTRADOR;202;Pantalla de ingreso de c?igo sac;WCDO135;Page;Access;IngresarCodigoSac;Interno;S
+1;ADMINISTRADOR;547;Pantalla de liberacion automatica;AUT010;Section;Access;LiberacionAutomatica;Interno;S
+1;ADMINISTRADOR;563;Pantalla de listado de contenedores por camion pendientes de control;WEXP575;Page;Access;ControlContenedoresCamion;Interno;S
+1;ADMINISTRADOR;529;Pantalla de relacion entere agenday referencia;WREC350;Page;Access;RelacionAgendaReferencia;Interno;S
+1;ADMINISTRADOR;21;Pantalla errores de ejecucion;WINT070;Page;Access;ErroresEjecucion;Interno;S
+1;ADMINISTRADOR;542;Pantalla log de envases;WSTO211;Page;Access;LogEnvases;Interno;S
+1;ADMINISTRADOR;456;Pantalla para desfacturar pedidos;WPRE510;Page;Access;DesfacturarPedidos_z;Interno;S
+1;ADMINISTRADOR;543;Pantalla predios;WREG705;Page;Access;Predios;Interno;S
+1;ADMINISTRADOR;466;Pantalla prueba 2;WFACPRUEB2;Page;;WFACPRUEB2_Page_Access;Interno;S
+1;ADMINISTRADOR;467;Pantalla prueba 3;WFACPRUE3;Page;;WFACPRUE3_Page_Access;Interno;S
+1;ADMINISTRADOR;468;Pantalla prueba 4;WFACPRUE4;Page;;WFACPRUE4_Page_Access;Interno;S
+1;ADMINISTRADOR;545;Pantalla retornos de bulto;EXP340;Page;Access;RetornoBulto;Interno;S
+1;ADMINISTRADOR;334;Permitir edici? en pantalla WPAR200;WPAR200;grid1;cell;Editable;Interno;S
+1;ADMINISTRADOR;427;Preparaci? Manual;PRD540;Page;Access;ColectorPreparacionManual_0;Interno;S
+1;ADMINISTRADOR;405;REC500_Page_Access_ColectorExpedicion;REC500;Page;Access;ColectorExpedicion;Interno;S
+1;ADMINISTRADOR;550;Recurso para acceso FULL PowerBI Indicadores;WPRO030;Page;Access;POWERBI_FULL;Interno;S
+1;ADMINISTRADOR;551;Recurso para acceso Parcial PowerBI Indicadores;WPRO030;Page;Access;POWERBI_PARCIAL;Interno;S
+1;ADMINISTRADOR;493;Registro de Pedido Expedido;WPAR605;Page;Access;RegistroPedidoExpedicion;Interno;S
+1;ADMINISTRADOR;503;Reserva Documental;DOC300;Page;Access;DocumentoProduccion;Interno;S
+1;ADMINISTRADOR;573;ResolverAdvertenciaAUTO;;;;ResolverAdvertenciaAUTO;Interno;S
+1;ADMINISTRADOR;541;Saldo a Liberar;PRE670;Page;Access;SaldosALiberar;Interno;S
+1;ADMINISTRADOR;496;Saldo de Documentos;DOC020;Page;Access;SaldoDocumentos;Interno;S
+1;ADMINISTRADOR;492;Seccion inventario menu colectores;INV00;section;Access;InventarioMobile;Interno;S
+1;ADMINISTRADOR;548;Secci? Configuraci? Automatizacion;AUT000;Section;Access;Automatizacion;Interno;S
+1;ADMINISTRADOR;105;Secci? Configuraci? Impresi?;WIMP000;Section;Access;ConfiguracionImpresion;Interno;S
+1;ADMINISTRADOR;164;Secci? Control Dcoumental WCDO000;WCDO000;Section;Access;ControlDocumentall;Interno;S
+1;ADMINISTRADOR;144;Secci? Cross Docking;WREC000;Section;Access;CrossDocking_z;Interno;S
+1;ADMINISTRADOR;104;Secci? Dominios;WREG000;Section;Access;Dominios;Interno;S
+1;ADMINISTRADOR;272;Secci? Eventos;WEVT000;Section;Access;EventosZ;Interno;N
+1;ADMINISTRADOR;113;Secci? Inventario;WINV000;Section;Access;Inventario;Interno;S
+1;ADMINISTRADOR;133;Secci? Inventario C?lico;WINV000;Section;Access;InventarioCiclico;Interno;S
+1;ADMINISTRADOR;100;Secci? Mantenimiento;WREG000;Section;Access;Mantenimientos;Interno;S
+1;ADMINISTRADOR;101;Secci? Mantenimiento Preparaci?/Expedici?;WREG000;Section;Access;Mantenimientos_PreparacionExpedicion;Interno;S
+1;ADMINISTRADOR;102;Secci? Mantenimiento Ubicaciones;WREG000;Section;Access;Mantenimientos_Ubicaciones;Interno;S
+1;ADMINISTRADOR;106;Secci? Parametrizaci?;WPAR000;Section;Access;Parametrizacion;Interno;S
+1;ADMINISTRADOR;248;Secci? Pedidos;WPRE000;Section;Access;Pedidos;Interno;S
+1;ADMINISTRADOR;162;Secci? Picking;WPRE000;Section;Access;Picking;Interno;S
+1;ADMINISTRADOR;249;Secci? Preparaciones;WPRE000;Section;Access;Preparaciones;Interno;S
+1;ADMINISTRADOR;408;Secci? Producci?;KIT000;Section;Access;Produccion_z;Interno;S
+1;ADMINISTRADOR;462;Secci? Producci? Colector;KIT000;Section;Access;ProduccionMobile;Interno;S
+1;ADMINISTRADOR;99;Secci? Productos;WREG000;Section;Access;Productos;Interno;S
+1;ADMINISTRADOR;297;Section Tarea Facturacion;WORT000;Section;Access;Facturacion;Interno;S
+1;ADMINISTRADOR;1;Seguridad;WSEG000;Section;Access;Seguridad;Interno;S
+1;ADMINISTRADOR;530;Stock disponible detalle pedido;WPRE151;Page;Access;Stock_DetallesPedidos;Interno;S
+1;ADMINISTRADOR;115;Stock por Producto;WREG009;grid1;btn;StockPorProducto;Interno;S
+1;ADMINISTRADOR;296;Submenu Tarea Facturacion;Master;Menu;lbl;WORDENTAREA_TAREAS;Interno;S
+1;ADMINISTRADOR;14;Template de Etiquetas;WCOF030;Page;Access;EtiquetasTemplate;Interno;S
+1;ADMINISTRADOR;153;Tipo de Ubicaci?es WPAR050;WPAR050;Page;Access;TiposUbicacion;Interno;S
+1;ADMINISTRADOR;181;Tipos de Estructura de Stock;WPAR325;Page;Access;TiposEstructuraStock;Interno;S
+1;ADMINISTRADOR;90;Traspaso;WREG000;Section;Access;Traspaso;Interno;S
+1;ADMINISTRADOR;470;WPRE101_Page_Access_Puede_Insertar;WPRE101;Page;Access;Puede_Insertar;Interno;S
+1;ADMINISTRADOR;469;WPRE101_Page_Access_Puede_Modificar;WPRE101;Page;Access;Puede_Modificar;Interno;S
+1;ADMINISTRADOR;516;WPRE600_Page_Access_Pedido;WPRE600;Page;Access;Pedido;Interno;S
+1;ADMINISTRADOR;514;WPRE610_Page_Access_Pedido;WPRE610;Page;Access;Pedido;Interno;S
+1;ADMINISTRADOR;515;WPRE620_Page_Access_Pedido;WPRE620;Page;Access;Pedido;Interno;S
+1;ADMINISTRADOR;471;WSEG070_Page_Access_Usuarios;WSEG070;Page;Access;Usuarios;Interno;S
+1;ADMINISTRADOR;480;WSTO600_Page_Access_Traspaso;WSTO600;Page;Access;Traspaso;Interno;S
+1;ADMINISTRADOR;481;WSTO601_Page_Access_Traspaso;WSTO601;Page;Access;Traspaso;Interno;S
+1;ADMINISTRADOR;74;btn Asignar Ubicacion WREG060;WREG060;grid1;btn;AsignarUbicacion;Interno;S
+1;ADMINISTRADOR;495;?rdenes de Ingreso;DOC080;Page;Access;OrdenesIngreso;Interno;S
+4;ComercialStock;25;MenuStock;LSTO000;Section;Access;Stock;Interno;S
+4;ComercialStock;48;Pantalla WSTO150;WSTO150;Page;Access;StockUbicacion;Interno;S
+4;ComercialStock;62;Pantalla WSTO395;WSTO395;Page;Access;StockProducto;Interno;S
+4;ComercialStock;510;Pantalla WSTO500;WSTO500;Page;Access;StockPorProducto;Interno;S
+4;ComercialStock;115;Stock por Producto;WREG009;grid1;btn;StockPorProducto;Interno;S
+3;OPERARIO;540;Acceso a croos docking;WREC170;grid1;btn;CroosDocking;Interno;S
+3;OPERARIO;557;Aceptar Diferencia Recepcion Nivel1;REC141;Aceptar;Diferencia;Nivel1;Interno;S
+3;OPERARIO;335;Alta de pedidos en WPRE100;WPRE100;grid1;btn;AltaPedidos;Interno;S
+3;OPERARIO;544;Avance de pedidos;PRE660;Page;Access;AvancePedidos;Interno;S
+3;OPERARIO;457;Bot? de confirmar pedidos para desfacturar;WPRE510;Page;Access;BtnConfirmar;Interno;S
+3;OPERARIO;307;Btn Aceptar Todo;WFAC002;grid1;btn;AceptarTodo;Interno;S
+3;OPERARIO;314;Btn Aceptar o rechazar calculos;WFAC001;grid1;btn;AceptarRechazarCalculos;Interno;S
+3;OPERARIO;235;Btn Agregar Comentario Debug;GENERAL;DebugMenu;btn;Comment;Interno;S
+3;OPERARIO;8;Btn Agregar Usuario;WSEG030;grid1;btn;AgregarUsuario;Interno;S
+3;OPERARIO;5;Btn Agregar perfil;WSEG020;grid1;btn;AgregarPerfil;Interno;S
+3;OPERARIO;47;Btn Ajuste etiqueta;WREC170;grid1;btn;AjusteEtiqueta;Interno;S
+3;OPERARIO;233;Btn Alta Formulario WREC170;WREC170;grid1;btn;AltaFormlario;Interno;S
+3;OPERARIO;219;Btn Anular Documento;WCDO095;grid1;btn;AnularDocumento;Interno;S
+3;OPERARIO;312;Btn Armar Camion Entregas;WEXP040;grid1;btn;ArmarCamionEntrega;Interno;S
+3;OPERARIO;256;Btn Armar Cami? por Contenedores;WEXP040;grid1;btn;ArmarCamionCont;Interno;S
+3;OPERARIO;177;Btn Armar Egreso;WEXP040;grid1;btn;ArmarCamion;Interno;S
+3;OPERARIO;288;Btn Asignar Procesos;WFAC001;grid1;btn;AsignarProcesos;Interno;S
+3;OPERARIO;289;Btn Asignar Selecci?;WFAC010;grid1;btn;Asignar;Interno;S
+3;OPERARIO;290;Btn Asignar Todo;WFAC010;grid1;btn;AsignarTodo;Interno;S
+3;OPERARIO;464;Btn AsignarProcesos Prueba;WFACPRUEBA;grid1;btn;AsignarProcesos;Interno;S
+3;OPERARIO;303;Btn Calculos No Realizados Por Error;WFAC001;grid1;btn;CalculosNoRealizadosPorError;Interno;S
+3;OPERARIO;374;Btn Cancelar;WPRE410;grid1;btn;Cancelar;Interno;S
+3;OPERARIO;41;Btn Cancelar Agenda;WREC170;grid1;btn;CancelarAgenda;Interno;S
+3;OPERARIO;196;Btn Cancelar Inventario WINV410;WINV410;grid1;btn;CancelarInventario;Interno;S
+3;OPERARIO;88;Btn Capacidad de pallets;WREG605;grid1;btn;Pallets;Interno;S
+3;OPERARIO;443;Btn Cargar;WEXP013;grid1;btn;Cargar;Interno;S
+3;OPERARIO;263;Btn Cargar Cami?;WEXP010;grid1;btn;Cargar;Interno;S
+3;OPERARIO;259;Btn Cargar Cami?;WEXP011;grid1;btn;Cargar;Interno;S
+3;OPERARIO;264;Btn Cargar todo en Cami?;WEXP010;grid1;btn;CargarTodo;Interno;S
+3;OPERARIO;261;Btn Cargar todo en Cami?;WEXP011;grid1;btn;CargarTodo;Interno;S
+3;OPERARIO;444;Btn CargarTodo;WEXP013;grid1;btn;CargarTodo;Interno;S
+3;OPERARIO;44;Btn Cerrar Agenda;WREC170;grid1;btn;CerrarAgenda;Interno;S
+3;OPERARIO;152;Btn Cerrar Camion WEXP040;WEXP040;grid1;btn;CerrarCamion;Interno;S
+3;OPERARIO;195;Btn Cerrar Inventario WINV410;WINV410;grid1;btn;CerrarInventario;Interno;S
+3;OPERARIO;305;Btn Cerrar Orden;WORT030;grid1;btn;CerrarOrden;Interno;S
+3;OPERARIO;135;Btn Cerrar camion WEXP040;WEXP040;grid1;btn;DetallesCamion;Interno;S
+3;OPERARIO;309;Btn Con errores Todo;WFAC002;grid1;btn;ConErrTodo;Interno;S
+3;OPERARIO;339;Btn Consulta Preparaciones;WPRE220;grid1;btn;ConsultaPreparaciones;Interno;S
+3;OPERARIO;178;Btn Contenedores;WREC240;grid1;btn;ContenedoresCrossDocking;Interno;S
+3;OPERARIO;86;Btn Controles de calidad;WREG009;grid1;btn;ControlCalidad;Interno;S
+3;OPERARIO;78;Btn C?igos de barra;WREG009;grid1;btn;CodigoBarras;Interno;S
+3;OPERARIO;291;Btn Desasociar Todo;WFAC010;grid1;btn;DesasociarTodo;Interno;S
+3;OPERARIO;327;Btn Descargar;WCOF070;grid1;btn;Descargar;Interno;S
+3;OPERARIO;232;Btn Descargar Debug;GENERAL;DebugMenu;btn;Download;Interno;S
+3;OPERARIO;265;Btn Descargar todo el Cami?;WEXP010;grid1;btn;DescargarTodo;Interno;S
+3;OPERARIO;262;Btn Descargar todo el Cami?;WEXP011;grid1;btn;DescargarTodo;Interno;S
+3;OPERARIO;445;Btn DescargarTodo;WEXP013;grid1;btn;DescargarTodo;Interno;S
+3;OPERARIO;350;Btn Deseleccionar todo;WREC176;grid1;btn;DeseleccionarTodo;Interno;S
+3;OPERARIO;351;Btn Detalle Factura;WREC174;grid1;btn;DetalleFactura;Interno;S
+3;OPERARIO;352;Btn Detalle Funcionarios WORT040;WORT040;grid1;btn;Funcionarios;Interno;S
+3;OPERARIO;353;Btn Detalle Manipuleo Insumo WORT040;WORT040;grid1;btn;ManipuleosInsumos;Interno;S
+3;OPERARIO;35;Btn Detalles Agenda;WREC170;grid1;btn;DetallesAgenda;Interno;S
+3;OPERARIO;323;Btn Detalles Ejecucion;WFAC001;grid1;btn;DetallesEjecucion;Interno;S
+3;OPERARIO;201;Btn Distribuci? Pedidos;WREC170;grid1;btn;DistribucionPedidos;Interno;S
+3;OPERARIO;211;Btn Editar Preparacion;WPRE052;grid1;btn;EditarPreparacion;Interno;S
+3;OPERARIO;4;Btn Editar perfil;WSEG020;grid1;btn;EditarPerfil;Interno;S
+3;OPERARIO;37;Btn Etiquetas Producto;WREC171;grid1;btn;EtiquetasProducto;Interno;S
+3;OPERARIO;257;Btn Excluir cargas no preparadas;WEXP040;grid1;btn;ExcluirCargasNoPreparadas;Interno;S
+3;OPERARIO;344;Btn Factura desde referencia;WREC174;grid1;btn;FacturaDesdeReferencia;Interno;S
+3;OPERARIO;441;Btn Facturar;WEXP110;grid1;btn;Facturar;Interno;S
+3;OPERARIO;253;Btn Facturar Cami?;WEXP040;grid1;btn;FacturarCamion;Interno;S
+3;OPERARIO;318;Btn Funcionarios Orden;WORT030;grid1;btn;FuncionariosOrden;Interno;S
+3;OPERARIO;251;Btn Generar Reporte;WREC170;grid1;btn;GenerarReporte;Interno;S
+3;OPERARIO;329;Btn Generar Reportes;WEXP040;grid1;btn;GenerarReportes;Interno;S
+3;OPERARIO;52;Btn Generar etiquetas;WREC170;grid1;btn;GenerarEtiquetas;Interno;S
+3;OPERARIO;224;Btn Guardar Liberacion;WPRE051;grid1;btn;GuardarLibOnda;Interno;S
+3;OPERARIO;295;Btn Habilitar Ejecuci?;WFAC001;grid1;btn;HabilitarEjecucion;Interno;S
+3;OPERARIO;191;Btn HabilitarInventario WINV410;WINV410;grid1;btn;HabilitarInventario;Interno;S
+3;OPERARIO;42;Btn Ingresar Lineas Agenda;WREC170;grid1;btn;IngresarLineasAgenda;Interno;S
+3;OPERARIO;347;Btn Ingreso l?eas;WREC174;grid1;btn;IngresoLineas;Interno;S
+3;OPERARIO;230;Btn Iniciar Debug;GENERAL;DebugMenu;btn;Start;Interno;S
+3;OPERARIO;45;Btn Liberar diferencias;WREC170;grid1;btn;LiberarDiferencias;Interno;S
+3;OPERARIO;43;Btn Liberar recepcion;WREC170;grid1;btn;LiberarRecepcion;Interno;S
+3;OPERARIO;340;Btn Log Controles;WPRE220;grid1;btn;LogControlesPreparacion;Interno;S
+3;OPERARIO;39;Btn Log Etiqueta;WREC150;grid1;btn;LogEtiqueta;Interno;S
+3;OPERARIO;393;Btn Martillo Agenda;WPOR010;grid1;btn;agenda;Interno;S
+3;OPERARIO;392;Btn Martillo Balanza;WPOR010;grid1;btn;balanza;Interno;S
+3;OPERARIO;394;Btn Martillo Expedicion;WPOR010;grid1;btn;expedicion;Interno;S
+3;OPERARIO;365;Btn Martillo WORT030 DeshabilitarOrden Tarea;WORT030;grid1;btn;DeshabilitarOrdenTarea;Interno;S
+3;OPERARIO;300;Btn Menu WFAC007;WFAC001;grid1;btn;EdicionResultado;Interno;S
+3;OPERARIO;299;Btn Menu WFAC007;WFAC001;grid1;btn;IngresoResultadoManual;Interno;S
+3;OPERARIO;423;Btn Motivo de Almacenamiento;WREC170;grid1;btn;btnMotivoAlmacenamiento_z;Interno;S
+3;OPERARIO;46;Btn Observacioines agenda;WREC170;grid1;btn;ObservacionesAgenda;Interno;S
+3;OPERARIO;110;Btn Pallets;WREG009;grid1;btn;Pallets;Interno;S
+3;OPERARIO;231;Btn Parar Debug;GENERAL;DebugMenu;btn;Stop;Interno;S
+3;OPERARIO;156;Btn Pedidos Expedidos WEXP040;WEXP040;grid1;btn;PedidosExpedidos;Interno;S
+3;OPERARIO;140;Btn Pedidos Involucrados WEXP040;WEXP040;grid1;btn;PedidosInvolucrados;Interno;S
+3;OPERARIO;145;Btn Productos Pedido WEXP050;WEXP050;grid1;btn;ProductosEnPedido;Interno;S
+3;OPERARIO;370;Btn Puntos Entrega;WEXP040;grid1;btn;PuntosEntregaCamion;Interno;S
+3;OPERARIO;308;Btn Rechazar Todo;WFAC002;grid1;btn;RechazarTodo;Interno;S
+3;OPERARIO;342;Btn Regenerar Inventario WINV410;WINV410;grid1;btn;RegenerarInventario;Interno;S
+3;OPERARIO;359;Btn Reimprimir;WCOF070;grid1;btn;Reimprimir;Interno;S
+3;OPERARIO;330;Btn Reportes;WEXP040;grid1;btn;Reportes;Interno;S
+3;OPERARIO;326;Btn Reportes;WREC170;grid1;btn;Reportes;Interno;S
+3;OPERARIO;373;Btn Reprocesar;WPRE410;grid1;btn;BtnReprocesar;Interno;S
+3;OPERARIO;356;Btn Reprocesar;WCOF070;grid1;btn;Reprocesar;Interno;S
+3;OPERARIO;302;Btn Resultados De Ejecucion;WFAC001;grid1;btn;ResultadosDeEjecucion;Interno;S
+3;OPERARIO;172;Btn Saldo DM WREG009;WREG009;grid1;btn;SaldoDM;Interno;S
+3;OPERARIO;348;Btn Seleccionar;WREC176;grid1;btn;Seleccionar;Interno;S
+3;OPERARIO;349;Btn Seleccionar todo;WREC176;grid1;btn;SeleccionarTodo;Interno;S
+3;OPERARIO;333;Btn Sincronizar Tracking;WEXP040;grid1;btn;SincronizarTracking;Interno;S
+3;OPERARIO;319;Btn Tareas Orden;WORT030;grid1;btn;TareasOrden;Interno;S
+3;OPERARIO;222;Btn Ver Descargos;WCDO095;grid1;btn;VerDescargos;Interno;S
+3;OPERARIO;173;Btn Ver Documentos Pendientes WCDO21;WCDO021;grid1;btn;VerDocPend;Interno;S
+3;OPERARIO;146;Btn etiquetas pre-separadas;WREC240;grid1;btn;EtiquetasCrossDocking;Interno;S
+3;OPERARIO;321;Btn habilitar facturacion;WFAC001;grid1;btn;HabilitarFacturacion;Interno;S
+3;OPERARIO;509;BtnPedidosPendientesCamion;WEXP040;grid1;btn;PedidosPendientesCamion;Interno;S
+3;OPERARIO;535;CEXP600_Opt_FL_AUTO_CARGA;CEXP600;Opt;FL;AUTO_CARGAZ;Interno;S
+3;OPERARIO;536;CEXP600_Opt_FL_CTRL_CONTENEDORES;CEXP600;Opt;FL;CTRL_CONTENEDORESZ;Interno;S
+3;OPERARIO;434;CNS000_Section_Access_Consulta;CNS000;Section;Access;Consulta;Interno;S
+3;OPERARIO;435;CNS510_Page_Access_UbicacionProducto;CNS510;Page;Access;UbicacionProducto;Interno;S
+3;OPERARIO;436;CNS520_Page_Access_ProductoUbicacion;CNS520;Page;Access;ProductoUbicacion;Interno;S
+3;OPERARIO;539;COLECTOR RETORNO DE BULTO;EXP610;Page;Access;RetornoBulto;Interno;S
+3;OPERARIO;2;Cambiar Contrase?;WSEG010;Page;Access;CambioPassword;Interno;S
+3;OPERARIO;502;Cambio de Estado;DOC260;Page;Access;CambioEstado;Interno;S
+3;OPERARIO;30;Cola de Impresi?;LIMP010;Page;Access;ImpresionCola;Interno;S
+3;OPERARIO;556;Colector Ingreso a Producci?;PRD200;Page;Access;ColectorContenedorProduccion;Interno;S
+3;OPERARIO;473;Colector PRD010;PRD0010;Page;Access;ColectorRecoleccionCont_0;Interno;S
+3;OPERARIO;472;Colector PRD580;PRD580;Page;Access;ColectorAsociacionDAC_0;Interno;S
+3;OPERARIO;486;Colector PRD600;PRD600;Page;Access;ColectorContenedoresHijos;Interno;S
+3;OPERARIO;555;Colector Preparacion de Producci?;REC560;Page;Access;ColectorRecepcionProduccion;Interno;S
+3;OPERARIO;395;Colector REC500;REC500;Page;Access;ColectorRecepcion;Interno;S
+3;OPERARIO;404;Colector REC510;REC510;Page;Access;Almacenamiento_Agrupado;Interno;S
+3;OPERARIO;402;Colector REC520;REC500;Page;Access;ColectorAlmacenamiento;Interno;S
+3;OPERARIO;401;Colector STO510;STO510;Page;Access;TransferenciaAgrupada;Interno;S
+3;OPERARIO;552;Colector STO520;STO520;Page;Access;TranferenciasEmpresas;Interno;S
+3;OPERARIO;489;Colector ajuste de inventario;INV540;Page;Access;ColectorAjusteInventario;Interno;S
+3;OPERARIO;532;Colector asignacion de carga;EXP610;Page;Access;AsignacionCargas;Interno;S
+3;OPERARIO;487;Colector control de contenedores;PRD590;Page;Access;ColectorControlContenedor;Interno;S
+3;OPERARIO;523;Colector control de contenedores;PRD0500;Page;Access;ColectorDevolucionDePicking;Interno;S
+3;OPERARIO;531;Colector creacion de camion;EXP600;Page;Access;ColectorCreacionCamion;Interno;S
+3;OPERARIO;524;Colector cross docking;REC530;Page;Access;CrossDocking;Interno;S
+3;OPERARIO;461;Colector de ensamblado de f?mula;KIT530;Page;Access;EnsambladoFormula_z;Interno;S
+3;OPERARIO;512;Colector preparacion manual;PRD540;Page;Access;ColectorPreparacionManual;Interno;S
+3;OPERARIO;522;Colector registro de manipuleos;REG580;Page;Access;ColectorRegistroManipuleo_z;Interno;S
+3;OPERARIO;475;Colector registro productos / codigo barras;REG500;Page;Access;ColectorRegistroPoductos;Interno;S
+3;OPERARIO;479;Colector web Descarga de Contenedores;EXP550;Page;Access;ColectorDescargaContenedor;Interno;S
+3;OPERARIO;478;Colectores web seccion contenedores;EXP000;Section;Access;ContenedoresMobile;Interno;S
+3;OPERARIO;85;Control de calidad;WREG000;Section;Access;ControlCalidad;Interno;S
+3;OPERARIO;501;Control documental;DOC000;Section;Access;ControlDocumental_z;Interno;S
+3;OPERARIO;407;DEV520_Page_Access_ColectorAveriasDeposito;DEV520;Page;Access;ColectorAveriasDeposito;Interno;S
+3;OPERARIO;458;Detalle Anulaci?;WPRE520;Page;Access;LogAnulacion;Interno;S
+3;OPERARIO;24;Detalle Dominio;WREG911;Page;Access;DominioDetalle;Interno;S
+3;OPERARIO;499;Detalle Egreso;DOC036;Page;Access;DetalleEgreso;Interno;S
+3;OPERARIO;498;Detalle Ingreso;DOC035;Page;Access;DetalleIngreso;Interno;S
+3;OPERARIO;459;Detalle de Contenedor;WPRE530;Page;Access;Cont;Interno;S
+3;OPERARIO;31;Detalle de Impresion;LIMP010DET;Page;Access;ImpresionDetalles;Interno;S
+3;OPERARIO;497;Documentos;DOC095;Page;Access;Documentos;Interno;S
+3;OPERARIO;500;Documentos Producci?;DOC290;Page;Access;DocumentoProduccion;Interno;S
+3;OPERARIO;23;Dominio;WREG910;Page;Access;Dominios;Interno;S
+3;OPERARIO;517;EXP320_Page_Access_Contenedor_Con_Problema;EXP320;Page;Access;Contenedor_Con_ProblemaZ;Interno;N
+3;OPERARIO;519;EXP330_Page_Access_Pedido_Mostrador;EXP330;Page;Access;Pedido_MostradorZ;Interno;N
+3;OPERARIO;437;EXP500_Page_Access_Particion;EXP500;Page;Access;Particion;Interno;S
+3;OPERARIO;438;EXP510_Page_Access_Consolidacion;EXP510;Page;Access;Consolidacion;Interno;S
+3;OPERARIO;446;EXP550_Page_Access_DescargaContenedores;EXP550;Page;Access;DescargaContenedores;Interno;S
+3;OPERARIO;136;Editar valores en WINV010;WINV010;Sec0;General;Edicion;Interno;S
+3;OPERARIO;336;Edtar detalle de pedido WPRE10;WPRE100;grid1;btn;EditarPedido;Interno;S
+3;OPERARIO;388;El usario tiene permiso para todaslas empresas;GENERAL;;;GENERAL_UsuarioTodasLasEmpresas;Interno;S
+3;OPERARIO;229;General Menu Debugger;GENERAL;Section;Access;DebugMenu;Interno;S
+3;OPERARIO;528;Habilitar consulta de etiquetas;WREC170;grid1;btn;ConsultarEtiquetas;Interno;S
+3;OPERARIO;525;Habilitar modalidad de producto;STO510;Opt;Access;PRODUCTO;Interno;S
+3;OPERARIO;526;Habilitar modalidad de ubicacion;STO510;Opt;Access;ENDERECO;Interno;S
+3;OPERARIO;527;Habilitar recepcion automatica;WREC170;grid1;btn;RecepcionAutomatica_z;Interno;S
+3;OPERARIO;15;Impresoras;WCOF040;Page;Access;ImpresorasConfig;Interno;S
+3;OPERARIO;428;Inventario;INV550;Page;Access;ColectorInvetario;Interno;S
+3;OPERARIO;406;KIT520_Page_Access_ColectorAbastecimientoLineaProducci?;KIT520;Page;Access;ColectorAbastecimientoLineaProducci?_;zInterno;S
+3;OPERARIO;13;Label Estilo;WCOF020;Page;Access;EtiquetasEstilo;Interno;S
+3;OPERARIO;3;Mantenedor de Perfiles;WSEG020;Page;Access;Perfiles;Interno;S
+3;OPERARIO;6;Mantenedor de Usuarios;WSEG030;Page;Access;Usuarios;Interno;S
+3;OPERARIO;361;Menu An?isis de Rechazos;WPRE170;Page;Access;AnalisisRechazos;Interno;S
+3;OPERARIO;431;Menu Colector Preparacion;REC000;Section;Access;Preparacion;Interno;S
+3;OPERARIO;396;Menu Colector Recepcion;REC000;Section;Access;Recepcion;Interno;S
+3;OPERARIO;400;Menu Colector Stock;STO000;Section;Access;Stock;Interno;S
+3;OPERARIO;27;Menu Expedici?;LEXP000;Section;Access;Expedicion;Interno;S
+3;OPERARIO;29;Menu Impresion;LIMP000;Section;Access;Impresion;Interno;S
+3;OPERARIO;19;Menu Interfaz;WINT000;Section;Access;Interfaz;Interno;S
+3;OPERARIO;247;Menu Parametrizaci? Recepci?;WPAR000;Section;Access;Recepcion;Interno;S
+3;OPERARIO;33;Menu Recepcion;WREC000;Section;Access;Recepcion;Interno;S
+3;OPERARIO;22;Menu Region;WREG000;Section;Access;Registro;Interno;S
+3;OPERARIO;484;Menu Reportes;WCOF000;Section;Access;ConfiguracionReportes;Interno;S
+3;OPERARIO;269;Menu WFAC000;WFAC000;Section;Access;Facturacion_z;Interno;S
+3;OPERARIO;270;Menu WFAC250;WFAC250;Page;Access;CodigoComponente;Interno;S
+3;OPERARIO;293;Menu WPOR000;WPOR000;Section;Access;Poteria_z;Interno;S
+3;OPERARIO;398;Menu WPRO00;WPRO000;Section;Access;Productividad;Interno;S
+3;OPERARIO;360;Menu WPRO000;WCOF000;Section;Access;Productividad;Interno;S
+3;OPERARIO;363;Menu WPRO010;WPRO010;Page;Access;Productividad;Interno;S
+3;OPERARIO;364;Menu WPRO020;WPRO020;Page;Access;Productividad;Interno;S
+3;OPERARIO;311;Menu configuraci? facturaci?;WFAC000;Section;Access;FacturacionConfiguracion;Interno;S
+3;OPERARIO;26;Menu de Pedidos;LPRE000;Section;Access;Preparacion;Interno;S
+3;OPERARIO;28;Menu de recepcion;LREC000;Section;Access;Recepcion;Interno;S
+3;OPERARIO;12;MenuConfiguracion;WCOF000;Section;Access;Configuracion;Interno;S
+3;OPERARIO;25;MenuStock;LSTO000;Section;Access;Stock;Interno;S
+3;OPERARIO;422;Motivo de Almacenamiento;WREC300;Page;Access;Motivo_Almacenaje_z;Interno;S
+3;OPERARIO;549;No anular preparaciones job nocturno;WPRE450;Page;Access;NoAnularPreparaciones;Interno;S
+3;OPERARIO;429;Opci? salir del sistema colectores;COL000;Page;Access;PanelSalir;Interno;S
+3;OPERARIO;151;PANTALLA WPAR050;WPAR050;Page;Access;TiposUbicaciones;Interno;S
+3;OPERARIO;117;PANTALLA WPAR090;WPAR090;Page;Access;Situaciones;Interno;S
+3;OPERARIO;118;PANTALLA WPAR155;WPAR155;Page;Access;Departamentos;Interno;S
+3;OPERARIO;119;PANTALLA WPAR156;WPAR156;Page;Access;Ciudades;Interno;S
+3;OPERARIO;116;PANTALLA WPAR160;WPAR160;Page;Access;TipoDocumento;Interno;S
+3;OPERARIO;127;PANTALLA WPRE100;WPRE100;Page;Access;Pedido;Interno;S
+3;OPERARIO;139;PANTALLA WPRE101;WPRE101;Page;Access;LineasPedido;Interno;S
+3;OPERARIO;158;PANTALLA WPRE110;WPRE110;Page;Access;EliminarPedidosPendientes;Interno;S
+3;OPERARIO;154;PANTALLA WPRE150;WPRE150;Page;Access;DetallesPedidos;Interno;S
+3;OPERARIO;537;POR060_Section_Access_VehiculosSinAgenda;POR060;Section;Access;VehiculosSinAgenda;Interno;S
+3;OPERARIO;538;POR070_Section_Access_VehiculosSinCamion;POR070;Section;Access;VehiculosSinCamion;Interno;S
+3;OPERARIO;324;PPantalla WPOR020;WPOR020;Section;Access;RegitroSalida;Interno;S
+3;OPERARIO;513;PRE640_Page_Access_SeguimientoPedido;PRE640;Page;Access;SeguimientoPedido;Interno;S
+3;OPERARIO;554;PRE680_Page_Access_Reabastecimiento;PRE680;Page;Access;Reabastecimiento;Interno;S
+3;OPERARIO;425;Pantall PRD090 Prep. Picking;PRD090;Page;Access;ColectorPreparacionPicking;Interno;S
+3;OPERARIO;553;Pantalla Anulaciones Pendientes PRE460;PRE460;Page;Access;AnulacionesPendientes;Interno;S
+3;OPERARIO;313;Pantalla Armar Camion Entregas;WEXP012;Page;Access;ArmarEgresoEntrega;Interno;S
+3;OPERARIO;424;Pantalla EXP110;EXP110;Page;Access;Empaquetado;Interno;S
+3;OPERARIO;546;Pantalla Indicadores;WPRO030;Page;Access;Productividad;Interno;S
+3;OPERARIO;409;Pantalla KIT100;KIT100;Page;Access;DefinicionFormula;Interno;S
+3;OPERARIO;410;Pantalla KIT101;KIT101;Page;Access;ArmadoFormula;Interno;S
+3;OPERARIO;411;Pantalla KIT102;KIT102;Page;Access;ConfiguracionFormula;Interno;S
+3;OPERARIO;412;Pantalla KIT110;KIT110;Page;Access;IngresoProduccion;Interno;S
+3;OPERARIO;413;Pantalla KIT120;KIT120;Page;Access;ConfiguracionInstancia;Interno;S
+3;OPERARIO;414;Pantalla KIT130;KIT130;Page;Access;AsociarPedidos-z;Interno;S
+3;OPERARIO;415;Pantalla KIT150;KIT150;Page;Access;Seguimiento;Interno;S
+3;OPERARIO;416;Pantalla KIT151;KIT151;Page;Access;DetSeguimiento;Interno;S
+3;OPERARIO;417;Pantalla KIT170;KIT170;Page;Access;PanelProduccion;Interno;S
+3;OPERARIO;418;Pantalla KIT171;KIT171;Page;Access;Produccion;Interno;S
+3;OPERARIO;419;Pantalla KIT175;KIT175;Page;Access;AjusteCierre;Interno;S
+3;OPERARIO;420;Pantalla KIT180;KIT180;Page;Access;ConsultaPasadas;Interno;S
+3;OPERARIO;421;Pantalla KIT190;KIT190;Page;Access;Lineas;Interno;S
+3;OPERARIO;485;Pantalla KIT191;KIT191;Page;Access;LotesPredefinidos;Interno;S
+3;OPERARIO;494;Pantalla KIT191;KIT191;Page;Access;PredefinirLotes;Interno;S
+3;OPERARIO;17;Pantalla LCON010;LCON010;Page;Access;GestionParametros;Interno;S
+3;OPERARIO;18;Pantalla LCON020;LCON020;Page;Access;CargarParametro;Interno;S
+3;OPERARIO;430;Pantalla PRD510 Reabastecimiento por etapas;PRD510;Page;Access;ReabastecimientoPorEtapas;Interno;S
+3;OPERARIO;463;Pantalla Prueba;PRUEBAFAC;Page;;PRUEBAFAC_Page_Access;Interno;S
+3;OPERARIO;465;Pantalla Prueba recibir;WFACPRUEBARECIBE;Page;;WFACPRUEBARECIBE_Page_Access;Interno;S
+3;OPERARIO;426;Pantalla REG530 Registro Picking;REG530;Page;Access;ColectorRegistroPicking;Interno;S
+3;OPERARIO;520;Pantalla SEG210;SEG210;Page;Access;GestionRecursosZ;Interno;N
+3;OPERARIO;159;Pantalla Tipos de Areas WPAR310;WPAR310;Page;Access;TiposDeAreas;Interno;S
+3;OPERARIO;328;Pantalla Veh?ulos en Deposito WPOR30;WPOR030;Section;Access;vheiculosDeposito;Interno;S
+3;OPERARIO;226;Pantalla WCDO011;WCDO011;Page;Access;CambiosCodigos;Interno;S
+3;OPERARIO;227;Pantalla WCDO012;WCDO012;Page;Access;DetCambiosCodigos;Interno;S
+3;OPERARIO;165;Pantalla WCDO020;WCDO020;Section;Access;SaldoDM;Interno;S
+3;OPERARIO;174;Pantalla WCDO021;WCDO021;Section;Access;DocPend;Interno;S
+3;OPERARIO;188;Pantalla WCDO025;WCDO025;Page;Access;ActasIngreso;Interno;S
+3;OPERARIO;200;Pantalla WCDO035;WCDO035;Page;Access;DetalleDocumentos;Interno;S
+3;OPERARIO;220;Pantalla WCDO036;WCDO036;Page;Access;DetDocumentoSAC;Interno;S
+3;OPERARIO;225;Pantalla WCDO066;WCDO066;Page;Access;ModDocEstadoRKF;Interno;S
+3;OPERARIO;216;Pantalla WCDO080;WCDO080;Page;Access;OrdenesIngreso;Interno;S
+3;OPERARIO;217;Pantalla WCDO081;WCDO081;Page;Access;DetDocumentos;Interno;S
+3;OPERARIO;166;Pantalla WCDO095;WCDO095;Section;Access;Documentos;Interno;S
+3;OPERARIO;185;Pantalla WCDO096;WCDO096;Section;Access;DocumentosIngreso;Interno;S
+3;OPERARIO;186;Pantalla WCDO097;WCDO097;Section;Access;DocumentosEgreso;Interno;S
+3;OPERARIO;223;Pantalla WCDO100;WCDO100;Page;Access;AsignacionIngresoEgreso;Interno;S
+3;OPERARIO;167;Pantalla WCDO120;WCDO120;Section;Access;HistorialCambioEstado;Interno;S
+3;OPERARIO;221;Pantalla WCDO171;WCDO171;Page;Access;Descargos;Interno;S
+3;OPERARIO;214;Pantalla WCDO260;WCDO260;Page;Access;CambioDeEstado;Interno;S
+3;OPERARIO;204;Pantalla WCDO280;WCDO280;Page;Access;VencimientoDocIng;Interno;S
+3;OPERARIO;203;Pantalla WCDO281;WCDO281;Page;Access;VenciminetoDocEgr;Interno;S
+3;OPERARIO;128;Pantalla WCOF000;WIMP000;Section;Access;ConfiguracionEstilos;Interno;S
+3;OPERARIO;80;Pantalla WCOF010;WCOF010;Page;Access;LenguajeImpresion;Interno;S
+3;OPERARIO;126;Pantalla WCOF025;WCOF025;Page;Access;LabelEstiloContenedores;Interno;S
+3;OPERARIO;16;Pantalla WCOF050;WCOF050;Page;Access;Traducciones;Interno;S
+3;OPERARIO;254;Pantalla WCOF060;WCOF060;Page;Access;Servidor;Interno;S
+3;OPERARIO;325;Pantalla WCOF070;WCOF070;Page;Access;Reportes;Interno;S
+3;OPERARIO;483;Pantalla WCOF080;WCOF080;Page;Access;ReportesEmpresa;Interno;S
+3;OPERARIO;271;Pantalla WEVT010;WEVT010;Page;Access;PanelEventos;Interno;S
+3;OPERARIO;273;Pantalla WEVT020;WEVT020;Page;Access;Contactos;Interno;S
+3;OPERARIO;274;Pantalla WEVT030;WEVT030;Page;Access;GruposContactos;Interno;S
+3;OPERARIO;277;Pantalla WEVT040;WEVT040;Page;Access;InstanciaEvento;Interno;S
+3;OPERARIO;278;Pantalla WEVT050;WEVT050;Page;Access;EventoMailSalida;Interno;S
+3;OPERARIO;176;Pantalla WEXP010;WEXP010;Page;Access;ArmarEgreso;Interno;S
+3;OPERARIO;255;Pantalla WEXP011;WEXP011;Page;Access;ArmarEgresoCont;Interno;S
+3;OPERARIO;442;Pantalla WEXP013;WEXP013;Page;Access;ArmarEgresoPedido;Interno;S
+3;OPERARIO;129;Pantalla WEXP040;WEXP040;Page;Access;Egresos;Interno;S
+3;OPERARIO;157;Pantalla WEXP041;WEXP041;Page;Access;PedidosExpedidos;Interno;S
+3;OPERARIO;369;Pantalla WEXP042;WEXP042;Page;Access;PuntosEntregaCamion;Interno;S
+3;OPERARIO;508;Pantalla WEXP043;WEXP043;Page;Access;PedidosPendientesCamion;Interno;S
+3;OPERARIO;131;Pantalla WEXP045;WEXP045;Page;Access;DetalleCamion;Interno;S
+3;OPERARIO;141;Pantalla WEXP050;WEXP050;Page;Access;PedidosInvolucrados;Interno;S
+3;OPERARIO;148;Pantalla WEXP051;WEXP051;Page;Access;ProdutosPedidosEgreso;Interno;S
+3;OPERARIO;149;Pantalla WEXP052;WEXP052;Page;Access;DocumentacionEgreso;Interno;S
+3;OPERARIO;228;Pantalla WEXP080;WEXP080;Page;Access;ModificarNumCarga_z;Interno;S
+3;OPERARIO;182;Pantalla WEXP090 Consulta de Cargas Asignadas;WEXP090;Page;Access;ConsultaDeCargasAsignadas;Interno;S
+3;OPERARIO;440;Pantalla WEXP110;WEXP110;Page;Access;FacturarPedidos_z;Interno;S
+3;OPERARIO;482;Pantalla WEXP120;WEXP120;Page;Access;EmpaquetadoPicking;Interno;S
+3;OPERARIO;205;Pantalla WEXP310;WEXP310;Page;Access;ConsolidacionMasiva;Interno;S
+3;OPERARIO;279;Pantalla WFAC;WFAC251;Page;Access;CodigoComponente;Interno;S
+3;OPERARIO;285;Pantalla WFAC001;WFAC001;Page;Access;EjecucionesFacturacion;Interno;S
+3;OPERARIO;306;Pantalla WFAC002;WFAC002;Page;Access;ResultadosCalculos;Interno;S
+3;OPERARIO;286;Pantalla WFAC003;WFAC003;Page;Access;CalcNoRealizadosPorError;Interno;S
+3;OPERARIO;322;Pantalla WFAC004;WFAC004;Page;Access;DetallesEjecucion;Interno;S
+3;OPERARIO;281;Pantalla WFAC005;WFAC005;Page;Access;EmpresaProceso;Interno;S
+3;OPERARIO;284;Pantalla WFAC006;WFAC006;Page;Access;ResultadoEjecucion;Interno;S
+3;OPERARIO;292;Pantalla WFAC007;WFAC007;Page;Access;IngresoResultadosManuales;Interno;S
+3;OPERARIO;287;Pantalla WFAC010;WFAC010;Page;Access;ProcesosEjecucion;Interno;S
+3;OPERARIO;357;Pantalla WFAC200;WFAC200;Page;Access;UnidadMedida;Interno;S
+3;OPERARIO;358;Pantalla WFAC230;WFAC230;Page;Access;UnidadMedidaEmp;Interno;S
+3;OPERARIO;346;Pantalla WFAC249;WFAC249;Page;Access;CodigoFacturacion;Interno;S
+3;OPERARIO;282;Pantalla WFAC255;WFAC255;Page;Access;ListaPrecios;Interno;S
+3;OPERARIO;283;Pantalla WFAC256;WFAC256;Page;Access;CotizacionListas;Interno;S
+3;OPERARIO;280;Pantalla WFAC405;WFAC405;Page;Access;CuentaContable;Interno;S
+3;OPERARIO;474;Pantalla WIMP011;WIMP011;Page;Access;Reimpresion;Interno;S
+3;OPERARIO;83;Pantalla WIMP050;WIMP050;Page;Access;ImpresionesGenerales;Interno;S
+3;OPERARIO;92;Pantalla WIMP060;WIMP060;Page;Access;ImpresionesGeneralesProductos;Interno;S
+3;OPERARIO;63;Pantalla WIMP100;WIMP100;Page;Access;ImpEtHijas;Interno;S
+3;OPERARIO;67;Pantalla WIMP101;WIMP101;Page;Access;ImpEtHijas;Interno;S
+3;OPERARIO;64;Pantalla WIMP110;WIMP110;Page;Access;Contenedores;Interno;S
+3;OPERARIO;69;Pantalla WIMP111;WIMP111;Page;Access;ClientesContenedores;Interno;S
+3;OPERARIO;65;Pantalla WIMP120;WIMP120;Page;Access;Equipos;Interno;S
+3;OPERARIO;57;Pantalla WIMP80;WIMP080;Page;Access;ImpEtRec;Interno;S
+3;OPERARIO;58;Pantalla WIMP90;WIMP090;Page;Access;ImpEtCon;Interno;S
+3;OPERARIO;208;Pantalla WINT030;WINT030;Page;Access;InterfacesExternas;Interno;S
+3;OPERARIO;207;Pantalla WINT031;WINT031;Page;Access;DetalleInterfacesExternas;Interno;S
+3;OPERARIO;20;Pantalla WINT050;WINT050;Page;Access;ConsultaInterfaz;Interno;S
+3;OPERARIO;239;Pantalla WINT052;WINT052;Page;Access;ConsultaInterfazCargada;Interno;S
+3;OPERARIO;132;Pantalla WINV010;WINV010;Page;Access;MarcadoUbicaciones;Interno;S
+3;OPERARIO;171;Pantalla WINV030;WINV030;Page;Access;AjustesDeStock;Interno;S
+3;OPERARIO;137;Pantalla WINV040;WINV040;Page;Access;LogInventario;Interno;S
+3;OPERARIO;194;Pantalla WINV050;WINV050;Page;Access;AvanceInventario;Interno;S
+3;OPERARIO;170;Pantalla WINV060;WINV060;Page;Access;AsignarMotivosAjuste;Interno;S
+3;OPERARIO;114;Pantalla WINV100;WINV100;Page;Access;AnalisisInventario;Interno;S
+3;OPERARIO;180;Pantalla WINV410;WINV410;Page;Access;PanelInventarios;Interno;S
+3;OPERARIO;190;Pantalla WINV411;WINV411;Page;Access;UbicacionesInventario;Interno;S
+3;OPERARIO;192;Pantalla WINV412;WINV412;Page;Access;DetalleDeConteos;Interno;S
+3;OPERARIO;193;Pantalla WINV413;WINV413;Page;Access;ConteosPendientes;Interno;S
+3;OPERARIO;260;Pantalla WINV413;WINV413;Page;Access;SeleccionDeRegStock;Interno;S
+3;OPERARIO;266;Pantalla WINV414;WINV414;Page;Access;ActualizarInventarios;Interno;S
+3;OPERARIO;521;Pantalla WINV415;WINV415;Page;Access;InvEnderecoDetError;Interno;S
+3;OPERARIO;276;Pantalla WORT010;WORT010;Page;Access;Tareas;Interno;S
+3;OPERARIO;301;Pantalla WORT020;WORT020;Page;Access;Insumos;Interno;S
+3;OPERARIO;304;Pantalla WORT030;WORT030;Page;Access;TrabajoManual;Interno;S
+3;OPERARIO;320;Pantalla WORT040;WORT040;Page;Access;OrdenTarea;Interno;S
+3;OPERARIO;317;Pantalla WORT050;WORT050;Page;Access;OrdenFuncionario;Interno;S
+3;OPERARIO;366;Pantalla WORT060;WORT060;Page;Access;OrdenTareaFuncionario;Interno;S
+3;OPERARIO;362;Pantalla WORT070;WORT070;Page;Access;TareaDato;Interno;S
+3;OPERARIO;367;Pantalla WORT090;WORT090;Page;Access;RegistroTareaAmigable;Interno;S
+3;OPERARIO;315;Pantalla WORT100;WORT100;Page;Access;PlantillasTareas;Interno;S
+3;OPERARIO;316;Pantalla WORT110;WORT110;Page;Access;PlantillasTareasDet;Interno;S
+3;OPERARIO;111;Pantalla WPAR110;WPAR110;Page;Access;UnidadesMedida;Interno;S
+3;OPERARIO;124;Pantalla WPAR170;WPAR170;Page;Access;OperacionesStock;Interno;S
+3;OPERARIO;125;Pantalla WPAR200;WPAR200;Page;Access;Secuencias;Interno;S
+3;OPERARIO;142;Pantalla WPAR260;WPAR260;Page;Access;TiposDeVehiculos;Interno;S
+3;OPERARIO;107;Pantalla WPAR604;WPAR604;Page;Access;TiposCodigosBarra;Interno;S
+3;OPERARIO;294;Pantalla WPOR010;WPOR010;Section;Access;RegitroEntrada;Interno;S
+3;OPERARIO;377;Pantalla WPRE005;WPRE005;Page;Access;ErroresColectorOffline_z;Interno;S
+3;OPERARIO;213;Pantalla WPRE050;WPRE050;Page;Access;LiberacionDeOnda;Interno;S
+3;OPERARIO;215;Pantalla WPRE051;WPRE051;Page;Access;PedidosPendLiberacion;Interno;S
+3;OPERARIO;209;Pantalla WPRE052;WPRE052;Page;Access;PanelLiberacion;Interno;S
+3;OPERARIO;168;Pantalla WPRE060;WPRE060;Page;Access;ConsultaContenedoresGen;Interno;S
+3;OPERARIO;169;Pantalla WPRE061;WPRE061;Page;Access;ConsultaDetPicking;Interno;S
+3;OPERARIO;197;Pantalla WPRE120;WPRE120;Page;Access;AnulacionPreparaciones;Interno;S
+3;OPERARIO;236;Pantalla WPRE121;WPRE121;Page;Access;AnulacionTotalPreparaciones;Interno;S
+3;OPERARIO;175;Pantalla WPRE130;WPRE130;Page;Access;ConsultaPreparaciones;Interno;S
+3;OPERARIO;184;Pantalla WPRE160;WPRE160;Page;Access;AvancePreparacion;Interno;S
+3;OPERARIO;187;Pantalla WPRE161;WPRE161;Page;Access;AvancePreparacionEmpresa;Interno;S
+3;OPERARIO;189;Pantalla WPRE162;WPRE162;Page;Access;AvancePreparacionPreparacion;Interno;S
+3;OPERARIO;210;Pantalla WPRE170;WPRE170;Page;Access;AnalisisRechazo;Interno;S
+3;OPERARIO;338;Pantalla WPRE220;WPRE220;Page;Access;ControlesPreparacion;Interno;S
+3;OPERARIO;341;Pantalla WPRE221;WPRE221;Page;Access;LogControlesPreparacion;Interno;S
+3;OPERARIO;183;Pantalla WPRE300 Creaci? y cierrede una preparaci? manual;WPRE300;Page;Access;PreparacionManual;Interno;S
+3;OPERARIO;163;Pantalla WPRE310;WPRE310;Page;Access;IniciarPickingEtiqueta;Interno;S
+3;OPERARIO;179;Pantalla WPRE320;WPRE320;Page;Access;FinalizarPickingEtiq;Interno;S
+3;OPERARIO;161;Pantalla WPRE330;WPRE330;Page;Access;TiemposPicking;Interno;S
+3;OPERARIO;337;Pantalla WPRE350;WPRE350;Page;Access;UbicacionesReabastecimiento;Interno;S
+3;OPERARIO;355;Pantalla WPRE360;WPRE360;Page;Access;StockPickingMal;Interno;S
+3;OPERARIO;372;Pantalla WPRE410;WPRE410;Page;Access;PanelAnulacion;Interno;S
+3;OPERARIO;371;Pantalla WPRE420;WPRE420;Page;Access;VerErrores;Interno;S
+3;OPERARIO;375;Pantalla WPRE430;WPRE430;Page;Access;LineasAnulacion;Interno;S
+3;OPERARIO;244;Pantalla WREC010;WREC010;Page;Access;RefRecepcion;Interno;S
+3;OPERARIO;245;Pantalla WREC011;WREC011;Page;Access;DETRefRecepcion;Interno;S
+3;OPERARIO;53;Pantalla WREC140;WREC140;Page;Access;LiberarDifRecepcion;Interno;S
+3;OPERARIO;258;Pantalla WREC141;WREC141;Page;Access;ProblemasRecepcion;Interno;S
+3;OPERARIO;38;Pantalla WREC150;WREC150;Page;Access;ConsultaEtiquetas;Interno;S
+3;OPERARIO;32;Pantalla WREC170;WREC170;Page;Access;PanelRecepcion;Interno;S
+3;OPERARIO;34;Pantalla WREC171;WREC171;Page;Access;DetallesAgenda;Interno;S
+3;OPERARIO;240;Pantalla WREC172;WREC172;Page;Access;RecepcionTipoExterno;Interno;S
+3;OPERARIO;241;Pantalla WREC173;WREC173;Page;Access;RecepcionRelEmpresaTipo;Interno;S
+3;OPERARIO;246;Pantalla WREC174;WREC174;Page;Access;RecepcionFactura;Interno;S
+3;OPERARIO;252;Pantalla WREC175;WREC175;Page;Access;LineasFacturas;Interno;S
+3;OPERARIO;345;Pantalla WREC176;WREC176;Page;Access;FacturaDesdeReferencia;Interno;S
+3;OPERARIO;40;Pantalla WREC180;WREC180;Page;Access;LogEtiquetas;Interno;S
+3;OPERARIO;147;Pantalla WREC220;WREC220;Page;Access;LiberarCrossDocking;Interno;S
+3;OPERARIO;143;Pantalla WREC240;WREC240;Page;Access;ConsultaCrossDocking;Interno;S
+3;OPERARIO;198;Pantalla WREC260;WREC260;Page;Access;DistribuirPedidosAbiertos;Interno;S
+3;OPERARIO;150;Pantalla WREC270;WREC270;Page;Access;ConvertirEtiquetas;Interno;S
+3;OPERARIO;268;Pantalla WREG000;WREG000;Page;Access;TestGrilla;Interno;S
+3;OPERARIO;237;Pantalla WREG009;WREG009;grid1;btn;Alta;Interno;S
+3;OPERARIO;238;Pantalla WREG009;WREG009;grid1;btn;Edit;Interno;S
+3;OPERARIO;61;Pantalla WREG009;WREG009;Page;Access;Productos;Interno;S
+3;OPERARIO;94;Pantalla WREG010;WREG010;Page;Access;Herramientas;Interno;S
+3;OPERARIO;95;Pantalla WREG020;WREG020;Page;Access;FamiliaProductos;Interno;S
+3;OPERARIO;96;Pantalla WREG030;WREG030;Page;Access;Rotatividad;Interno;S
+3;OPERARIO;72;Pantalla WREG035;WREG035;Page;Access;Clases;Interno;S
+3;OPERARIO;77;Pantalla WREG036;WREG036;Page;Access;SubClases;Interno;S
+3;OPERARIO;66;Pantalla WREG040;WREG040;Page;Access;AltaUbicacion;Interno;S
+3;OPERARIO;206;Pantalla WREG050;WREG050;Page;Access;AsignacionUbicacionesPick;Interno;S
+3;OPERARIO;73;Pantalla WREG060;WREG060;Page;Access;ProdSinUbicPrepa;Interno;S
+3;OPERARIO;98;Pantalla WREG080;WREG080;Page;Access;PuertaEmbarque;Interno;S
+3;OPERARIO;267;Pantalla WREG090;WREG090;Page;Access;RamosProducto;Interno;S
+3;OPERARIO;68;Pantalla WREG100;WREG100;Page;Access;Empresas;Interno;S
+3;OPERARIO;75;Pantalla WREG110;WREG110;Page;Access;MantenimientoPaises;Interno;S
+3;OPERARIO;59;Pantalla WREG120;WREG120;Page;Access;ConversionCodigosTraspaso;Interno;S
+3;OPERARIO;91;Pantalla WREG125;WREG125;Page;Access;CrearProductosTraspaso;Interno;S
+3;OPERARIO;81;Pantalla WREG130;WREG130;Page;Access;RutasEntregas;Interno;S
+3;OPERARIO;79;Pantalla WREG140;WREG140;Page;Access;Ondas;Interno;S
+3;OPERARIO;138;Pantalla WREG141;WREG141;Page;Access;MotivosAjusteStock;Interno;S
+3;OPERARIO;376;Pantalla WREG150;WREG150;Page;Access;Muestras;Interno;S
+3;OPERARIO;71;Pantalla WREG220;WREG220;Page;Access;Clientes;Interno;S
+3;OPERARIO;93;Pantalla WREG250;WREG250;Page;Access;Vehiculos;Interno;S
+3;OPERARIO;89;Pantalla WREG400;WREG400;Page;Access;UnidadesAlternas;Interno;S
+3;OPERARIO;97;Pantalla WREG410;WREG410;Page;Access;NAM;Interno;S
+3;OPERARIO;82;Pantalla WREG601;WREG601;Page;Access;ControlesCalidad;Interno;S
+3;OPERARIO;103;Pantalla WREG602;WREG602;Page;Access;ControlesCalidadProducto;Interno;S
+3;OPERARIO;84;Pantalla WREG602;WREG602;Page;Access;ControlesCalidadProductos;Interno;S
+3;OPERARIO;76;Pantalla WREG603;WREG603;Page;Access;CodigoBarras;Interno;S
+3;OPERARIO;87;Pantalla WREG605;WREG605;Page;Access;PalletProducto;Interno;S
+3;OPERARIO;243;Pantalla WRG001;WREG001;Section;Access;Registro;Interno;S
+3;OPERARIO;9;Pantalla WSEG031;WSEG031;Page;Access;EmpresasGrupos;Interno;S
+3;OPERARIO;10;Pantalla WSEG050;WSEG050;Page;Access;SesionesGestion;Interno;S
+3;OPERARIO;11;Pantalla WSEG060;WSEG060;Page;Access;LocksGestion;Interno;S
+3;OPERARIO;476;Pantalla WSEG080;WSEG080;Page;Access;UserPredio;Interno;S
+3;OPERARIO;391;Pantalla WSTO005;WSTO005;Page;Access;StockGeneralProducto;Interno;S
+3;OPERARIO;343;Pantalla WSTO030;WSTO030;Page;Access;TraceStock;Interno;S
+3;OPERARIO;56;Pantalla WSTO040;WSTO040;Page;Access;TraspasoStock;Interno;S
+3;OPERARIO;54;Pantalla WSTO060;WSTO060;Page;Access;AceptarControlesCalidad;Interno;S
+3;OPERARIO;51;Pantalla WSTO070;WSTO070;Page;Access;UbicacionesParaReabastecer;Interno;S
+3;OPERARIO;212;Pantalla WSTO090;WSTO090;Page;Access;MovimientosDeInventarioL;Interno;S
+3;OPERARIO;50;Pantalla WSTO110;WSTO110;Page;Access;ControlDeCalidad;Interno;S
+3;OPERARIO;48;Pantalla WSTO150;WSTO150;Page;Access;StockUbicacion;Interno;S
+3;OPERARIO;60;Pantalla WSTO150DET;WSTO150DET;Page;Access;StockUbicacion;Interno;S
+3;OPERARIO;242;Pantalla WSTO155;WSTO155;Page;Access;UbicacionesDisponivles;Interno;S
+3;OPERARIO;310;Pantalla WSTO210;WSTO210;Page;Access;StockEnvases_z;Interno;S
+3;OPERARIO;368;Pantalla WSTO310;WSTO310;Page;Access;Stock;Interno;S
+3;OPERARIO;62;Pantalla WSTO395;WSTO395;Page;Access;StockProducto;Interno;S
+3;OPERARIO;49;Pantalla WSTO498;WSTO498;Page;Access;StockPalletTranferencia;Interno;S
+3;OPERARIO;510;Pantalla WSTO500;WSTO500;Page;Access;StockPorProducto;Interno;S
+3;OPERARIO;511;Pantalla WSTO550;WSTO550;Page;Access;ProductoConMasReservaQueStock;Interno;S
+3;OPERARIO;403;Pantalla WSTO580;WSTO580;Page;Access;Existencia_z;Interno;S
+3;OPERARIO;234;Pantalla de Analisis de rechazos;WPRE052;Page;Access;AnalisisRechazos;Interno;S
+3;OPERARIO;202;Pantalla de ingreso de c?igo sac;WCDO135;Page;Access;IngresarCodigoSac;Interno;S
+3;OPERARIO;547;Pantalla de liberacion automatica;AUT010;Section;Access;LiberacionAutomatica;Interno;S
+3;OPERARIO;563;Pantalla de listado de contenedores por camion pendientes de control;WEXP575;Page;Access;ControlContenedoresCamion;Interno;S
+3;OPERARIO;529;Pantalla de relacion entere agenday referencia;WREC350;Page;Access;RelacionAgendaReferencia;Interno;S
+3;OPERARIO;21;Pantalla errores de ejecucion;WINT070;Page;Access;ErroresEjecucion;Interno;S
+3;OPERARIO;542;Pantalla log de envases;WSTO211;Page;Access;LogEnvases;Interno;S
+3;OPERARIO;456;Pantalla para desfacturar pedidos;WPRE510;Page;Access;DesfacturarPedidos_z;Interno;S
+3;OPERARIO;543;Pantalla predios;WREG705;Page;Access;Predios;Interno;S
+3;OPERARIO;466;Pantalla prueba 2;WFACPRUEB2;Page;;WFACPRUEB2_Page_Access;Interno;S
+3;OPERARIO;467;Pantalla prueba 3;WFACPRUE3;Page;;WFACPRUE3_Page_Access;Interno;S
+3;OPERARIO;468;Pantalla prueba 4;WFACPRUE4;Page;;WFACPRUE4_Page_Access;Interno;S
+3;OPERARIO;545;Pantalla retornos de bulto;EXP340;Page;Access;RetornoBulto;Interno;S
+3;OPERARIO;334;Permitir edici? en pantalla WPAR200;WPAR200;grid1;cell;Editable;Interno;S
+3;OPERARIO;427;Preparaci? Manual;PRD540;Page;Access;ColectorPreparacionManual_0;Interno;S
+3;OPERARIO;405;REC500_Page_Access_ColectorExpedicion;REC500;Page;Access;ColectorExpedicion;Interno;S
+3;OPERARIO;550;Recurso para acceso FULL PowerBI Indicadores;WPRO030;Page;Access;POWERBI_FULL;Interno;S
+3;OPERARIO;551;Recurso para acceso Parcial PowerBI Indicadores;WPRO030;Page;Access;POWERBI_PARCIAL;Interno;S
+3;OPERARIO;493;Registro de Pedido Expedido;WPAR605;Page;Access;RegistroPedidoExpedicion;Interno;S
+3;OPERARIO;503;Reserva Documental;DOC300;Page;Access;DocumentoProduccion;Interno;S
+3;OPERARIO;541;Saldo a Liberar;PRE670;Page;Access;SaldosALiberar;Interno;S
+3;OPERARIO;496;Saldo de Documentos;DOC020;Page;Access;SaldoDocumentos;Interno;S
+3;OPERARIO;492;Seccion inventario menu colectores;INV00;section;Access;InventarioMobile;Interno;S
+3;OPERARIO;548;Secci? Configuraci? Automatizacion;AUT000;Section;Access;Automatizacion;Interno;S
+3;OPERARIO;105;Secci? Configuraci? Impresi?;WIMP000;Section;Access;ConfiguracionImpresion;Interno;S
+3;OPERARIO;164;Secci? Control Dcoumental WCDO000;WCDO000;Section;Access;ControlDocumentall;Interno;S
+3;OPERARIO;144;Secci? Cross Docking;WREC000;Section;Access;CrossDocking_z;Interno;S
+3;OPERARIO;104;Secci? Dominios;WREG000;Section;Access;Dominios;Interno;S
+3;OPERARIO;272;Secci? Eventos;WEVT000;Section;Access;EventosZ;Interno;N
+3;OPERARIO;113;Secci? Inventario;WINV000;Section;Access;Inventario;Interno;S
+3;OPERARIO;133;Secci? Inventario C?lico;WINV000;Section;Access;InventarioCiclico;Interno;S
+3;OPERARIO;100;Secci? Mantenimiento;WREG000;Section;Access;Mantenimientos;Interno;S
+3;OPERARIO;101;Secci? Mantenimiento Preparaci?/Expedici?;WREG000;Section;Access;Mantenimientos_PreparacionExpedicion;Interno;S
+3;OPERARIO;102;Secci? Mantenimiento Ubicaciones;WREG000;Section;Access;Mantenimientos_Ubicaciones;Interno;S
+3;OPERARIO;106;Secci? Parametrizaci?;WPAR000;Section;Access;Parametrizacion;Interno;S
+3;OPERARIO;248;Secci? Pedidos;WPRE000;Section;Access;Pedidos;Interno;S
+3;OPERARIO;162;Secci? Picking;WPRE000;Section;Access;Picking;Interno;S
+3;OPERARIO;249;Secci? Preparaciones;WPRE000;Section;Access;Preparaciones;Interno;S
+3;OPERARIO;408;Secci? Producci?;KIT000;Section;Access;Produccion_z;Interno;S
+3;OPERARIO;462;Secci? Producci? Colector;KIT000;Section;Access;ProduccionMobile;Interno;S
+3;OPERARIO;99;Secci? Productos;WREG000;Section;Access;Productos;Interno;S
+3;OPERARIO;297;Section Tarea Facturacion;WORT000;Section;Access;Facturacion;Interno;S
+3;OPERARIO;1;Seguridad;WSEG000;Section;Access;Seguridad;Interno;S
+3;OPERARIO;530;Stock disponible detalle pedido;WPRE151;Page;Access;Stock_DetallesPedidos;Interno;S
+3;OPERARIO;115;Stock por Producto;WREG009;grid1;btn;StockPorProducto;Interno;S
+3;OPERARIO;296;Submenu Tarea Facturacion;Master;Menu;lbl;WORDENTAREA_TAREAS;Interno;S
+3;OPERARIO;14;Template de Etiquetas;WCOF030;Page;Access;EtiquetasTemplate;Interno;S
+3;OPERARIO;153;Tipo de Ubicaci?es WPAR050;WPAR050;Page;Access;TiposUbicacion;Interno;S
+3;OPERARIO;181;Tipos de Estructura de Stock;WPAR325;Page;Access;TiposEstructuraStock;Interno;S
+3;OPERARIO;90;Traspaso;WREG000;Section;Access;Traspaso;Interno;S
+3;OPERARIO;470;WPRE101_Page_Access_Puede_Insertar;WPRE101;Page;Access;Puede_Insertar;Interno;S
+3;OPERARIO;469;WPRE101_Page_Access_Puede_Modificar;WPRE101;Page;Access;Puede_Modificar;Interno;S
+3;OPERARIO;516;WPRE600_Page_Access_Pedido;WPRE600;Page;Access;Pedido;Interno;S
+3;OPERARIO;514;WPRE610_Page_Access_Pedido;WPRE610;Page;Access;Pedido;Interno;S
+3;OPERARIO;515;WPRE620_Page_Access_Pedido;WPRE620;Page;Access;Pedido;Interno;S
+3;OPERARIO;471;WSEG070_Page_Access_Usuarios;WSEG070;Page;Access;Usuarios;Interno;S
+3;OPERARIO;480;WSTO600_Page_Access_Traspaso;WSTO600;Page;Access;Traspaso;Interno;S
+3;OPERARIO;481;WSTO601_Page_Access_Traspaso;WSTO601;Page;Access;Traspaso;Interno;S
+3;OPERARIO;74;btn Asignar Ubicacion WREG060;WREG060;grid1;btn;AsignarUbicacion;Interno;S
+3;OPERARIO;495;?rdenes de Ingreso;DOC080;Page;Access;OrdenesIngreso;Interno;S
+9;PICKEADOR CAJAS;567;PRD091_Opt_Access_CAJAS;PRD091;Opt;Access;CAJAS;Interno;S
+10;PICKEADOR CAJAS/UNIDADES;568;PRD091_Opt_Access_CAJAS/UNIDADES;PRD091;Opt;Access;CAJAS/UNIDADES;Interno;S
+8;PICKEADOR PALLETS;566;PRD091_Opt_Access_PALLETS;PRD091;Opt;Access;PALLETS;Interno;S
+11;PICKEADOR UNIDADES;569;PRD091_Opt_Access_UNIDADES;PRD091;Opt;Access;UNIDADES;Interno;S
+2;SUPERVISOR;540;Acceso a croos docking;WREC170;grid1;btn;CroosDocking;Interno;S
+2;SUPERVISOR;557;Aceptar Diferencia Recepcion Nivel1;REC141;Aceptar;Diferencia;Nivel1;Interno;S
+2;SUPERVISOR;558;Aceptar Diferencia Recepcion Nivel2;REC141;Aceptar;Diferencia;Nivel2;Interno;S
+2;SUPERVISOR;335;Alta de pedidos en WPRE100;WPRE100;grid1;btn;AltaPedidos;Interno;S
+2;SUPERVISOR;544;Avance de pedidos;PRE660;Page;Access;AvancePedidos;Interno;S
+2;SUPERVISOR;564;Boton Prepara y Expedir WPRE090;WPRE090;grid1;btn;PrepararExpedir;Interno;S
+2;SUPERVISOR;457;Bot? de confirmar pedidos para desfacturar;WPRE510;Page;Access;BtnConfirmar;Interno;S
+2;SUPERVISOR;307;Btn Aceptar Todo;WFAC002;grid1;btn;AceptarTodo;Interno;S
+2;SUPERVISOR;314;Btn Aceptar o rechazar calculos;WFAC001;grid1;btn;AceptarRechazarCalculos;Interno;S
+2;SUPERVISOR;235;Btn Agregar Comentario Debug;GENERAL;DebugMenu;btn;Comment;Interno;S
+2;SUPERVISOR;8;Btn Agregar Usuario;WSEG030;grid1;btn;AgregarUsuario;Interno;S
+2;SUPERVISOR;5;Btn Agregar perfil;WSEG020;grid1;btn;AgregarPerfil;Interno;S
+2;SUPERVISOR;47;Btn Ajuste etiqueta;WREC170;grid1;btn;AjusteEtiqueta;Interno;S
+2;SUPERVISOR;233;Btn Alta Formulario WREC170;WREC170;grid1;btn;AltaFormlario;Interno;S
+2;SUPERVISOR;219;Btn Anular Documento;WCDO095;grid1;btn;AnularDocumento;Interno;S
+2;SUPERVISOR;312;Btn Armar Camion Entregas;WEXP040;grid1;btn;ArmarCamionEntrega;Interno;S
+2;SUPERVISOR;256;Btn Armar Cami? por Contenedores;WEXP040;grid1;btn;ArmarCamionCont;Interno;S
+2;SUPERVISOR;177;Btn Armar Egreso;WEXP040;grid1;btn;ArmarCamion;Interno;S
+2;SUPERVISOR;288;Btn Asignar Procesos;WFAC001;grid1;btn;AsignarProcesos;Interno;S
+2;SUPERVISOR;289;Btn Asignar Selecci?;WFAC010;grid1;btn;Asignar;Interno;S
+2;SUPERVISOR;290;Btn Asignar Todo;WFAC010;grid1;btn;AsignarTodo;Interno;S
+2;SUPERVISOR;464;Btn AsignarProcesos Prueba;WFACPRUEBA;grid1;btn;AsignarProcesos;Interno;S
+2;SUPERVISOR;303;Btn Calculos No Realizados Por Error;WFAC001;grid1;btn;CalculosNoRealizadosPorError;Interno;S
+2;SUPERVISOR;374;Btn Cancelar;WPRE410;grid1;btn;Cancelar;Interno;S
+2;SUPERVISOR;41;Btn Cancelar Agenda;WREC170;grid1;btn;CancelarAgenda;Interno;S
+2;SUPERVISOR;196;Btn Cancelar Inventario WINV410;WINV410;grid1;btn;CancelarInventario;Interno;S
+2;SUPERVISOR;88;Btn Capacidad de pallets;WREG605;grid1;btn;Pallets;Interno;S
+2;SUPERVISOR;443;Btn Cargar;WEXP013;grid1;btn;Cargar;Interno;S
+2;SUPERVISOR;263;Btn Cargar Cami?;WEXP010;grid1;btn;Cargar;Interno;S
+2;SUPERVISOR;259;Btn Cargar Cami?;WEXP011;grid1;btn;Cargar;Interno;S
+2;SUPERVISOR;264;Btn Cargar todo en Cami?;WEXP010;grid1;btn;CargarTodo;Interno;S
+2;SUPERVISOR;261;Btn Cargar todo en Cami?;WEXP011;grid1;btn;CargarTodo;Interno;S
+2;SUPERVISOR;444;Btn CargarTodo;WEXP013;grid1;btn;CargarTodo;Interno;S
+2;SUPERVISOR;44;Btn Cerrar Agenda;WREC170;grid1;btn;CerrarAgenda;Interno;S
+2;SUPERVISOR;152;Btn Cerrar Camion WEXP040;WEXP040;grid1;btn;CerrarCamion;Interno;S
+2;SUPERVISOR;195;Btn Cerrar Inventario WINV410;WINV410;grid1;btn;CerrarInventario;Interno;S
+2;SUPERVISOR;305;Btn Cerrar Orden;WORT030;grid1;btn;CerrarOrden;Interno;S
+2;SUPERVISOR;135;Btn Cerrar camion WEXP040;WEXP040;grid1;btn;DetallesCamion;Interno;S
+2;SUPERVISOR;309;Btn Con errores Todo;WFAC002;grid1;btn;ConErrTodo;Interno;S
+2;SUPERVISOR;339;Btn Consulta Preparaciones;WPRE220;grid1;btn;ConsultaPreparaciones;Interno;S
+2;SUPERVISOR;178;Btn Contenedores;WREC240;grid1;btn;ContenedoresCrossDocking;Interno;S
+2;SUPERVISOR;86;Btn Controles de calidad;WREG009;grid1;btn;ControlCalidad;Interno;S
+2;SUPERVISOR;78;Btn C?igos de barra;WREG009;grid1;btn;CodigoBarras;Interno;S
+2;SUPERVISOR;291;Btn Desasociar Todo;WFAC010;grid1;btn;DesasociarTodo;Interno;S
+2;SUPERVISOR;327;Btn Descargar;WCOF070;grid1;btn;Descargar;Interno;S
+2;SUPERVISOR;232;Btn Descargar Debug;GENERAL;DebugMenu;btn;Download;Interno;S
+2;SUPERVISOR;265;Btn Descargar todo el Cami?;WEXP010;grid1;btn;DescargarTodo;Interno;S
+2;SUPERVISOR;262;Btn Descargar todo el Cami?;WEXP011;grid1;btn;DescargarTodo;Interno;S
+2;SUPERVISOR;445;Btn DescargarTodo;WEXP013;grid1;btn;DescargarTodo;Interno;S
+2;SUPERVISOR;350;Btn Deseleccionar todo;WREC176;grid1;btn;DeseleccionarTodo;Interno;S
+2;SUPERVISOR;351;Btn Detalle Factura;WREC174;grid1;btn;DetalleFactura;Interno;S
+2;SUPERVISOR;352;Btn Detalle Funcionarios WORT040;WORT040;grid1;btn;Funcionarios;Interno;S
+2;SUPERVISOR;353;Btn Detalle Manipuleo Insumo WORT040;WORT040;grid1;btn;ManipuleosInsumos;Interno;S
+2;SUPERVISOR;35;Btn Detalles Agenda;WREC170;grid1;btn;DetallesAgenda;Interno;S
+2;SUPERVISOR;323;Btn Detalles Ejecucion;WFAC001;grid1;btn;DetallesEjecucion;Interno;S
+2;SUPERVISOR;201;Btn Distribuci? Pedidos;WREC170;grid1;btn;DistribucionPedidos;Interno;S
+2;SUPERVISOR;211;Btn Editar Preparacion;WPRE052;grid1;btn;EditarPreparacion;Interno;S
+2;SUPERVISOR;4;Btn Editar perfil;WSEG020;grid1;btn;EditarPerfil;Interno;S
+2;SUPERVISOR;37;Btn Etiquetas Producto;WREC171;grid1;btn;EtiquetasProducto;Interno;S
+2;SUPERVISOR;257;Btn Excluir cargas no preparadas;WEXP040;grid1;btn;ExcluirCargasNoPreparadas;Interno;S
+2;SUPERVISOR;344;Btn Factura desde referencia;WREC174;grid1;btn;FacturaDesdeReferencia;Interno;S
+2;SUPERVISOR;441;Btn Facturar;WEXP110;grid1;btn;Facturar;Interno;S
+2;SUPERVISOR;253;Btn Facturar Cami?;WEXP040;grid1;btn;FacturarCamion;Interno;S
+2;SUPERVISOR;318;Btn Funcionarios Orden;WORT030;grid1;btn;FuncionariosOrden;Interno;S
+2;SUPERVISOR;251;Btn Generar Reporte;WREC170;grid1;btn;GenerarReporte;Interno;S
+2;SUPERVISOR;329;Btn Generar Reportes;WEXP040;grid1;btn;GenerarReportes;Interno;S
+2;SUPERVISOR;52;Btn Generar etiquetas;WREC170;grid1;btn;GenerarEtiquetas;Interno;S
+2;SUPERVISOR;224;Btn Guardar Liberacion;WPRE051;grid1;btn;GuardarLibOnda;Interno;S
+2;SUPERVISOR;295;Btn Habilitar Ejecuci?;WFAC001;grid1;btn;HabilitarEjecucion;Interno;S
+2;SUPERVISOR;191;Btn HabilitarInventario WINV410;WINV410;grid1;btn;HabilitarInventario;Interno;S
+2;SUPERVISOR;42;Btn Ingresar Lineas Agenda;WREC170;grid1;btn;IngresarLineasAgenda;Interno;S
+2;SUPERVISOR;347;Btn Ingreso l?eas;WREC174;grid1;btn;IngresoLineas;Interno;S
+2;SUPERVISOR;230;Btn Iniciar Debug;GENERAL;DebugMenu;btn;Start;Interno;S
+2;SUPERVISOR;45;Btn Liberar diferencias;WREC170;grid1;btn;LiberarDiferencias;Interno;S
+2;SUPERVISOR;43;Btn Liberar recepcion;WREC170;grid1;btn;LiberarRecepcion;Interno;S
+2;SUPERVISOR;340;Btn Log Controles;WPRE220;grid1;btn;LogControlesPreparacion;Interno;S
+2;SUPERVISOR;39;Btn Log Etiqueta;WREC150;grid1;btn;LogEtiqueta;Interno;S
+2;SUPERVISOR;393;Btn Martillo Agenda;WPOR010;grid1;btn;agenda;Interno;S
+2;SUPERVISOR;392;Btn Martillo Balanza;WPOR010;grid1;btn;balanza;Interno;S
+2;SUPERVISOR;394;Btn Martillo Expedicion;WPOR010;grid1;btn;expedicion;Interno;S
+2;SUPERVISOR;365;Btn Martillo WORT030 DeshabilitarOrden Tarea;WORT030;grid1;btn;DeshabilitarOrdenTarea;Interno;S
+2;SUPERVISOR;300;Btn Menu WFAC007;WFAC001;grid1;btn;EdicionResultado;Interno;S
+2;SUPERVISOR;299;Btn Menu WFAC007;WFAC001;grid1;btn;IngresoResultadoManual;Interno;S
+2;SUPERVISOR;423;Btn Motivo de Almacenamiento;WREC170;grid1;btn;btnMotivoAlmacenamiento_z;Interno;S
+2;SUPERVISOR;46;Btn Observacioines agenda;WREC170;grid1;btn;ObservacionesAgenda;Interno;S
+2;SUPERVISOR;110;Btn Pallets;WREG009;grid1;btn;Pallets;Interno;S
+2;SUPERVISOR;231;Btn Parar Debug;GENERAL;DebugMenu;btn;Stop;Interno;S
+2;SUPERVISOR;156;Btn Pedidos Expedidos WEXP040;WEXP040;grid1;btn;PedidosExpedidos;Interno;S
+2;SUPERVISOR;140;Btn Pedidos Involucrados WEXP040;WEXP040;grid1;btn;PedidosInvolucrados;Interno;S
+2;SUPERVISOR;145;Btn Productos Pedido WEXP050;WEXP050;grid1;btn;ProductosEnPedido;Interno;S
+2;SUPERVISOR;370;Btn Puntos Entrega;WEXP040;grid1;btn;PuntosEntregaCamion;Interno;S
+2;SUPERVISOR;308;Btn Rechazar Todo;WFAC002;grid1;btn;RechazarTodo;Interno;S
+2;SUPERVISOR;342;Btn Regenerar Inventario WINV410;WINV410;grid1;btn;RegenerarInventario;Interno;S
+2;SUPERVISOR;359;Btn Reimprimir;WCOF070;grid1;btn;Reimprimir;Interno;S
+2;SUPERVISOR;330;Btn Reportes;WEXP040;grid1;btn;Reportes;Interno;S
+2;SUPERVISOR;326;Btn Reportes;WREC170;grid1;btn;Reportes;Interno;S
+2;SUPERVISOR;373;Btn Reprocesar;WPRE410;grid1;btn;BtnReprocesar;Interno;S
+2;SUPERVISOR;356;Btn Reprocesar;WCOF070;grid1;btn;Reprocesar;Interno;S
+2;SUPERVISOR;302;Btn Resultados De Ejecucion;WFAC001;grid1;btn;ResultadosDeEjecucion;Interno;S
+2;SUPERVISOR;172;Btn Saldo DM WREG009;WREG009;grid1;btn;SaldoDM;Interno;S
+2;SUPERVISOR;348;Btn Seleccionar;WREC176;grid1;btn;Seleccionar;Interno;S
+2;SUPERVISOR;349;Btn Seleccionar todo;WREC176;grid1;btn;SeleccionarTodo;Interno;S
+2;SUPERVISOR;333;Btn Sincronizar Tracking;WEXP040;grid1;btn;SincronizarTracking;Interno;S
+2;SUPERVISOR;319;Btn Tareas Orden;WORT030;grid1;btn;TareasOrden;Interno;S
+2;SUPERVISOR;222;Btn Ver Descargos;WCDO095;grid1;btn;VerDescargos;Interno;S
+2;SUPERVISOR;173;Btn Ver Documentos Pendientes WCDO21;WCDO021;grid1;btn;VerDocPend;Interno;S
+2;SUPERVISOR;146;Btn etiquetas pre-separadas;WREC240;grid1;btn;EtiquetasCrossDocking;Interno;S
+2;SUPERVISOR;321;Btn habilitar facturacion;WFAC001;grid1;btn;HabilitarFacturacion;Interno;S
+2;SUPERVISOR;509;BtnPedidosPendientesCamion;WEXP040;grid1;btn;PedidosPendientesCamion;Interno;S
+2;SUPERVISOR;535;CEXP600_Opt_FL_AUTO_CARGA;CEXP600;Opt;FL;AUTO_CARGAZ;Interno;S
+2;SUPERVISOR;536;CEXP600_Opt_FL_CTRL_CONTENEDORES;CEXP600;Opt;FL;CTRL_CONTENEDORESZ;Interno;S
+2;SUPERVISOR;434;CNS000_Section_Access_Consulta;CNS000;Section;Access;Consulta;Interno;S
+2;SUPERVISOR;435;CNS510_Page_Access_UbicacionProducto;CNS510;Page;Access;UbicacionProducto;Interno;S
+2;SUPERVISOR;436;CNS520_Page_Access_ProductoUbicacion;CNS520;Page;Access;ProductoUbicacion;Interno;S
+2;SUPERVISOR;539;COLECTOR RETORNO DE BULTO;EXP610;Page;Access;RetornoBulto;Interno;S
+2;SUPERVISOR;2;Cambiar Contrase?;WSEG010;Page;Access;CambioPassword;Interno;S
+2;SUPERVISOR;502;Cambio de Estado;DOC260;Page;Access;CambioEstado;Interno;S
+2;SUPERVISOR;30;Cola de Impresi?;LIMP010;Page;Access;ImpresionCola;Interno;S
+2;SUPERVISOR;556;Colector Ingreso a Producci?;PRD200;Page;Access;ColectorContenedorProduccion;Interno;S
+2;SUPERVISOR;473;Colector PRD010;PRD0010;Page;Access;ColectorRecoleccionCont_0;Interno;S
+2;SUPERVISOR;472;Colector PRD580;PRD580;Page;Access;ColectorAsociacionDAC_0;Interno;S
+2;SUPERVISOR;486;Colector PRD600;PRD600;Page;Access;ColectorContenedoresHijos;Interno;S
+2;SUPERVISOR;555;Colector Preparacion de Producci?;REC560;Page;Access;ColectorRecepcionProduccion;Interno;S
+2;SUPERVISOR;395;Colector REC500;REC500;Page;Access;ColectorRecepcion;Interno;S
+2;SUPERVISOR;404;Colector REC510;REC510;Page;Access;Almacenamiento_Agrupado;Interno;S
+2;SUPERVISOR;402;Colector REC520;REC500;Page;Access;ColectorAlmacenamiento;Interno;S
+2;SUPERVISOR;401;Colector STO510;STO510;Page;Access;TransferenciaAgrupada;Interno;S
+2;SUPERVISOR;552;Colector STO520;STO520;Page;Access;TranferenciasEmpresas;Interno;S
+2;SUPERVISOR;489;Colector ajuste de inventario;INV540;Page;Access;ColectorAjusteInventario;Interno;S
+2;SUPERVISOR;532;Colector asignacion de carga;EXP610;Page;Access;AsignacionCargas;Interno;S
+2;SUPERVISOR;560;Colector cambio de Lote;SES520;Page;Access;ColectorCambioLote;Interno;S
+2;SUPERVISOR;487;Colector control de contenedores;PRD590;Page;Access;ColectorControlContenedor;Interno;S
+2;SUPERVISOR;523;Colector control de contenedores;PRD0500;Page;Access;ColectorDevolucionDePicking;Interno;S
+2;SUPERVISOR;531;Colector creacion de camion;EXP600;Page;Access;ColectorCreacionCamion;Interno;S
+2;SUPERVISOR;524;Colector cross docking;REC530;Page;Access;CrossDocking;Interno;S
+2;SUPERVISOR;562;Colector de consulta contenedor/producto;CNS530;Page;Access;ContenedorProducto;Interno;S
+2;SUPERVISOR;461;Colector de ensamblado de f?mula;KIT530;Page;Access;EnsambladoFormula_z;Interno;S
+2;SUPERVISOR;512;Colector preparacion manual;PRD540;Page;Access;ColectorPreparacionManual;Interno;S
+2;SUPERVISOR;522;Colector registro de manipuleos;REG580;Page;Access;ColectorRegistroManipuleo_z;Interno;S
+2;SUPERVISOR;475;Colector registro productos / codigo barras;REG500;Page;Access;ColectorRegistroPoductos;Interno;S
+2;SUPERVISOR;479;Colector web Descarga de Contenedores;EXP550;Page;Access;ColectorDescargaContenedor;Interno;S
+2;SUPERVISOR;478;Colectores web seccion contenedores;EXP000;Section;Access;ContenedoresMobile;Interno;S
+2;SUPERVISOR;561;Consulta de error en el padron;WSTO630;Page;Access;StockProblemaPadron;Interno;S
+2;SUPERVISOR;85;Control de calidad;WREG000;Section;Access;ControlCalidad;Interno;S
+2;SUPERVISOR;501;Control documental;DOC000;Section;Access;ControlDocumental_z;Interno;S
+2;SUPERVISOR;407;DEV520_Page_Access_ColectorAveriasDeposito;DEV520;Page;Access;ColectorAveriasDeposito;Interno;S
+2;SUPERVISOR;565;Despacho directo;PRE090;Page;Access;PedidosDespacho;Interno;S
+2;SUPERVISOR;458;Detalle Anulaci?;WPRE520;Page;Access;LogAnulacion;Interno;S
+2;SUPERVISOR;24;Detalle Dominio;WREG911;Page;Access;DominioDetalle;Interno;S
+2;SUPERVISOR;499;Detalle Egreso;DOC036;Page;Access;DetalleEgreso;Interno;S
+2;SUPERVISOR;498;Detalle Ingreso;DOC035;Page;Access;DetalleIngreso;Interno;S
+2;SUPERVISOR;459;Detalle de Contenedor;WPRE530;Page;Access;Cont;Interno;S
+2;SUPERVISOR;31;Detalle de Impresion;LIMP010DET;Page;Access;ImpresionDetalles;Interno;S
+2;SUPERVISOR;497;Documentos;DOC095;Page;Access;Documentos;Interno;S
+2;SUPERVISOR;500;Documentos Producci?;DOC290;Page;Access;DocumentoProduccion;Interno;S
+2;SUPERVISOR;23;Dominio;WREG910;Page;Access;Dominios;Interno;S
+2;SUPERVISOR;517;EXP320_Page_Access_Contenedor_Con_Problema;EXP320;Page;Access;Contenedor_Con_ProblemaZ;Interno;N
+2;SUPERVISOR;519;EXP330_Page_Access_Pedido_Mostrador;EXP330;Page;Access;Pedido_MostradorZ;Interno;N
+2;SUPERVISOR;437;EXP500_Page_Access_Particion;EXP500;Page;Access;Particion;Interno;S
+2;SUPERVISOR;438;EXP510_Page_Access_Consolidacion;EXP510;Page;Access;Consolidacion;Interno;S
+2;SUPERVISOR;446;EXP550_Page_Access_DescargaContenedores;EXP550;Page;Access;DescargaContenedores;Interno;S
+2;SUPERVISOR;136;Editar valores en WINV010;WINV010;Sec0;General;Edicion;Interno;S
+2;SUPERVISOR;336;Edtar detalle de pedido WPRE10;WPRE100;grid1;btn;EditarPedido;Interno;S
+2;SUPERVISOR;388;El usario tiene permiso para todaslas empresas;GENERAL;;;GENERAL_UsuarioTodasLasEmpresas;Interno;S
+2;SUPERVISOR;229;General Menu Debugger;GENERAL;Section;Access;DebugMenu;Interno;S
+2;SUPERVISOR;528;Habilitar consulta de etiquetas;WREC170;grid1;btn;ConsultarEtiquetas;Interno;S
+2;SUPERVISOR;525;Habilitar modalidad de producto;STO510;Opt;Access;PRODUCTO;Interno;S
+2;SUPERVISOR;526;Habilitar modalidad de ubicacion;STO510;Opt;Access;ENDERECO;Interno;S
+2;SUPERVISOR;527;Habilitar recepcion automatica;WREC170;grid1;btn;RecepcionAutomatica_z;Interno;S
+2;SUPERVISOR;15;Impresoras;WCOF040;Page;Access;ImpresorasConfig;Interno;S
+2;SUPERVISOR;428;Inventario;INV550;Page;Access;ColectorInvetario;Interno;S
+2;SUPERVISOR;406;KIT520_Page_Access_ColectorAbastecimientoLineaProducci?;KIT520;Page;Access;ColectorAbastecimientoLineaProducci?_;Interno;S
+2;SUPERVISOR;13;Label Estilo;WCOF020;Page;Access;EtiquetasEstilo;Interno;S
+2;SUPERVISOR;3;Mantenedor de Perfiles;WSEG020;Page;Access;Perfiles;Interno;S
+2;SUPERVISOR;6;Mantenedor de Usuarios;WSEG030;Page;Access;Usuarios;Interno;S
+2;SUPERVISOR;361;Menu An?isis de Rechazos;WPRE170;Page;Access;AnalisisRechazos;Interno;S
+2;SUPERVISOR;431;Menu Colector Preparacion;REC000;Section;Access;Preparacion;Interno;S
+2;SUPERVISOR;396;Menu Colector Recepcion;REC000;Section;Access;Recepcion;Interno;S
+2;SUPERVISOR;400;Menu Colector Stock;STO000;Section;Access;Stock;Interno;S
+2;SUPERVISOR;27;Menu Expedici?;LEXP000;Section;Access;Expedicion;Interno;S
+2;SUPERVISOR;29;Menu Impresion;LIMP000;Section;Access;Impresion;Interno;S
+2;SUPERVISOR;19;Menu Interfaz;WINT000;Section;Access;Interfaz;Interno;S
+2;SUPERVISOR;247;Menu Parametrizaci? Recepci?;WPAR000;Section;Access;Recepcion;Interno;S
+2;SUPERVISOR;33;Menu Recepcion;WREC000;Section;Access;Recepcion;Interno;S
+2;SUPERVISOR;22;Menu Region;WREG000;Section;Access;Registro;Interno;S
+2;SUPERVISOR;484;Menu Reportes;WCOF000;Section;Access;ConfiguracionReportes;Interno;S
+2;SUPERVISOR;269;Menu WFAC000;WFAC000;Section;Access;Facturacion_z;Interno;S
+2;SUPERVISOR;270;Menu WFAC250;WFAC250;Page;Access;CodigoComponente;Interno;S
+2;SUPERVISOR;293;Menu WPOR000;WPOR000;Section;Access;Poteria_z;Interno;S
+2;SUPERVISOR;398;Menu WPRO00;WPRO000;Section;Access;Productividad;Interno;S
+2;SUPERVISOR;360;Menu WPRO000;WCOF000;Section;Access;Productividad;Interno;S
+2;SUPERVISOR;363;Menu WPRO010;WPRO010;Page;Access;Productividad;Interno;S
+2;SUPERVISOR;364;Menu WPRO020;WPRO020;Page;Access;Productividad;Interno;S
+2;SUPERVISOR;311;Menu configuraci? facturaci?;WFAC000;Section;Access;FacturacionConfiguracion;Interno;S
+2;SUPERVISOR;26;Menu de Pedidos;LPRE000;Section;Access;Preparacion;Interno;S
+2;SUPERVISOR;28;Menu de recepcion;LREC000;Section;Access;Recepcion;Interno;S
+2;SUPERVISOR;12;MenuConfiguracion;WCOF000;Section;Access;Configuracion;Interno;S
+2;SUPERVISOR;25;MenuStock;LSTO000;Section;Access;Stock;Interno;S
+2;SUPERVISOR;422;Motivo de Almacenamiento;WREC300;Page;Access;Motivo_Almacenaje_z;Interno;S
+2;SUPERVISOR;549;No anular preparaciones job nocturno;WPRE450;Page;Access;NoAnularPreparaciones;Interno;S
+2;SUPERVISOR;429;Opci? salir del sistema colectores;COL000;Page;Access;PanelSalir;Interno;S
+2;SUPERVISOR;151;PANTALLA WPAR050;WPAR050;Page;Access;TiposUbicaciones;Interno;S
+2;SUPERVISOR;117;PANTALLA WPAR090;WPAR090;Page;Access;Situaciones;Interno;S
+2;SUPERVISOR;118;PANTALLA WPAR155;WPAR155;Page;Access;Departamentos;Interno;S
+2;SUPERVISOR;119;PANTALLA WPAR156;WPAR156;Page;Access;Ciudades;Interno;S
+2;SUPERVISOR;116;PANTALLA WPAR160;WPAR160;Page;Access;TipoDocumento;Interno;S
+2;SUPERVISOR;127;PANTALLA WPRE100;WPRE100;Page;Access;Pedido;Interno;S
+2;SUPERVISOR;139;PANTALLA WPRE101;WPRE101;Page;Access;LineasPedido;Interno;S
+2;SUPERVISOR;158;PANTALLA WPRE110;WPRE110;Page;Access;EliminarPedidosPendientes;Interno;S
+2;SUPERVISOR;154;PANTALLA WPRE150;WPRE150;Page;Access;DetallesPedidos;Interno;S
+2;SUPERVISOR;537;POR060_Section_Access_VehiculosSinAgenda;POR060;Section;Access;VehiculosSinAgenda;Interno;S
+2;SUPERVISOR;538;POR070_Section_Access_VehiculosSinCamion;POR070;Section;Access;VehiculosSinCamion;Interno;S
+2;SUPERVISOR;324;PPantalla WPOR020;WPOR020;Section;Access;RegitroSalida;Interno;S
+2;SUPERVISOR;567;PRD091_Opt_Access_CAJAS;PRD091;Opt;Access;CAJAS;Interno;S
+2;SUPERVISOR;568;PRD091_Opt_Access_CAJAS/UNIDADES;PRD091;Opt;Access;CAJAS/UNIDADES;Interno;S
+2;SUPERVISOR;566;PRD091_Opt_Access_PALLETS;PRD091;Opt;Access;PALLETS;Interno;S
+2;SUPERVISOR;569;PRD091_Opt_Access_UNIDADES;PRD091;Opt;Access;UNIDADES;Interno;S
+2;SUPERVISOR;513;PRE640_Page_Access_SeguimientoPedido;PRE640;Page;Access;SeguimientoPedido;Interno;S
+2;SUPERVISOR;554;PRE680_Page_Access_Reabastecimiento;PRE680;Page;Access;Reabastecimiento;Interno;S
+2;SUPERVISOR;425;Pantall PRD090 Prep. Picking;PRD090;Page;Access;ColectorPreparacionPicking;Interno;S
+2;SUPERVISOR;553;Pantalla Anulaciones Pendientes PRE460;PRE460;Page;Access;AnulacionesPendientes;Interno;S
+2;SUPERVISOR;313;Pantalla Armar Camion Entregas;WEXP012;Page;Access;ArmarEgresoEntrega;Interno;S
+2;SUPERVISOR;424;Pantalla EXP110;EXP110;Page;Access;Empaquetado;Interno;S
+2;SUPERVISOR;546;Pantalla Indicadores;WPRO030;Page;Access;Productividad;Interno;S
+2;SUPERVISOR;409;Pantalla KIT100;KIT100;Page;Access;DefinicionFormula;Interno;S
+2;SUPERVISOR;410;Pantalla KIT101;KIT101;Page;Access;ArmadoFormula;Interno;S
+2;SUPERVISOR;411;Pantalla KIT102;KIT102;Page;Access;ConfiguracionFormula;Interno;S
+2;SUPERVISOR;412;Pantalla KIT110;KIT110;Page;Access;IngresoProduccion;Interno;S
+2;SUPERVISOR;413;Pantalla KIT120;KIT120;Page;Access;ConfiguracionInstancia;Interno;S
+2;SUPERVISOR;414;Pantalla KIT130;KIT130;Page;Access;AsociarPedidos-z;Interno;S
+2;SUPERVISOR;415;Pantalla KIT150;KIT150;Page;Access;Seguimiento;Interno;S
+2;SUPERVISOR;416;Pantalla KIT151;KIT151;Page;Access;DetSeguimiento;Interno;S
+2;SUPERVISOR;417;Pantalla KIT170;KIT170;Page;Access;PanelProduccion;Interno;S
+2;SUPERVISOR;418;Pantalla KIT171;KIT171;Page;Access;Produccion;Interno;S
+2;SUPERVISOR;419;Pantalla KIT175;KIT175;Page;Access;AjusteCierre;Interno;S
+2;SUPERVISOR;420;Pantalla KIT180;KIT180;Page;Access;ConsultaPasadas;Interno;S
+2;SUPERVISOR;421;Pantalla KIT190;KIT190;Page;Access;Lineas;Interno;S
+2;SUPERVISOR;485;Pantalla KIT191;KIT191;Page;Access;LotesPredefinidos;Interno;S
+2;SUPERVISOR;494;Pantalla KIT191;KIT191;Page;Access;PredefinirLotes;Interno;S
+2;SUPERVISOR;17;Pantalla LCON010;LCON010;Page;Access;GestionParametros;Interno;S
+2;SUPERVISOR;18;Pantalla LCON020;LCON020;Page;Access;CargarParametro;Interno;S
+2;SUPERVISOR;430;Pantalla PRD510 Reabastecimiento por etapas;PRD510;Page;Access;ReabastecimientoPorEtapas;Interno;S
+2;SUPERVISOR;463;Pantalla Prueba;PRUEBAFAC;Page;;PRUEBAFAC_Page_Access;Interno;S
+2;SUPERVISOR;465;Pantalla Prueba recibir;WFACPRUEBARECIBE;Page;;WFACPRUEBARECIBE_Page_Access;Interno;S
+2;SUPERVISOR;426;Pantalla REG530 Registro Picking;REG530;Page;Access;ColectorRegistroPicking;Interno;S
+2;SUPERVISOR;520;Pantalla SEG210;SEG210;Page;Access;GestionRecursosZ;Interno;N
+2;SUPERVISOR;159;Pantalla Tipos de Areas WPAR310;WPAR310;Page;Access;TiposDeAreas;Interno;S
+2;SUPERVISOR;328;Pantalla Veh?ulos en Deposito WPOR30;WPOR030;Section;Access;vheiculosDeposito;Interno;S
+2;SUPERVISOR;226;Pantalla WCDO011;WCDO011;Page;Access;CambiosCodigos;Interno;S
+2;SUPERVISOR;227;Pantalla WCDO012;WCDO012;Page;Access;DetCambiosCodigos;Interno;S
+2;SUPERVISOR;165;Pantalla WCDO020;WCDO020;Section;Access;SaldoDM;Interno;S
+2;SUPERVISOR;174;Pantalla WCDO021;WCDO021;Section;Access;DocPend;Interno;S
+2;SUPERVISOR;188;Pantalla WCDO025;WCDO025;Page;Access;ActasIngreso;Interno;S
+2;SUPERVISOR;200;Pantalla WCDO035;WCDO035;Page;Access;DetalleDocumentos;Interno;S
+2;SUPERVISOR;220;Pantalla WCDO036;WCDO036;Page;Access;DetDocumentoSAC;Interno;S
+2;SUPERVISOR;225;Pantalla WCDO066;WCDO066;Page;Access;ModDocEstadoRKF;Interno;S
+2;SUPERVISOR;216;Pantalla WCDO080;WCDO080;Page;Access;OrdenesIngreso;Interno;S
+2;SUPERVISOR;217;Pantalla WCDO081;WCDO081;Page;Access;DetDocumentos;Interno;S
+2;SUPERVISOR;166;Pantalla WCDO095;WCDO095;Section;Access;Documentos;Interno;S
+2;SUPERVISOR;185;Pantalla WCDO096;WCDO096;Section;Access;DocumentosIngreso;Interno;S
+2;SUPERVISOR;186;Pantalla WCDO097;WCDO097;Section;Access;DocumentosEgreso;Interno;S
+2;SUPERVISOR;223;Pantalla WCDO100;WCDO100;Page;Access;AsignacionIngresoEgreso;Interno;S
+2;SUPERVISOR;167;Pantalla WCDO120;WCDO120;Section;Access;HistorialCambioEstado;Interno;S
+2;SUPERVISOR;221;Pantalla WCDO171;WCDO171;Page;Access;Descargos;Interno;S
+2;SUPERVISOR;214;Pantalla WCDO260;WCDO260;Page;Access;CambioDeEstado;Interno;S
+2;SUPERVISOR;204;Pantalla WCDO280;WCDO280;Page;Access;VencimientoDocIng;Interno;S
+2;SUPERVISOR;203;Pantalla WCDO281;WCDO281;Page;Access;VenciminetoDocEgr;Interno;S
+2;SUPERVISOR;128;Pantalla WCOF000;WIMP000;Section;Access;ConfiguracionEstilos;Interno;S
+2;SUPERVISOR;80;Pantalla WCOF010;WCOF010;Page;Access;LenguajeImpresion;Interno;S
+2;SUPERVISOR;126;Pantalla WCOF025;WCOF025;Page;Access;LabelEstiloContenedores;Interno;S
+2;SUPERVISOR;16;Pantalla WCOF050;WCOF050;Page;Access;Traducciones;Interno;S
+2;SUPERVISOR;254;Pantalla WCOF060;WCOF060;Page;Access;Servidor;Interno;S
+2;SUPERVISOR;325;Pantalla WCOF070;WCOF070;Page;Access;Reportes;Interno;S
+2;SUPERVISOR;483;Pantalla WCOF080;WCOF080;Page;Access;ReportesEmpresa;Interno;S
+2;SUPERVISOR;271;Pantalla WEVT010;WEVT010;Page;Access;PanelEventos;Interno;S
+2;SUPERVISOR;273;Pantalla WEVT020;WEVT020;Page;Access;Contactos;Interno;S
+2;SUPERVISOR;274;Pantalla WEVT030;WEVT030;Page;Access;GruposContactos;Interno;S
+2;SUPERVISOR;277;Pantalla WEVT040;WEVT040;Page;Access;InstanciaEvento;Interno;S
+2;SUPERVISOR;278;Pantalla WEVT050;WEVT050;Page;Access;EventoMailSalida;Interno;S
+2;SUPERVISOR;176;Pantalla WEXP010;WEXP010;Page;Access;ArmarEgreso;Interno;S
+2;SUPERVISOR;255;Pantalla WEXP011;WEXP011;Page;Access;ArmarEgresoCont;Interno;S
+2;SUPERVISOR;442;Pantalla WEXP013;WEXP013;Page;Access;ArmarEgresoPedido;Interno;S
+2;SUPERVISOR;129;Pantalla WEXP040;WEXP040;Page;Access;Egresos;Interno;S
+2;SUPERVISOR;157;Pantalla WEXP041;WEXP041;Page;Access;PedidosExpedidos;Interno;S
+2;SUPERVISOR;369;Pantalla WEXP042;WEXP042;Page;Access;PuntosEntregaCamion;Interno;S
+2;SUPERVISOR;508;Pantalla WEXP043;WEXP043;Page;Access;PedidosPendientesCamion;Interno;S
+2;SUPERVISOR;131;Pantalla WEXP045;WEXP045;Page;Access;DetalleCamion;Interno;S
+2;SUPERVISOR;141;Pantalla WEXP050;WEXP050;Page;Access;PedidosInvolucrados;Interno;S
+2;SUPERVISOR;148;Pantalla WEXP051;WEXP051;Page;Access;ProdutosPedidosEgreso;Interno;S
+2;SUPERVISOR;149;Pantalla WEXP052;WEXP052;Page;Access;DocumentacionEgreso;Interno;S
+2;SUPERVISOR;228;Pantalla WEXP080;WEXP080;Page;Access;ModificarNumCarga_z;Interno;S
+2;SUPERVISOR;182;Pantalla WEXP090 Consulta de Cargas Asignadas;WEXP090;Page;Access;ConsultaDeCargasAsignadas;Interno;S
+2;SUPERVISOR;440;Pantalla WEXP110;WEXP110;Page;Access;FacturarPedidos_z;Interno;S
+2;SUPERVISOR;482;Pantalla WEXP120;WEXP120;Page;Access;EmpaquetadoPicking;Interno;S
+2;SUPERVISOR;205;Pantalla WEXP310;WEXP310;Page;Access;ConsolidacionMasiva;Interno;S
+2;SUPERVISOR;279;Pantalla WFAC;WFAC251;Page;Access;CodigoComponente;Interno;S
+2;SUPERVISOR;285;Pantalla WFAC001;WFAC001;Page;Access;EjecucionesFacturacion;Interno;S
+2;SUPERVISOR;306;Pantalla WFAC002;WFAC002;Page;Access;ResultadosCalculos;Interno;S
+2;SUPERVISOR;286;Pantalla WFAC003;WFAC003;Page;Access;CalcNoRealizadosPorError;Interno;S
+2;SUPERVISOR;322;Pantalla WFAC004;WFAC004;Page;Access;DetallesEjecucion;Interno;S
+2;SUPERVISOR;281;Pantalla WFAC005;WFAC005;Page;Access;EmpresaProceso;Interno;S
+2;SUPERVISOR;284;Pantalla WFAC006;WFAC006;Page;Access;ResultadoEjecucion;Interno;S
+2;SUPERVISOR;292;Pantalla WFAC007;WFAC007;Page;Access;IngresoResultadosManuales;Interno;S
+2;SUPERVISOR;287;Pantalla WFAC010;WFAC010;Page;Access;ProcesosEjecucion;Interno;S
+2;SUPERVISOR;357;Pantalla WFAC200;WFAC200;Page;Access;UnidadMedida;Interno;S
+2;SUPERVISOR;358;Pantalla WFAC230;WFAC230;Page;Access;UnidadMedidaEmp;Interno;S
+2;SUPERVISOR;346;Pantalla WFAC249;WFAC249;Page;Access;CodigoFacturacion;Interno;S
+2;SUPERVISOR;282;Pantalla WFAC255;WFAC255;Page;Access;ListaPrecios;Interno;S
+2;SUPERVISOR;283;Pantalla WFAC256;WFAC256;Page;Access;CotizacionListas;Interno;S
+2;SUPERVISOR;280;Pantalla WFAC405;WFAC405;Page;Access;CuentaContable;Interno;S
+2;SUPERVISOR;474;Pantalla WIMP011;WIMP011;Page;Access;Reimpresion;Interno;S
+2;SUPERVISOR;83;Pantalla WIMP050;WIMP050;Page;Access;ImpresionesGenerales;Interno;S
+2;SUPERVISOR;92;Pantalla WIMP060;WIMP060;Page;Access;ImpresionesGeneralesProductos;Interno;S
+2;SUPERVISOR;63;Pantalla WIMP100;WIMP100;Page;Access;ImpEtHijas;Interno;S
+2;SUPERVISOR;67;Pantalla WIMP101;WIMP101;Page;Access;ImpEtHijas;Interno;S
+2;SUPERVISOR;64;Pantalla WIMP110;WIMP110;Page;Access;Contenedores;Interno;S
+2;SUPERVISOR;69;Pantalla WIMP111;WIMP111;Page;Access;ClientesContenedores;Interno;S
+2;SUPERVISOR;65;Pantalla WIMP120;WIMP120;Page;Access;Equipos;Interno;S
+2;SUPERVISOR;57;Pantalla WIMP80;WIMP080;Page;Access;ImpEtRec;Interno;S
+2;SUPERVISOR;58;Pantalla WIMP90;WIMP090;Page;Access;ImpEtCon;Interno;S
+2;SUPERVISOR;208;Pantalla WINT030;WINT030;Page;Access;InterfacesExternas;Interno;S
+2;SUPERVISOR;207;Pantalla WINT031;WINT031;Page;Access;DetalleInterfacesExternas;Interno;S
+2;SUPERVISOR;20;Pantalla WINT050;WINT050;Page;Access;ConsultaInterfaz;Interno;S
+2;SUPERVISOR;239;Pantalla WINT052;WINT052;Page;Access;ConsultaInterfazCargada;Interno;S
+2;SUPERVISOR;132;Pantalla WINV010;WINV010;Page;Access;MarcadoUbicaciones;Interno;S
+2;SUPERVISOR;171;Pantalla WINV030;WINV030;Page;Access;AjustesDeStock;Interno;S
+2;SUPERVISOR;137;Pantalla WINV040;WINV040;Page;Access;LogInventario;Interno;S
+2;SUPERVISOR;194;Pantalla WINV050;WINV050;Page;Access;AvanceInventario;Interno;S
+2;SUPERVISOR;170;Pantalla WINV060;WINV060;Page;Access;AsignarMotivosAjuste;Interno;S
+2;SUPERVISOR;114;Pantalla WINV100;WINV100;Page;Access;AnalisisInventario;Interno;S
+2;SUPERVISOR;180;Pantalla WINV410;WINV410;Page;Access;PanelInventarios;Interno;S
+2;SUPERVISOR;190;Pantalla WINV411;WINV411;Page;Access;UbicacionesInventario;Interno;S
+2;SUPERVISOR;192;Pantalla WINV412;WINV412;Page;Access;DetalleDeConteos;Interno;S
+2;SUPERVISOR;193;Pantalla WINV413;WINV413;Page;Access;ConteosPendientes;Interno;S
+2;SUPERVISOR;260;Pantalla WINV413;WINV413;Page;Access;SeleccionDeRegStock;Interno;S
+2;SUPERVISOR;266;Pantalla WINV414;WINV414;Page;Access;ActualizarInventarios;Interno;S
+2;SUPERVISOR;521;Pantalla WINV415;WINV415;Page;Access;InvEnderecoDetError;Interno;S
+2;SUPERVISOR;276;Pantalla WORT010;WORT010;Page;Access;Tareas;Interno;S
+2;SUPERVISOR;301;Pantalla WORT020;WORT020;Page;Access;Insumos;Interno;S
+2;SUPERVISOR;304;Pantalla WORT030;WORT030;Page;Access;TrabajoManual;Interno;S
+2;SUPERVISOR;320;Pantalla WORT040;WORT040;Page;Access;OrdenTarea;Interno;S
+2;SUPERVISOR;317;Pantalla WORT050;WORT050;Page;Access;OrdenFuncionario;Interno;S
+2;SUPERVISOR;366;Pantalla WORT060;WORT060;Page;Access;OrdenTareaFuncionario;Interno;S
+2;SUPERVISOR;362;Pantalla WORT070;WORT070;Page;Access;TareaDato;Interno;S
+2;SUPERVISOR;367;Pantalla WORT090;WORT090;Page;Access;RegistroTareaAmigable;Interno;S
+2;SUPERVISOR;315;Pantalla WORT100;WORT100;Page;Access;PlantillasTareas;Interno;S
+2;SUPERVISOR;316;Pantalla WORT110;WORT110;Page;Access;PlantillasTareasDet;Interno;S
+2;SUPERVISOR;111;Pantalla WPAR110;WPAR110;Page;Access;UnidadesMedida;Interno;S
+2;SUPERVISOR;124;Pantalla WPAR170;WPAR170;Page;Access;OperacionesStock;Interno;S
+2;SUPERVISOR;125;Pantalla WPAR200;WPAR200;Page;Access;Secuencias;Interno;S
+2;SUPERVISOR;142;Pantalla WPAR260;WPAR260;Page;Access;TiposDeVehiculos;Interno;S
+2;SUPERVISOR;107;Pantalla WPAR604;WPAR604;Page;Access;TiposCodigosBarra;Interno;S
+2;SUPERVISOR;294;Pantalla WPOR010;WPOR010;Section;Access;RegitroEntrada;Interno;S
+2;SUPERVISOR;377;Pantalla WPRE005;WPRE005;Page;Access;ErroresColectorOffline_z;Interno;S
+2;SUPERVISOR;213;Pantalla WPRE050;WPRE050;Page;Access;LiberacionDeOnda;Interno;S
+2;SUPERVISOR;215;Pantalla WPRE051;WPRE051;Page;Access;PedidosPendLiberacion;Interno;S
+2;SUPERVISOR;209;Pantalla WPRE052;WPRE052;Page;Access;PanelLiberacion;Interno;S
+2;SUPERVISOR;168;Pantalla WPRE060;WPRE060;Page;Access;ConsultaContenedoresGen;Interno;S
+2;SUPERVISOR;169;Pantalla WPRE061;WPRE061;Page;Access;ConsultaDetPicking;Interno;S
+2;SUPERVISOR;197;Pantalla WPRE120;WPRE120;Page;Access;AnulacionPreparaciones;Interno;S
+2;SUPERVISOR;236;Pantalla WPRE121;WPRE121;Page;Access;AnulacionTotalPreparaciones;Interno;S
+2;SUPERVISOR;175;Pantalla WPRE130;WPRE130;Page;Access;ConsultaPreparaciones;Interno;S
+2;SUPERVISOR;184;Pantalla WPRE160;WPRE160;Page;Access;AvancePreparacion;Interno;S
+2;SUPERVISOR;187;Pantalla WPRE161;WPRE161;Page;Access;AvancePreparacionEmpresa;Interno;S
+2;SUPERVISOR;189;Pantalla WPRE162;WPRE162;Page;Access;AvancePreparacionPreparacion;Interno;S
+2;SUPERVISOR;210;Pantalla WPRE170;WPRE170;Page;Access;AnalisisRechazo;Interno;S
+2;SUPERVISOR;338;Pantalla WPRE220;WPRE220;Page;Access;ControlesPreparacion;Interno;S
+2;SUPERVISOR;341;Pantalla WPRE221;WPRE221;Page;Access;LogControlesPreparacion;Interno;S
+2;SUPERVISOR;183;Pantalla WPRE300 Creaci? y cierrede una preparaci? manual;WPRE300;Page;Access;PreparacionManual;Interno;S
+2;SUPERVISOR;163;Pantalla WPRE310;WPRE310;Page;Access;IniciarPickingEtiqueta;Interno;S
+2;SUPERVISOR;179;Pantalla WPRE320;WPRE320;Page;Access;FinalizarPickingEtiq;Interno;S
+2;SUPERVISOR;161;Pantalla WPRE330;WPRE330;Page;Access;TiemposPicking;Interno;S
+2;SUPERVISOR;337;Pantalla WPRE350;WPRE350;Page;Access;UbicacionesReabastecimiento;Interno;S
+2;SUPERVISOR;355;Pantalla WPRE360;WPRE360;Page;Access;StockPickingMal;Interno;S
+2;SUPERVISOR;372;Pantalla WPRE410;WPRE410;Page;Access;PanelAnulacion;Interno;S
+2;SUPERVISOR;371;Pantalla WPRE420;WPRE420;Page;Access;VerErrores;Interno;S
+2;SUPERVISOR;375;Pantalla WPRE430;WPRE430;Page;Access;LineasAnulacion;Interno;S
+2;SUPERVISOR;244;Pantalla WREC010;WREC010;Page;Access;RefRecepcion;Interno;S
+2;SUPERVISOR;245;Pantalla WREC011;WREC011;Page;Access;DETRefRecepcion;Interno;S
+2;SUPERVISOR;53;Pantalla WREC140;WREC140;Page;Access;LiberarDifRecepcion;Interno;S
+2;SUPERVISOR;258;Pantalla WREC141;WREC141;Page;Access;ProblemasRecepcion;Interno;S
+2;SUPERVISOR;38;Pantalla WREC150;WREC150;Page;Access;ConsultaEtiquetas;Interno;S
+2;SUPERVISOR;32;Pantalla WREC170;WREC170;Page;Access;PanelRecepcion;Interno;S
+2;SUPERVISOR;34;Pantalla WREC171;WREC171;Page;Access;DetallesAgenda;Interno;S
+2;SUPERVISOR;240;Pantalla WREC172;WREC172;Page;Access;RecepcionTipoExterno;Interno;S
+2;SUPERVISOR;241;Pantalla WREC173;WREC173;Page;Access;RecepcionRelEmpresaTipo;Interno;S
+2;SUPERVISOR;246;Pantalla WREC174;WREC174;Page;Access;RecepcionFactura;Interno;S
+2;SUPERVISOR;252;Pantalla WREC175;WREC175;Page;Access;LineasFacturas;Interno;S
+2;SUPERVISOR;345;Pantalla WREC176;WREC176;Page;Access;FacturaDesdeReferencia;Interno;S
+2;SUPERVISOR;40;Pantalla WREC180;WREC180;Page;Access;LogEtiquetas;Interno;S
+2;SUPERVISOR;147;Pantalla WREC220;WREC220;Page;Access;LiberarCrossDocking;Interno;S
+2;SUPERVISOR;143;Pantalla WREC240;WREC240;Page;Access;ConsultaCrossDocking;Interno;S
+2;SUPERVISOR;198;Pantalla WREC260;WREC260;Page;Access;DistribuirPedidosAbiertos;Interno;S
+2;SUPERVISOR;150;Pantalla WREC270;WREC270;Page;Access;ConvertirEtiquetas;Interno;S
+2;SUPERVISOR;268;Pantalla WREG000;WREG000;Page;Access;TestGrilla;Interno;S
+2;SUPERVISOR;237;Pantalla WREG009;WREG009;grid1;btn;Alta;Interno;S
+2;SUPERVISOR;238;Pantalla WREG009;WREG009;grid1;btn;Edit;Interno;S
+2;SUPERVISOR;61;Pantalla WREG009;WREG009;Page;Access;Productos;Interno;S
+2;SUPERVISOR;94;Pantalla WREG010;WREG010;Page;Access;Herramientas;Interno;S
+2;SUPERVISOR;95;Pantalla WREG020;WREG020;Page;Access;FamiliaProductos;Interno;S
+2;SUPERVISOR;96;Pantalla WREG030;WREG030;Page;Access;Rotatividad;Interno;S
+2;SUPERVISOR;72;Pantalla WREG035;WREG035;Page;Access;Clases;Interno;S
+2;SUPERVISOR;77;Pantalla WREG036;WREG036;Page;Access;SubClases;Interno;S
+2;SUPERVISOR;66;Pantalla WREG040;WREG040;Page;Access;AltaUbicacion;Interno;S
+2;SUPERVISOR;206;Pantalla WREG050;WREG050;Page;Access;AsignacionUbicacionesPick;Interno;S
+2;SUPERVISOR;73;Pantalla WREG060;WREG060;Page;Access;ProdSinUbicPrepa;Interno;S
+2;SUPERVISOR;98;Pantalla WREG080;WREG080;Page;Access;PuertaEmbarque;Interno;S
+2;SUPERVISOR;267;Pantalla WREG090;WREG090;Page;Access;RamosProducto;Interno;S
+2;SUPERVISOR;68;Pantalla WREG100;WREG100;Page;Access;Empresas;Interno;S
+2;SUPERVISOR;75;Pantalla WREG110;WREG110;Page;Access;MantenimientoPaises;Interno;S
+2;SUPERVISOR;59;Pantalla WREG120;WREG120;Page;Access;ConversionCodigosTraspaso;Interno;S
+2;SUPERVISOR;91;Pantalla WREG125;WREG125;Page;Access;CrearProductosTraspaso;Interno;S
+2;SUPERVISOR;81;Pantalla WREG130;WREG130;Page;Access;RutasEntregas;Interno;S
+2;SUPERVISOR;79;Pantalla WREG140;WREG140;Page;Access;Ondas;Interno;S
+2;SUPERVISOR;138;Pantalla WREG141;WREG141;Page;Access;MotivosAjusteStock;Interno;S
+2;SUPERVISOR;376;Pantalla WREG150;WREG150;Page;Access;Muestras;Interno;S
+2;SUPERVISOR;71;Pantalla WREG220;WREG220;Page;Access;Clientes;Interno;S
+2;SUPERVISOR;93;Pantalla WREG250;WREG250;Page;Access;Vehiculos;Interno;S
+2;SUPERVISOR;89;Pantalla WREG400;WREG400;Page;Access;UnidadesAlternas;Interno;S
+2;SUPERVISOR;97;Pantalla WREG410;WREG410;Page;Access;NAM;Interno;S
+2;SUPERVISOR;82;Pantalla WREG601;WREG601;Page;Access;ControlesCalidad;Interno;S
+2;SUPERVISOR;103;Pantalla WREG602;WREG602;Page;Access;ControlesCalidadProducto;Interno;S
+2;SUPERVISOR;84;Pantalla WREG602;WREG602;Page;Access;ControlesCalidadProductos;Interno;S
+2;SUPERVISOR;76;Pantalla WREG603;WREG603;Page;Access;CodigoBarras;Interno;S
+2;SUPERVISOR;87;Pantalla WREG605;WREG605;Page;Access;PalletProducto;Interno;S
+2;SUPERVISOR;243;Pantalla WRG001;WREG001;Section;Access;Registro;Interno;S
+2;SUPERVISOR;9;Pantalla WSEG031;WSEG031;Page;Access;EmpresasGrupos;Interno;S
+2;SUPERVISOR;10;Pantalla WSEG050;WSEG050;Page;Access;SesionesGestion;Interno;S
+2;SUPERVISOR;11;Pantalla WSEG060;WSEG060;Page;Access;LocksGestion;Interno;S
+2;SUPERVISOR;476;Pantalla WSEG080;WSEG080;Page;Access;UserPredio;Interno;S
+2;SUPERVISOR;391;Pantalla WSTO005;WSTO005;Page;Access;StockGeneralProducto;Interno;S
+2;SUPERVISOR;343;Pantalla WSTO030;WSTO030;Page;Access;TraceStock;Interno;S
+2;SUPERVISOR;56;Pantalla WSTO040;WSTO040;Page;Access;TraspasoStock;Interno;S
+2;SUPERVISOR;54;Pantalla WSTO060;WSTO060;Page;Access;AceptarControlesCalidad;Interno;S
+2;SUPERVISOR;51;Pantalla WSTO070;WSTO070;Page;Access;UbicacionesParaReabastecer;Interno;S
+2;SUPERVISOR;212;Pantalla WSTO090;WSTO090;Page;Access;MovimientosDeInventarioL;Interno;S
+2;SUPERVISOR;50;Pantalla WSTO110;WSTO110;Page;Access;ControlDeCalidad;Interno;S
+2;SUPERVISOR;48;Pantalla WSTO150;WSTO150;Page;Access;StockUbicacion;Interno;S
+2;SUPERVISOR;60;Pantalla WSTO150DET;WSTO150DET;Page;Access;StockUbicacion;Interno;S
+2;SUPERVISOR;242;Pantalla WSTO155;WSTO155;Page;Access;UbicacionesDisponivles;Interno;S
+2;SUPERVISOR;310;Pantalla WSTO210;WSTO210;Page;Access;StockEnvases_z;Interno;S
+2;SUPERVISOR;368;Pantalla WSTO310;WSTO310;Page;Access;Stock;Interno;S
+2;SUPERVISOR;62;Pantalla WSTO395;WSTO395;Page;Access;StockProducto;Interno;S
+2;SUPERVISOR;49;Pantalla WSTO498;WSTO498;Page;Access;StockPalletTranferencia;Interno;S
+2;SUPERVISOR;510;Pantalla WSTO500;WSTO500;Page;Access;StockPorProducto;Interno;S
+2;SUPERVISOR;511;Pantalla WSTO550;WSTO550;Page;Access;ProductoConMasReservaQueStock;Interno;S
+2;SUPERVISOR;403;Pantalla WSTO580;WSTO580;Page;Access;Existencia_z;Interno;S
+2;SUPERVISOR;234;Pantalla de Analisis de rechazos;WPRE052;Page;Access;AnalisisRechazos;Interno;S
+2;SUPERVISOR;202;Pantalla de ingreso de c?igo sac;WCDO135;Page;Access;IngresarCodigoSac;Interno;S
+2;SUPERVISOR;547;Pantalla de liberacion automatica;AUT010;Section;Access;LiberacionAutomatica;Interno;S
+2;SUPERVISOR;563;Pantalla de listado de contenedores por camion pendientes de control;WEXP575;Page;Access;ControlContenedoresCamion;Interno;S
+2;SUPERVISOR;529;Pantalla de relacion entere agenday referencia;WREC350;Page;Access;RelacionAgendaReferencia;Interno;S
+2;SUPERVISOR;21;Pantalla errores de ejecucion;WINT070;Page;Access;ErroresEjecucion;Interno;S
+2;SUPERVISOR;542;Pantalla log de envases;WSTO211;Page;Access;LogEnvases;Interno;S
+2;SUPERVISOR;456;Pantalla para desfacturar pedidos;WPRE510;Page;Access;DesfacturarPedidos_z;Interno;S
+2;SUPERVISOR;543;Pantalla predios;WREG705;Page;Access;Predios;Interno;S
+2;SUPERVISOR;466;Pantalla prueba 2;WFACPRUEB2;Page;;WFACPRUEB2_Page_Access;Interno;S
+2;SUPERVISOR;467;Pantalla prueba 3;WFACPRUE3;Page;;WFACPRUE3_Page_Access;Interno;S
+2;SUPERVISOR;468;Pantalla prueba 4;WFACPRUE4;Page;;WFACPRUE4_Page_Access;Interno;S
+2;SUPERVISOR;545;Pantalla retornos de bulto;EXP340;Page;Access;RetornoBulto;Interno;S
+2;SUPERVISOR;334;Permitir edici? en pantalla WPAR200;WPAR200;grid1;cell;Editable;Interno;S
+2;SUPERVISOR;427;Preparaci? Manual;PRD540;Page;Access;ColectorPreparacionManual_0;Interno;S
+2;SUPERVISOR;405;REC500_Page_Access_ColectorExpedicion;REC500;Page;Access;ColectorExpedicion;Interno;S
+2;SUPERVISOR;550;Recurso para acceso FULL PowerBI Indicadores;WPRO030;Page;Access;POWERBI_FULL;Interno;S
+2;SUPERVISOR;551;Recurso para acceso Parcial PowerBI Indicadores;WPRO030;Page;Access;POWERBI_PARCIAL;Interno;S
+2;SUPERVISOR;493;Registro de Pedido Expedido;WPAR605;Page;Access;RegistroPedidoExpedicion;Interno;S
+2;SUPERVISOR;503;Reserva Documental;DOC300;Page;Access;DocumentoProduccion;Interno;S
+2;SUPERVISOR;541;Saldo a Liberar;PRE670;Page;Access;SaldosALiberar;Interno;S
+2;SUPERVISOR;496;Saldo de Documentos;DOC020;Page;Access;SaldoDocumentos;Interno;S
+2;SUPERVISOR;492;Seccion inventario menu colectores;INV00;section;Access;InventarioMobile;Interno;S
+2;SUPERVISOR;548;Secci? Configuraci? Automatizacion;AUT000;Section;Access;Automatizacion;Interno;S
+2;SUPERVISOR;105;Secci? Configuraci? Impresi?;WIMP000;Section;Access;ConfiguracionImpresion;Interno;S
+2;SUPERVISOR;164;Secci? Control Dcoumental WCDO000;WCDO000;Section;Access;ControlDocumentall;Interno;S
+2;SUPERVISOR;144;Secci? Cross Docking;WREC000;Section;Access;CrossDocking_z;Interno;S
+2;SUPERVISOR;104;Secci? Dominios;WREG000;Section;Access;Dominios;Interno;S
+2;SUPERVISOR;272;Secci? Eventos;WEVT000;Section;Access;EventosZ;Interno;N
+2;SUPERVISOR;113;Secci? Inventario;WINV000;Section;Access;Inventario;Interno;S
+2;SUPERVISOR;133;Secci? Inventario C?lico;WINV000;Section;Access;InventarioCiclico;Interno;S
+2;SUPERVISOR;100;Secci? Mantenimiento;WREG000;Section;Access;Mantenimientos;Interno;S
+2;SUPERVISOR;101;Secci? Mantenimiento Preparaci?/Expedici?;WREG000;Section;Access;Mantenimientos_PreparacionExpedicion;Interno;S
+2;SUPERVISOR;102;Secci? Mantenimiento Ubicaciones;WREG000;Section;Access;Mantenimientos_Ubicaciones;Interno;S
+2;SUPERVISOR;106;Secci? Parametrizaci?;WPAR000;Section;Access;Parametrizacion;Interno;S
+2;SUPERVISOR;248;Secci? Pedidos;WPRE000;Section;Access;Pedidos;Interno;S
+2;SUPERVISOR;162;Secci? Picking;WPRE000;Section;Access;Picking;Interno;S
+2;SUPERVISOR;249;Secci? Preparaciones;WPRE000;Section;Access;Preparaciones;Interno;S
+2;SUPERVISOR;408;Secci? Producci?;KIT000;Section;Access;Produccion_z;Interno;S
+2;SUPERVISOR;462;Secci? Producci? Colector;KIT000;Section;Access;ProduccionMobile;Interno;S
+2;SUPERVISOR;99;Secci? Productos;WREG000;Section;Access;Productos;Interno;S
+2;SUPERVISOR;297;Section Tarea Facturacion;WORT000;Section;Access;Facturacion;Interno;S
+2;SUPERVISOR;530;Stock disponible detalle pedido;WPRE151;Page;Access;Stock_DetallesPedidos;Interno;S
+2;SUPERVISOR;115;Stock por Producto;WREG009;grid1;btn;StockPorProducto;Interno;S
+2;SUPERVISOR;296;Submenu Tarea Facturacion;Master;Menu;lbl;WORDENTAREA_TAREAS;Interno;S
+2;SUPERVISOR;14;Template de Etiquetas;WCOF030;Page;Access;EtiquetasTemplate;Interno;S
+2;SUPERVISOR;153;Tipo de Ubicaci?es WPAR050;WPAR050;Page;Access;TiposUbicacion;Interno;S
+2;SUPERVISOR;181;Tipos de Estructura de Stock;WPAR325;Page;Access;TiposEstructuraStock;Interno;S
+2;SUPERVISOR;90;Traspaso;WREG000;Section;Access;Traspaso;Interno;S
+2;SUPERVISOR;470;WPRE101_Page_Access_Puede_Insertar;WPRE101;Page;Access;Puede_Insertar;Interno;S
+2;SUPERVISOR;469;WPRE101_Page_Access_Puede_Modificar;WPRE101;Page;Access;Puede_Modificar;Interno;S
+2;SUPERVISOR;516;WPRE600_Page_Access_Pedido;WPRE600;Page;Access;Pedido;Interno;S
+2;SUPERVISOR;514;WPRE610_Page_Access_Pedido;WPRE610;Page;Access;Pedido;Interno;S
+2;SUPERVISOR;515;WPRE620_Page_Access_Pedido;WPRE620;Page;Access;Pedido;Interno;S
+2;SUPERVISOR;471;WSEG070_Page_Access_Usuarios;WSEG070;Page;Access;Usuarios;Interno;S
+2;SUPERVISOR;480;WSTO600_Page_Access_Traspaso;WSTO600;Page;Access;Traspaso;Interno;S
+2;SUPERVISOR;481;WSTO601_Page_Access_Traspaso;WSTO601;Page;Access;Traspaso;Interno;S
+2;SUPERVISOR;74;btn Asignar Ubicacion WREG060;WREG060;grid1;btn;AsignarUbicacion;Interno;S
+2;SUPERVISOR;495;?rdenes de Ingreso;DOC080;Page;Access;OrdenesIngreso;Interno;S
+5;SeguridadContrasenaModificar;2;Cambiar Contrase?;WSEG010;Page;Access;CambioPassword;Interno;S
+5;SeguridadContrasenaModificar;12;MenuConfiguracion;WCOF000;Section;Access;Configuracion;Interno;S
+5;SeguridadContrasenaModificar;1;Seguridad;WSEG000;Section;Access;Seguridad;Interno;S
+5;SeguridadContrasenaModificar;471;WSEG070_Page_Access_Usuarios;WSEG070;Page;Access;Usuarios;Interno;S
+7;StockAjustes;489;Colector ajuste de inventario;INV540;Page;Access;ColectorAjusteInventario;Interno;S

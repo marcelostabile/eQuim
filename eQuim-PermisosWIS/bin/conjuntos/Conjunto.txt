@@ -1,0 +1,102 @@
+package conjuntos;
+
+import javax.xml.transform.Templates;
+
+import tdas.*;
+
+public class Conjunto <T> extends Lista<T> implements IConjunto<T>{
+
+    /**
+     *  Este metodo union es orden cuadratico : O(N^2) , N siendo el largo del conjunto
+     */
+    @Override
+    public IConjunto<T> union(IConjunto<T> conjunto) {
+
+        IConjunto<T> resultado = new Conjunto<>();   // O(1)
+        Nodo<T> actual = this.getPrimero();    // O(1)
+        while(actual != null) {      // O(N)
+            Nodo<T> temp = new Nodo(actual.getEtiqueta(), actual.getDato());    // O(1)
+            resultado.insertar(temp);     // O(N)
+            actual = actual.getSiguiente();     // O(1)
+        }
+        actual = conjunto.getPrimero();     // O(1)
+
+        while(actual != null){      // O(N)
+            if(resultado.buscar(actual.getEtiqueta()) == null){     // O(N)
+                Nodo<T> temp = new Nodo(actual.getEtiqueta(), actual.getDato());    // O(1)
+                resultado.insertar(temp);     // O(N)
+            }
+            actual = actual.getSiguiente();     // O(1)
+        }
+        return resultado;      // O(1)
+    }   
+
+    /**
+     *  Este metodo interseccion es orden cuadratico : O(N^2), N siendo el largo del conjunto
+     */
+    @Override
+    public IConjunto<T> interseccion(IConjunto<T> conjunto) {
+
+        Conjunto<T> resultado = new Conjunto<T>();      // O(1)
+        INodo<T> actual =this.getPrimero();     // O(1)
+        while(actual!=null){        // O(N)
+            if(conjunto.buscar(actual.getEtiqueta()) != null){      // O(N)
+                INodo<T> temp = new Nodo(actual.getEtiqueta(),actual.getDato());    // O(1)
+                resultado.insertarUltimo(temp);     // O(N)
+            }
+            actual = actual.getSiguiente();     // O(1)
+        }
+        return resultado;       // O(1)
+        
+    }
+
+    /**
+     *  Este metodo diferenciaSimetrica es orden cuadratico : O(N^2), N siendo el largo del conjunto
+     */
+    @Override
+    public IConjunto<T> diferenciaSimetrica(IConjunto<T> conjunto) {
+        IConjunto<T> resultado = new Conjunto<>();      // O(1)
+        resultado = this.union(conjunto).diferencia(this.interseccion(conjunto));  // O(N^2)
+        return resultado;       // O(1)
+    }
+
+    /**
+     *  Este metodo diferencia es orden cuadratico : O(N^2) , N siendo el largo de los conjuntos
+     */
+    @Override
+    public IConjunto<T> diferencia(IConjunto<T> conjunto) {
+
+        Conjunto<T> resultado = new Conjunto<>();       // O(1)
+        INodo<T> actual = this.getPrimero();        // O(1)
+        while(actual != null){      // O(N)
+            INodo<T> temp = new Nodo(actual.getEtiqueta(),actual.getDato());    // O(1)
+            resultado.insertarUltimo(temp);     // O(N)
+            actual = actual.getSiguiente();     // O(1)
+        }
+        actual = conjunto.getPrimero();     // O(1)
+        while(actual != null){      // O(N)
+            resultado.eliminar(actual.getEtiqueta());    // O(N)
+            actual = actual.getSiguiente();     // O(1)
+        }   
+        return resultado;   // O(1)
+    }
+    
+    /* @Override
+    public IConjunto<T> productoCartesiano(IConjunto<T> conjunto) {
+        Conjunto<T> resultado = new Conjunto<>();       // O(1)
+        INodo<T> nodo = this.getPrimero();      // O(1)
+        INodo<T> aux = conjunto.getPrimero();
+
+        while(nodo != null){
+            while(aux != null){
+                INodo<T> temp = new Nodo<>(nodo.getEtiqueta(),nodo.getDato());
+                INodo<T> temp2 = new Nodo<>(aux.getEtiqueta(),aux.getDato());
+                INodo<T> tuplaNodo = new Nodo<>(temp.getEtiqueta(),"("+nodo.getDato().toString()","+aux.getDato().toString()+")");
+                resultado.insertarUltimo(tuplaNodo);
+                aux = aux.getSiguiente();
+            }
+            nodo = nodo.getSiguiente();
+        }   
+        return resultado;   // O(1)
+    } */
+}

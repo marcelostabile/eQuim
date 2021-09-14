@@ -1,0 +1,23 @@
+package conjuntos;
+
+import tdas.*;
+
+public interface IConjunto<T>{
+
+    public Nodo<T> buscar(Comparable clave);
+
+    public Nodo<T> getPrimero();
+
+    public boolean esVacia();
+
+    public IConjunto<T> union(Conjunto<T> conjunto);
+
+    public IConjunto<T> interseccion (Conjunto<T> conjunto);
+
+    public IConjunto<T> diferenciaSimetrica (Conjunto<T> conjunto);
+
+    public IConjunto<T> diferencia (Conjunto<T> conjunto);
+
+    //public IConjunto<T> productoCartesiano(IConjunto<T> conjunto);
+
+}
