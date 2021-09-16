@@ -2,9 +2,9 @@ package appGCI;
 
 public class Permiso {
     
-    private String tipo;            // 'TA'rea, 'TR'ansacción, 'FR'anja.
-    private String codigo; 
-    private String descripcion; 
+    private String perfilTipo;      // 'TA'rea, 'TR'ansacción, 'FR'anja.
+    private String codigo;          // Código tarea o transacción.
+    private String descripcion;     
     private String codSeguridad;    // Código de seguridad.
 
     private Integer trnEmpresa;
@@ -14,13 +14,11 @@ public class Permiso {
     public Permiso(String perfilTipo, String codigo, String descripcion, String codSeguridad) {
         switch (perfilTipo) {
             case "10":
-                this.tipo = "TA";
+                this.perfilTipo = "TA";
             case "60":
-                this.tipo = "TR";
-            case "*":
-                this.tipo = "*";
+                this.perfilTipo = "TR";
             default:
-                tipo = "";
+                perfilTipo = "";
         }
         this.codigo = codigo;
         this.descripcion = descripcion;
@@ -28,11 +26,11 @@ public class Permiso {
     }
 
     public String getTipo() {
-        return tipo;
+        return perfilTipo;
     }
 
     public void setTipo(String tipo) {
-        this.tipo = tipo;
+        this.perfilTipo = tipo;
     }
 
     public String getCodigo() {

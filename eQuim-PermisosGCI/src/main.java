@@ -1,9 +1,4 @@
 import appGCI.*;
-import archivos.*;
-import busqueda.*;
-import clasificacion.*;
-import tdas.*;
-import tdas_extras.*;
 
 public class main {
 
@@ -17,8 +12,12 @@ public class main {
 
         
         SeguridadGCI.armarReportePermisos();
+
+    }
+}
+
     //     /**
-    //      * MÉTODOS DE BÚSQUEDA.
+    //      * MÉTODOS DE BÚSQU4EDA.
     //      */
     //     System.out.println("MÉTODOS DE BÚSQUEDA\n");
 
@@ -62,18 +61,18 @@ public class main {
 
     // }
 
-    }
+    
 
-    /**
-     * Imprime por pantalla el contenido de una lista.
-     * @param lista
-     */
-    private static void imprimirLista(int[] lista) {
+//     /**
+//      * Imprime por pantalla el contenido de una lista.
+//      * @param lista
+//      */
+//     private static void imprimirLista(int[] lista) {
 
-        System.out.println("Imprimiendo lista:\n");
-        for (int i = 0; i <= lista.length-1; i++) {
-            System.out.println(lista[i]);
-        }
-    }
+//         System.out.println("Imprimiendo lista:\n");
+//         for (int i = 0; i <= lista.length-1; i++) {
+//             System.out.println(lista[i]);
+//         }
+//     }
 
-}
+// }

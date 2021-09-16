@@ -18,44 +18,57 @@ public class ManejadorArchivosExcel {
 		String archivo = rutaEntrada + nombreArchivo;
 
 		// Creamos la lista resultado.
-        List<String[]> listaResultado = new ArrayList<>();
+        ArrayList<String> listaResultado = new ArrayList<>();
 
-        try { 
+        try {
+            // Abrir el archivo. 
             FileInputStream inputStream = new FileInputStream(new File(archivo));
-
-			// Libro de trabajo y hoja.
+            // Leer el libro de trabajo.
             XSSFWorkbook libro = new XSSFWorkbook(inputStream);
+            // Leer la hoja 0 del libro.
             XSSFSheet hoja = libro.getSheetAt(0);
-
 			// Iterador de filas.
             Iterator<Row> iterador = hoja.iterator();
-
-			// Cálculo la cantidad de columnas para definir tamaño del array de fila.
+			// Determinar la cantidad de columnas para definir tamaño del array de fila.
 			int cantColumnas = hoja.getRow(0).getPhysicalNumberOfCells();
-
+            // variables para linea.
+            String linea = "";
+            Integer nroCampo = 0;
+			// Comenzamos la iteración fila a fila.
             DataFormatter formatoDatos = new DataFormatter();
-
-			String[] linea = new String[cantColumnas];
-			// Iteración de filas.
-            while (iterador.hasNext()) {
+            while ( iterador.hasNext() ) {
                 Row sigFila = iterador.next();
+                // Preparo el iterador de celdas.
                 Iterator<Cell> iteradorCelda = sigFila.cellIterator();
-				Integer nroCelda = 0;
+				// variables para linea.
+                linea = "";
+                nroCampo = 0;
                 // Iteración de celdas.
 				while(iteradorCelda.hasNext()) {
                     Cell celda = iteradorCelda.next();
+                    // Lee el contenido de la celda.
                     String contenidoCelda = formatoDatos.formatCellValue(celda);
-					linea[nroCelda] = contenidoCelda;
+                    System.out.println("Celda " + nroCampo + ": " + contenidoCelda);
+                    // Guardamos el contenido de la celda en la lista de linea.
+                    if ( iteradorCelda.hasNext() ) {
+                        linea = linea + contenidoCelda.toString() + ";";
+                    } else {
+                        linea = linea + contenidoCelda.toString();
+                    }
+                    //System.out.println(linea[nroCelda]);
                     //System.out.println("celda " + nroCelda + ": " + contenidoCelda);
-					nroCelda++;
+					nroCampo++;
                 }
+                // Guardamos la lista de linea en la lista resultado.
+                System.out.println("Guardamos linea: " + linea);
 				listaResultado.add(linea);
             }
+
         } catch (Exception e) {
             e.printStackTrace();
         }
 		// retornamos la lista resultado.
-        System.out.println("Elementos de la lista: " + listaResultado.size());
+        //System.out.println("Elementos de la lista: " + listaResultado.size());
 		return listaResultado.toArray(new String[0]);
     }
 }

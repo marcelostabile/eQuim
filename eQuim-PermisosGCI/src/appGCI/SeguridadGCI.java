@@ -1,5 +1,7 @@
 package appGCI;
 
+import java.util.ArrayList;
+
 import archivos.*;
 import tdas.*;
 
@@ -80,15 +82,17 @@ public class SeguridadGCI {
 
         // Procesar las lineas del excel.
         // En cada linea tenemos: usuario (id, nom) perfil (id, nom) permisos (string ABC123*)
-        Integer campos = 5;                     
+        Integer campos = 5; 
         for (String linea : lstUsuarios) { 
-            String[] reg = linea.split(";");    // ID_USUARIO; NOMBRE_USUARIO; ID_PERFIL; NOMBRE_PERFIL; PERMISOS
-            if (reg.length == campos) { 
+            System.out.println(linea); 
+            String[] reg = linea.split(";");                // ID_USUARIO; NOMBRE_USUARIO; ID_PERFIL; NOMBRE_PERFIL; PERMISOS
+            if (reg.length == campos && reg[0] != null) { 
                 // Usuario.
-                Usuario usuario = baseUsuarios.buscar(reg[0]).getDato();
-                if ( usuario == null) { 
-                    usuario = new Usuario(reg[0], reg[1]);
+                Usuario usuario = new Usuario(reg[0], reg[1]);
+                if ( baseUsuarios.buscar(usuario.getCodigo()) == null) { 
                     baseUsuarios.insertar(new Nodo<Usuario>(reg[0], usuario));
+                } else {
+                    usuario = baseUsuarios.buscar(reg[0]).getDato(); 
                 }
                 // Perfil.
                 Perfil perfil = new Perfil(Integer.parseInt(reg[2]), reg[3]);
