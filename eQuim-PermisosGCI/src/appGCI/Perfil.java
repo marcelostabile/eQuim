@@ -1,12 +1,12 @@
 package appGCI;
 
-import java.util.LinkedList;
+import tdas.*;
 
 public class Perfil {
     
     private Integer codigo;
     private String descripcion;
-    private LinkedList<Permiso> listaPermisos;
+    private Lista<Permiso> listaPermisos;
     
     public Perfil(Integer codigo, String descripcion) {
         this.codigo = codigo;
@@ -29,17 +29,18 @@ public class Perfil {
         this.descripcion = descripcion;
     }
 
-    public LinkedList<Permiso> getListaPermisos() {
+    public Lista<Permiso> getListaPermisos() {
         return listaPermisos;
     }
 
-    public void setListaPermisos(LinkedList<Permiso> listaPermisos) {
+    public void setListaPermisos(Lista<Permiso> listaPermisos) {
         this.listaPermisos = listaPermisos;
     }
 
     public void ingresarPermiso(Permiso permiso) {
-        if ( listaPermisos.contains(permiso) == false ) {
-            listaPermisos.add(permiso);
+        if ( listaPermisos.buscar(permiso.getCodigo()) == null ) {
+            Nodo<Permiso> nodoPermiso = new Nodo<Permiso>(permiso.getCodigo(), permiso);
+            listaPermisos.insertar(nodoPermiso);
         }
     }
     

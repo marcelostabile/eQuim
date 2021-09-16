@@ -1,10 +1,9 @@
 package archivos;
-    
+
 import java.io.File;
 import java.io.FileInputStream;
-import java.util.ArrayList;
-import java.util.Iterator;
- 
+import java.util.*;
+
 import org.apache.poi.ss.usermodel.Cell;
 import org.apache.poi.ss.usermodel.DataFormatter;
 import org.apache.poi.ss.usermodel.Row;
@@ -19,7 +18,7 @@ public class ManejadorArchivosExcel {
 		String archivo = rutaEntrada + nombreArchivo;
 
 		// Creamos la lista resultado.
-		ArrayList<String[]> listaResultado = new ArrayList<>();
+        List<String[]> listaResultado = new ArrayList<>();
 
         try { 
             FileInputStream inputStream = new FileInputStream(new File(archivo));
@@ -56,6 +55,7 @@ public class ManejadorArchivosExcel {
             e.printStackTrace();
         }
 		// retornamos la lista resultado.
+        System.out.println("Elementos de la lista: " + listaResultado.size());
 		return listaResultado.toArray(new String[0]);
     }
 }

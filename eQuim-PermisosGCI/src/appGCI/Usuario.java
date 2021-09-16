@@ -1,12 +1,12 @@
 package appGCI;
 
-import java.util.LinkedList;
+import tdas.*;
 
 public class Usuario {
 
     private String codigo;
     private String nombre;
-    public LinkedList<Perfil> listaPerfiles;
+    public Lista<Perfil> listaPerfiles;
     
     public Usuario(String codigo, String nombre) {
         this.codigo = codigo;
@@ -29,11 +29,11 @@ public class Usuario {
         this.nombre = nombre;
     }
 
-    public LinkedList<Perfil> getListaPerfiles() {
+    public Lista<Perfil> getListaPerfiles() {
         return listaPerfiles;
     }
 
-    public void setListaPerfiles(LinkedList<Perfil> listaPerfiles) {
+    public void setListaPerfiles(Lista<Perfil> listaPerfiles) {
         this.listaPerfiles = listaPerfiles;
     }
     
