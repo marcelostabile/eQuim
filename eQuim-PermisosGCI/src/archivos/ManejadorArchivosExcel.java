@@ -13,10 +13,9 @@ import org.apache.poi.xssf.usermodel.XSSFWorkbook;
  
 public class ManejadorArchivosExcel {
 
-	public static String[] leerArchivoExcel(String nombreArchivo) {
+	public static String[] leerArchivoExcel(String rutaEntrada, String nombreArchivo) {
 
         // ruta de entrada.
-        String rutaEntrada = "src\\entrada\\";
 		String archivo = rutaEntrada + nombreArchivo;
 
 		// Creamos la lista resultado.

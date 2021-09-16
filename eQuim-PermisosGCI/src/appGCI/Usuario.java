@@ -6,7 +6,7 @@ public class Usuario {
 
     private String codigo;
     private String nombre;
-    private LinkedList listaPerfiles;
+    public LinkedList<Perfil> listaPerfiles;
     
     public Usuario(String codigo, String nombre) {
         this.codigo = codigo;
@@ -29,11 +29,11 @@ public class Usuario {
         this.nombre = nombre;
     }
 
-    public LinkedList getListaPerfiles() {
+    public LinkedList<Perfil> getListaPerfiles() {
         return listaPerfiles;
     }
 
-    public void setListaPerfiles(LinkedList listaPerfiles) {
+    public void setListaPerfiles(LinkedList<Perfil> listaPerfiles) {
         this.listaPerfiles = listaPerfiles;
     }
     

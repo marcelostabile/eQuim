@@ -11,8 +11,17 @@ public class Permiso {
     private String trnTipoDoc;
     private String trnCodFranja; 
     
-    public Permiso(String tipo, String codigo, String descripcion, String codSeguridad) {
-        this.tipo = tipo;
+    public Permiso(String perfilTipo, String codigo, String descripcion, String codSeguridad) {
+        switch (perfilTipo) {
+            case "10":
+                this.tipo = "TA";
+            case "60":
+                this.tipo = "TR";
+            case "*":
+                this.tipo = "*";
+            default:
+                tipo = "";
+        }
         this.codigo = codigo;
         this.descripcion = descripcion;
         this.codSeguridad = codSeguridad;

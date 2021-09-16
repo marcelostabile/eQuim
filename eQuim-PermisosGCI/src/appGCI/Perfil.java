@@ -6,7 +6,7 @@ public class Perfil {
     
     private Integer codigo;
     private String descripcion;
-    private LinkedList listaPermisos;
+    private LinkedList<Permiso> listaPermisos;
     
     public Perfil(Integer codigo, String descripcion) {
         this.codigo = codigo;
@@ -29,12 +29,18 @@ public class Perfil {
         this.descripcion = descripcion;
     }
 
-    public LinkedList getListaPermisos() {
+    public LinkedList<Permiso> getListaPermisos() {
         return listaPermisos;
     }
 
-    public void setListaPermisos(LinkedList listaPermisos) {
+    public void setListaPermisos(LinkedList<Permiso> listaPermisos) {
         this.listaPermisos = listaPermisos;
     }
 
+    public void ingresarPermiso(Permiso permiso) {
+        if ( listaPermisos.contains(permiso) == false ) {
+            listaPermisos.add(permiso);
+        }
+    }
+    
 }
