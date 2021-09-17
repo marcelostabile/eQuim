@@ -1,13 +1,12 @@
 package appGCI;
 
-import java.util.ArrayList;
-
 import archivos.*;
 import tdas.*;
 
 public class SeguridadGCI {
     
     static String rutaEntrada = "src\\entrada\\";
+
     static String gciUsuarios = "CltaGCI_1_Usuarios.xlsx";
     static String gciTareas = "CltaGCI_2_Tareas.xlsx";
     static String gciTransacciones = "CltaGCI_3_Transacciones.xlsx";
@@ -16,10 +15,12 @@ public class SeguridadGCI {
     /**
      * Seguridad GCI.
      */
-    public static void armarReportePermisos() {
+    public static void armarReporteDePermisos() {
+
         // crear lista de permisos.
         Lista<Permiso> basePermisos = new Lista<>();
         crearListaPermisos(rutaEntrada, gciTareas, gciTransacciones, basePermisos);
+
         // crear lista de usuarios.
         Lista<Usuario> baseUsuarios = new Lista<>();
         crearListaUsuarios(rutaEntrada, gciUsuarios, baseUsuarios, basePermisos);
@@ -43,28 +44,26 @@ public class SeguridadGCI {
         for (String linea : lstTareas) {
             String[] reg = linea.split(";");
             if (reg.length == campos) { 
-                // Permiso tarea.
-                Permiso permiso = new Permiso("TA", reg[0], reg[2], reg[3]);
-                // Ingreso en la lista permisos.
-                basePermisos.insertar(new Nodo<Permiso>(permiso.getTipo() + "-" + permiso.getCodSeguridad(), permiso));
+                // Creamos el nuevo permiso tipo tarea.
+                Permiso permiso = new Permiso(reg[0], reg[2], reg[3], "");
+                // Ingreso el permiso en la lista.
+                String A = permiso.getTipo() + "-" + permiso.getClaveSeguridad();
+                System.out.println(A);
+                basePermisos.insertar(new Nodo<Permiso>(A, permiso));
             }
         }
         int cantidad = basePermisos.cantElementos();
         System.out.println("Permisos de tareas cargados: " + cantidad + "/" + lstTareas.length);
 
         // Permisos a partir de transacciones.
-        campos = 45;
         for (String linea: lstTransa) {
             String[] reg = linea.split(";");
-            if (reg.length == campos) {
-                // Permiso transa.
-                Permiso permiso = new Permiso("TR", reg[1], reg[2], reg[3]);
-                // Ingreso en la lista permisos.
-                basePermisos.insertar(new Nodo<Permiso>(permiso.getTipo() + "-" + permiso.getCodSeguridad(), permiso));
-            }
+            // Permiso transa.
+            Permiso permiso = new Permiso(reg[1], reg[2], reg[3], reg[0]);
+            // Ingreso en la lista permisos.
+            basePermisos.insertar(new Nodo<Permiso>(permiso.getTipo() + "-" + permiso.getClaveSeguridad(), permiso));
         }
         System.out.println("Permisos de transacciones cargados: " + (basePermisos.cantElementos()-cantidad) + "/" + lstTransa.length);
-    
     }
 
 
@@ -81,41 +80,46 @@ public class SeguridadGCI {
         String[] lstUsuarios = ManejadorArchivosExcel.leerArchivoExcel(rutaEntrada, archivoUsuarios);
 
         // Procesar las lineas del excel.
+
         // En cada linea tenemos: usuario (id, nom) perfil (id, nom) permisos (string ABC123*)
         Integer campos = 5; 
         for (String linea : lstUsuarios) { 
             System.out.println(linea); 
             String[] reg = linea.split(";");                // ID_USUARIO; NOMBRE_USUARIO; ID_PERFIL; NOMBRE_PERFIL; PERMISOS
             if (reg.length == campos && reg[0] != null) { 
+
                 // Usuario.
                 Usuario usuario = new Usuario(reg[0], reg[1]);
-                if ( baseUsuarios.buscar(usuario.getCodigo()) == null) { 
-                    baseUsuarios.insertar(new Nodo<Usuario>(reg[0], usuario));
+                if ( baseUsuarios.buscar(usuario.getCodigo()) == null) {
+                    baseUsuarios.insertar(new Nodo<Usuario>(usuario.getCodigo(), usuario));
                 } else {
-                    usuario = baseUsuarios.buscar(reg[0]).getDato(); 
+                    usuario = baseUsuarios.buscar(usuario.getCodigo()).getDato();
                 }
+
                 // Perfil.
                 Perfil perfil = new Perfil(Integer.parseInt(reg[2]), reg[3]);
+                if ( usuario.listaPerfiles.buscar(perfil.getCodigo()) == null ) {
+                    usuario.listaPerfiles.insertar(new Nodo<Perfil>(perfil.getCodigo(), perfil));
+                } else {
+                    perfil = usuario.listaPerfiles.buscar(perfil.getCodigo()).getDato();
+                }
+
                 // Permisos.
-                char[] regPermisos = reg[4].toCharArray();   // permisos (cadena ABC123*)
+                char[] regPermisos = reg[4].toCharArray();      // permisos (cadena ABC123*)
                 for (char c : regPermisos) {
+
                     // Creamos el permiso a partir de una letra.
-                    Permiso permiso = new Permiso(reg[2], String.valueOf(c), "", String.valueOf(c));
-                    permiso.setDescripcion(basePermisos.buscar(permiso.getTipo() + "-" + permiso.getCodSeguridad()).getDato().getDescripcion());
-                    // Verificamos si existe en la lista de permisos del usuario.
-                    Nodo<Perfil> nodoPerfil = usuario.listaPerfiles.buscar( perfil.getCodigo() );
-                    if ( nodoPerfil == null ) {
-                        perfil.ingresarPermiso(permiso);
-                        usuario.listaPerfiles.insertar(new Nodo<Perfil>(perfil.getCodigo(), perfil));
-                    } else {
-                        nodoPerfil.getDato().ingresarPermiso(permiso);
-                    }
+                    Permiso permiso = new Permiso(perfil.getCodigo().toString(), "", String.valueOf(c), "");
+                    permiso.setDescripcion(basePermisos.buscar(permiso.getTipo() + "-" + permiso.getClaveSeguridad()).getDato().getDescripcion());
+                    
+                    perfil.agregarPermiso(permiso);
                 }
             }
         }
         //System.out.println("Permisos de transacciones cargados: " + (basePermisos.cantElementos()-cantidad) + "/" + lstTransa.length);
 
     }
+
 }
 
 

@@ -6,7 +6,7 @@ public class Perfil {
     
     private Integer codigo;
     private String descripcion;
-    private Lista<Permiso> listaPermisos;
+    private Lista<Permiso> listaPermisos = new Lista<>();
     
     public Perfil(Integer codigo, String descripcion) {
         this.codigo = codigo;
@@ -37,10 +37,13 @@ public class Perfil {
         this.listaPermisos = listaPermisos;
     }
 
-    public void ingresarPermiso(Permiso permiso) {
+    /**
+     * Agregar un permiso en la lista de permisos de este perfil.
+     * @param permiso
+     */
+    public void agregarPermiso(Permiso permiso) {
         if ( listaPermisos.buscar(permiso.getCodigo()) == null ) {
-            Nodo<Permiso> nodoPermiso = new Nodo<Permiso>(permiso.getCodigo(), permiso);
-            listaPermisos.insertar(nodoPermiso);
+            listaPermisos.insertar(new Nodo<Permiso>(permiso.getCodigo(), permiso));
         }
     }
     

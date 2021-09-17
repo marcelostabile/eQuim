@@ -6,7 +6,7 @@ public class Usuario {
 
     private String codigo;
     private String nombre;
-    public Lista<Perfil> listaPerfiles;
+    public Lista<Perfil> listaPerfiles = new Lista<>();
     
     public Usuario(String codigo, String nombre) {
         this.codigo = codigo;
