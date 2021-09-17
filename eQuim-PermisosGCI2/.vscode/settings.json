@@ -1,0 +1,11 @@
+{
+    "java.project.sourcePaths": [
+        "src",
+        "test"
+    ],
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "lib/junit-platform-console-standalone-1.8.0-M1.jar"
+    ],
+    "java.project.outputPath": "bin"
+}
