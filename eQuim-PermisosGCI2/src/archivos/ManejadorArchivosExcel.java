@@ -48,7 +48,7 @@ public class ManejadorArchivosExcel {
                     Cell celda = iteradorCelda.next();
                     // Lee el contenido de la celda.
                     String contenidoCelda = formatoDatos.formatCellValue(celda);
-                    System.out.println("Celda " + nroCampo + ": " + contenidoCelda);
+                    //System.out.println("Celda " + nroCampo + ": " + contenidoCelda);
                     // Guardamos el contenido de la celda en la lista de linea.
                     if ( iteradorCelda.hasNext() ) {
                         linea = linea + contenidoCelda.toString() + ";";
@@ -60,7 +60,7 @@ public class ManejadorArchivosExcel {
 					nroCampo++;
                 }
                 // Guardamos la lista de linea en la lista resultado.
-                System.out.println("Guardamos linea: " + linea);
+                //System.out.println("Guardamos linea: " + linea);
 				listaResultado.add(linea);
             }
 
