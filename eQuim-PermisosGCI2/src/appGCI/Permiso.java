@@ -1,36 +1,29 @@
 package appGCI;
 
 public class Permiso {
-    
-    private String perfilTipo;      // 'TA'rea, 'TR'ansacción, 'FR'anja.
-    private String codigo;          // Código tarea o transacción.
+
+    private String codigo;
     private String descripcion;     
-    private String codSeguridad;    // Código de seguridad.
+    private String claveSeguridad;
+    private String tipo;
+    private String empresa;
 
-    private Integer trnEmpresa;
-    private String trnTipoDoc;
-    private String trnCodFranja; 
-    
-    public Permiso(String perfilTipo, String codigo, String descripcion, String codSeguridad) {
-        switch (perfilTipo) {
+    public Permiso(String Codigo, String Descripcion, String ClaveSeguridad, String Empresa) {
+
+        this.codigo = Codigo;
+        this.descripcion = Descripcion;
+        this.claveSeguridad = ClaveSeguridad;
+        switch (Codigo) {
             case "10":
-                this.perfilTipo = "TA";
+                this.tipo = "Aplicación";
             case "60":
-                this.perfilTipo = "TR";
+                this.tipo = "Tarea";
+            case "*":
+                this.tipo = "Todo";
             default:
-                perfilTipo = "";
+                tipo = "";
         }
-        this.codigo = codigo;
-        this.descripcion = descripcion;
-        this.codSeguridad = codSeguridad;
-    }
-
-    public String getTipo() {
-        return perfilTipo;
-    }
-
-    public void setTipo(String tipo) {
-        this.perfilTipo = tipo;
+        this.empresa = Empresa;
     }
 
     public String getCodigo() {
@@ -49,36 +42,27 @@ public class Permiso {
         this.descripcion = descripcion;
     }
 
-    public String getCodSeguridad() {
-        return codSeguridad;
+    public String getClaveSeguridad() {
+        return claveSeguridad;
     }
 
-    public void setCodSeguridad(String codSeguridad) {
-        this.codSeguridad = codSeguridad;
+    public void setClaveSeguridad(String claveSeguridad) {
+        this.claveSeguridad = claveSeguridad;
     }
 
-    public Integer getTrnEmpresa() {
-        return trnEmpresa;
+    public String getEmpresa() {
+        return empresa;
     }
 
-    public void setTrnEmpresa(Integer trnEmpresa) {
-        this.trnEmpresa = trnEmpresa;
+    public void setEmpresa(String empresa) {
+        this.empresa = empresa;
+    }
+    public String getTipo() {
+        return tipo;
     }
 
-    public String getTrnTipoDoc() {
-        return trnTipoDoc;
+    public void setTipo(String tipo) {
+        this.tipo = tipo;
     }
 
-    public void setTrnTipoDoc(String trnTipoDoc) {
-        this.trnTipoDoc = trnTipoDoc;
-    }
-
-    public String getTrnCodFranja() {
-        return trnCodFranja;
-    }
-
-    public void setTrnCodFranja(String trnCodFranja) {
-        this.trnCodFranja = trnCodFranja;
-    }
-    
 }
